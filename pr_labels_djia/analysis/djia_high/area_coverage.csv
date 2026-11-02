@@ -1,0 +1,13 @@
+area_id,research_area,frameworks_in_codebook,frameworks_used,companies,exchanges,pct_of_labeled_exchanges,pct_of_all_exchanges
+01,Strategic management & systems,12,11,34,361,21.5,1.8
+02,Publics & PUBLIC OPINION,10,3,13,19,1.1,0.1
+03,"Media, issues & framing",12,5,34,517,30.8,2.6
+04,Relationships & dialogue,11,10,34,359,21.4,1.8
+05,"Issues, risk & crisis",15,12,33,245,14.6,1.2
+06,"Reputation, image & legitimacy",9,8,35,370,22.0,1.8
+07,"Rhetoric, discourse & meaning",9,8,36,491,29.2,2.4
+08,"Critical, cultural & power",13,0,0,0,0.0,0.0
+09,"Digital, networked & AI",10,6,14,36,2.1,0.2
+10,Internal & employee communication,9,7,18,40,2.4,0.2
+11,"Global, intercultural & diplomacy",10,4,14,35,2.1,0.2
+12,"Ethics, citizenship & advocacy",12,9,23,139,8.3,0.7

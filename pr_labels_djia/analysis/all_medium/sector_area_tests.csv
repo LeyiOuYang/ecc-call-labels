@@ -1,0 +1,14 @@
+area_id,research_area,labeled_exchanges,pct_all_sectors,chi_square,cramers_v,permutation_p,q_value,significant,profile_permutation_p,profile_q_value,highest_sector,highest_pct,lowest_sector,lowest_pct,max_to_min_ratio,sectors_over_1_5x
+01,Strategic management & systems,726,2.71,110.7,0.064,0.26007399260073993,0.3588,False,0.9321067893210679,0.9321,Health Care,5.31,Information Technology,1.47,3.6,1.0
+02,Publics & PUBLIC OPINION,50,0.19,58.2,0.047,0.0425957404259574,0.0852,False,0.20417958204179582,0.3042,Health Care,0.71,Energy,0.0,,2.0
+03,"Media, issues & framing",833,3.11,410.4,0.124,9.999000099990002e-05,0.0012,True,0.0098990100989901,0.0396,Health Care,8.56,Consumer Discretionary,1.26,6.8,1.0
+04,Relationships & dialogue,932,3.48,87.9,0.057,0.6916308369163083,0.7545,False,0.061493850614938506,0.1476,Consumer Discretionary,5.18,Energy,1.45,3.6,0.0
+05,"Issues, risk & crisis",488,1.82,186.9,0.084,0.018998100189981004,0.0675,False,0.11148885111488852,0.1911,Health Care,4.6,Consumer Discretionary,0.46,10.0,1.0
+06,"Reputation, image & legitimacy",769,2.87,165.1,0.079,0.008099190080991902,0.0486,True,0.0023997600239976003,0.0288,Health Care,5.94,Materials,1.11,5.4,2.0
+07,"Rhetoric, discourse & meaning",765,2.86,156.3,0.076,0.022497750224977502,0.0675,False,0.22817718228177183,0.3042,Health Care,5.98,Consumer Discretionary,1.39,4.3,2.0
+08,"Critical, cultural & power",7,0.03,7.0,0.016,0.8539146085391461,0.8539,False,0.5733426657334266,0.6701,Industrials,0.06,Communication Services,0.0,,0.0
+09,"Digital, networked & AI",75,0.28,114.6,0.065,0.037696230376962306,0.0852,False,0.009599040095990401,0.0396,Consumer Discretionary,1.01,Energy,0.0,,2.0
+10,Internal & employee communication,95,0.35,29.0,0.033,0.26907309269073093,0.3588,False,0.0254974502549745,0.0765,Consumer Staples,0.79,Financials,0.09,8.8,1.0
+11,"Global, intercultural & diplomacy",71,0.27,27.2,0.032,0.6783321667833216,0.7545,False,0.6142385761423858,0.6701,Consumer Discretionary,0.72,Materials,0.11,6.5,2.0
+12,"Ethics, citizenship & advocacy",340,1.27,129.9,0.07,0.0724927507249275,0.1243,False,0.08699130086991301,0.174,Energy,3.23,Financials,0.54,6.0,2.0
+all,All research areas (omnibus: sum of chi-square statistics),3431,12.82,1483.0,,0.0020997900209979003,,,0.0011998800119988001,,,,,,,

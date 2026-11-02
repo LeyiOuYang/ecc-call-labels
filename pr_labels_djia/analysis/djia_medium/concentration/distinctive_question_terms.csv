@@ -1,0 +1,205 @@
+group,group_name,rank,term,exchanges_with_term,z
+labeled,Exchanges with any framework label,1,drug,67,4.94
+labeled,Exchanges with any framework label,2,litigation,40,4.79
+labeled,Exchanges with any framework label,3,regulatory,66,4.75
+labeled,Exchanges with any framework label,4,regulators,34,4.62
+labeled,Exchanges with any framework label,5,administration,38,4.44
+labeled,Exchanges with any framework label,6,faa,22,4.41
+labeled,Exchanges with any framework label,7,drug pricing,20,4.09
+labeled,Exchanges with any framework label,8,pfas,22,3.83
+labeled,Exchanges with any framework label,9,carbon,22,3.75
+labeled,Exchanges with any framework label,10,risk,143,3.74
+labeled,Exchanges with any framework label,11,reports,33,3.71
+labeled,Exchanges with any framework label,12,government,46,3.65
+unlabeled,Exchanges without a label,1,quarter,3761,4.64
+unlabeled,Exchanges without a label,2,margin,1318,3.79
+unlabeled,Exchanges without a label,3,growth,3025,3.7
+unlabeled,Exchanges without a label,4,year,3949,3.01
+unlabeled,Exchanges without a label,5,half,1001,2.87
+unlabeled,Exchanges without a label,6,gross,627,2.86
+unlabeled,Exchanges without a label,7,margins,970,2.72
+unlabeled,Exchanges without a label,8,gross margin,431,2.63
+unlabeled,Exchanges without a label,9,mix,745,2.55
+unlabeled,Exchanges without a label,10,ratio,298,2.23
+unlabeled,Exchanges without a label,11,rate,1208,2.23
+unlabeled,Exchanges without a label,12,basis,867,2.22
+03.05,Framing Theory,1,drug pricing,18,4.26
+03.05,Framing Theory,2,drug,40,3.74
+03.05,Framing Theory,3,proposal,19,3.34
+03.05,Framing Theory,4,administration,23,3.26
+03.05,Framing Theory,5,carbon,15,3.05
+03.05,Framing Theory,6,rebate,16,2.91
+03.05,Framing Theory,7,california,17,2.85
+03.05,Framing Theory,8,pbms,9,2.6
+03.05,Framing Theory,9,washington,11,2.49
+03.05,Framing Theory,10,proposed,12,2.37
+03.05,Framing Theory,11,rebates,15,2.31
+03.05,Framing Theory,12,regulatory,26,2.24
+07.02,Apologia and organizational defense,1,litigation,19,2.8
+07.02,Apologia and organizational defense,2,legal,12,1.78
+07.02,Apologia and organizational defense,3,reports,12,1.69
+07.02,Apologia and organizational defense,4,news,17,1.65
+07.02,Apologia and organizational defense,5,settlement,9,1.62
+07.02,Apologia and organizational defense,6,ceo,13,1.42
+07.02,Apologia and organizational defense,7,press,19,1.31
+07.02,Apologia and organizational defense,8,outcome,9,1.29
+07.02,Apologia and organizational defense,9,regulators,8,1.25
+07.02,Apologia and organizational defense,10,regulatory,14,1.18
+07.02,Apologia and organizational defense,11,concerns,12,1.09
+07.02,Apologia and organizational defense,12,fda,8,1.07
+04.04,Relationship cultivation strategies,1,partners,9,0.72
+04.04,Relationship cultivation strategies,2,able,20,0.64
+04.04,Relationship cultivation strategies,3,long-term,15,0.63
+04.04,Relationship cultivation strategies,4,investor,10,0.59
+04.04,Relationship cultivation strategies,5,weeks,8,0.58
+04.04,Relationship cultivation strategies,6,cetera,11,0.58
+04.04,Relationship cultivation strategies,7,customer,14,0.55
+04.04,Relationship cultivation strategies,8,appreciate,20,0.54
+04.04,Relationship cultivation strategies,9,value,14,0.47
+04.04,Relationship cultivation strategies,10,plan,16,0.46
+04.04,Relationship cultivation strategies,11,wondered,8,0.46
+04.04,Relationship cultivation strategies,12,approach,8,0.45
+04.06,Organizational listening,1,conversations,16,1.64
+04.06,Organizational listening,2,feedback,10,1.21
+04.06,Organizational listening,3,lending,8,0.79
+04.06,Organizational listening,4,customers,23,0.74
+04.06,Organizational listening,5,execution,8,0.72
+04.06,Organizational listening,6,people,16,0.65
+04.06,Organizational listening,7,initiatives,13,0.64
+04.06,Organizational listening,8,success,9,0.6
+04.06,Organizational listening,9,value,15,0.57
+04.06,Organizational listening,10,platform,8,0.49
+04.06,Organizational listening,11,recently,11,0.46
+04.06,Organizational listening,12,important,10,0.44
+07.01,Rhetorical Theory of Public Relations,1,investors,29,1.5
+07.01,Rhetorical Theory of Public Relations,2,ceo,12,1.38
+07.01,Rhetorical Theory of Public Relations,3,shareholders,9,1.19
+07.01,Rhetorical Theory of Public Relations,4,boeing,10,1.17
+07.01,Rhetorical Theory of Public Relations,5,drug,10,0.88
+07.01,Rhetorical Theory of Public Relations,6,without,10,0.78
+07.01,Rhetorical Theory of Public Relations,7,head,8,0.77
+07.01,Rhetorical Theory of Public Relations,8,happened,10,0.75
+07.01,Rhetorical Theory of Public Relations,9,news,8,0.73
+07.01,Rhetorical Theory of Public Relations,10,five years,8,0.72
+07.01,Rhetorical Theory of Public Relations,11,times,13,0.68
+07.01,Rhetorical Theory of Public Relations,12,company,21,0.64
+06.06,Legitimacy Theory,1,drug pricing,10,2.5
+06.06,Legitimacy Theory,2,drug,20,1.95
+06.06,Legitimacy Theory,3,washington,8,1.91
+06.06,Legitimacy Theory,4,administration,11,1.62
+06.06,Legitimacy Theory,5,pbm,9,1.6
+06.06,Legitimacy Theory,6,rebate,8,1.51
+06.06,Legitimacy Theory,7,regulators,8,1.32
+06.06,Legitimacy Theory,8,government,12,1.29
+06.06,Legitimacy Theory,9,regulatory,12,1.09
+06.06,Legitimacy Theory,10,boeing,9,1.06
+06.06,Legitimacy Theory,11,healthcare,9,0.99
+06.06,Legitimacy Theory,12,industry,23,0.89
+04.02,Relationship Management Theory,1,franchisees,12,1.79
+04.02,Relationship Management Theory,2,relationships,10,1.51
+04.02,Relationship Management Theory,3,rewards,9,1.37
+04.02,Relationship Management Theory,4,retention,8,1.12
+04.02,Relationship Management Theory,5,relationship,10,0.89
+04.02,Relationship Management Theory,6,partners,10,0.85
+04.02,Relationship Management Theory,7,clients,9,0.81
+04.02,Relationship Management Theory,8,contracts,8,0.74
+04.02,Relationship Management Theory,9,card,11,0.66
+04.02,Relationship Management Theory,10,customers,21,0.66
+04.02,Relationship Management Theory,11,customer,14,0.6
+04.02,Relationship Management Theory,12,marketing,9,0.59
+06.01,Organizational reputation formation,1,brand,20,1.77
+06.01,Organizational reputation formation,2,litigation,8,1.15
+06.01,Organizational reputation formation,3,safety,8,0.76
+06.01,Organizational reputation formation,4,concerns,8,0.74
+06.01,Organizational reputation formation,5,decision,11,0.7
+06.01,Organizational reputation formation,6,innovation,10,0.69
+06.01,Organizational reputation formation,7,china,22,0.68
+06.01,Organizational reputation formation,8,long-term,13,0.54
+06.01,Organizational reputation formation,9,likely,9,0.49
+06.01,Organizational reputation formation,10,reason,8,0.45
+06.01,Organizational reputation formation,11,results,14,0.44
+06.01,Organizational reputation formation,12,whether,28,0.42
+05.01,Issues Management Theory,1,regulatory,9,0.82
+05.01,Issues Management Theory,2,concerns,8,0.79
+05.01,Issues Management Theory,3,risk,18,0.74
+05.01,Issues Management Theory,4,potential,23,0.62
+05.01,Issues Management Theory,5,impact,34,0.61
+05.01,Issues Management Theory,6,exposure,8,0.59
+05.01,Issues Management Theory,7,issue,11,0.57
+05.01,Issues Management Theory,8,thoughts,21,0.54
+05.01,Issues Management Theory,9,issues,10,0.44
+05.01,Issues Management Theory,10,customer,10,0.42
+05.01,Issues Management Theory,11,china,14,0.41
+05.01,Issues Management Theory,12,broadly,9,0.38
+01.05,Contingency Theory of Accommodation,1,proposal,11,2.05
+01.05,Contingency Theory of Accommodation,2,basel,8,1.48
+01.05,Contingency Theory of Accommodation,3,government,13,1.47
+01.05,Contingency Theory of Accommodation,4,administration,8,1.19
+01.05,Contingency Theory of Accommodation,5,regulatory,11,1.05
+01.05,Contingency Theory of Accommodation,6,drug,10,0.96
+01.05,Contingency Theory of Accommodation,7,returns,8,0.62
+01.05,Contingency Theory of Accommodation,8,process,11,0.54
+01.05,Contingency Theory of Accommodation,9,potential,19,0.49
+01.05,Contingency Theory of Accommodation,10,issue,9,0.46
+01.05,Contingency Theory of Accommodation,11,months,12,0.41
+01.05,Contingency Theory of Accommodation,12,pricing,20,0.39
+06.04,Impression Management Theory,1,investors,13,0.63
+06.04,Impression Management Theory,2,press,8,0.57
+06.04,Impression Management Theory,3,company,13,0.41
+06.04,Impression Management Theory,4,issues,8,0.34
+06.04,Impression Management Theory,5,risk,10,0.33
+06.04,Impression Management Theory,6,things,20,0.32
+06.04,Impression Management Theory,7,confidence,8,0.3
+06.04,Impression Management Theory,8,wonder,8,0.29
+06.04,Impression Management Theory,9,competitive,9,0.29
+06.04,Impression Management Theory,10,least,10,0.28
+06.04,Impression Management Theory,11,strategy,10,0.27
+06.04,Impression Management Theory,12,time,19,0.24
+01.07,Stakeholder salience,1,early,12,0.41
+01.07,Stakeholder salience,2,chain,8,0.34
+01.07,Stakeholder salience,3,cost,15,0.3
+01.07,Stakeholder salience,4,supply,9,0.25
+01.07,Stakeholder salience,5,wanted,27,0.24
+01.07,Stakeholder salience,6,risk,8,0.24
+01.07,Stakeholder salience,7,thoughts,12,0.23
+01.07,Stakeholder salience,8,earlier,9,0.22
+01.07,Stakeholder salience,9,potentially,9,0.22
+01.07,Stakeholder salience,10,commentary,8,0.21
+01.07,Stakeholder salience,11,time,17,0.2
+01.07,Stakeholder salience,12,given,23,0.19
+12.04,CSR / corporate citizenship frameworks,1,carbon,14,3.03
+12.04,CSR / corporate citizenship frameworks,2,technology,10,0.71
+12.04,CSR / corporate citizenship frameworks,3,projects,8,0.48
+12.04,CSR / corporate citizenship frameworks,4,industry,12,0.44
+12.04,CSR / corporate citizenship frameworks,5,return,8,0.39
+12.04,CSR / corporate citizenship frameworks,6,customers,12,0.37
+12.04,CSR / corporate citizenship frameworks,7,capital,15,0.35
+12.04,CSR / corporate citizenship frameworks,8,focus,11,0.32
+12.04,CSR / corporate citizenship frameworks,9,product,12,0.29
+12.04,CSR / corporate citizenship frameworks,10,capex,8,0.29
+12.04,CSR / corporate citizenship frameworks,11,hoping,10,0.26
+12.04,CSR / corporate citizenship frameworks,12,investments,8,0.25
+01.10,Resource dependence theory,1,faa,11,2.72
+01.10,Resource dependence theory,2,max,10,0.98
+01.10,Resource dependence theory,3,government,8,0.89
+01.10,Resource dependence theory,4,production,15,0.75
+01.10,Resource dependence theory,5,issues,11,0.58
+01.10,Resource dependence theory,6,month,8,0.51
+01.10,Resource dependence theory,7,china,14,0.51
+01.10,Resource dependence theory,8,ramp,8,0.49
+01.10,Resource dependence theory,9,looking,18,0.37
+01.10,Resource dependence theory,10,current,9,0.34
+01.10,Resource dependence theory,11,risk,9,0.33
+01.10,Resource dependence theory,12,potential,13,0.32
+12.08,Social responsibility / legitimacy,1,covid,8,0.48
+12.08,Social responsibility / legitimacy,2,part,13,0.35
+12.08,Social responsibility / legitimacy,3,future,8,0.34
+12.08,Social responsibility / legitimacy,4,comments,12,0.25
+12.08,Social responsibility / legitimacy,5,potentially,8,0.23
+12.08,Social responsibility / legitimacy,6,thinking,18,0.23
+12.08,Social responsibility / legitimacy,7,potential,10,0.22
+12.08,Social responsibility / legitimacy,8,thoughts,9,0.18
+12.08,Social responsibility / legitimacy,9,comment,11,0.18
+12.08,Social responsibility / legitimacy,10,big,10,0.17
+12.08,Social responsibility / legitimacy,11,new,13,0.17
+12.08,Social responsibility / legitimacy,12,last,17,0.14

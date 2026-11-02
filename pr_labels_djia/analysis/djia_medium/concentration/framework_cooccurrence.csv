@@ -1,0 +1,45 @@
+theory_id_a,theory_a,theory_id_b,theory_b,exchanges,lift
+03.05,Framing Theory,06.06,Legitimacy Theory,93,1.85
+03.05,Framing Theory,07.02,Apologia and organizational defense,79,0.92
+01.05,Contingency Theory of Accommodation,03.05,Framing Theory,68,2.12
+03.05,Framing Theory,07.01,Rhetorical Theory of Public Relations,62,1.17
+07.01,Rhetorical Theory of Public Relations,07.02,Apologia and organizational defense,39,1.22
+03.05,Framing Theory,05.01,Issues Management Theory,36,0.91
+06.01,Organizational reputation formation,07.02,Apologia and organizational defense,34,1.19
+06.06,Legitimacy Theory,07.02,Apologia and organizational defense,34,1.12
+05.04,Image Repair Theory,07.02,Apologia and organizational defense,33,3.6
+04.04,Relationship cultivation strategies,04.06,Organizational listening,32,1.52
+04.02,Relationship Management Theory,04.04,Relationship cultivation strategies,31,1.6
+06.06,Legitimacy Theory,07.01,Rhetorical Theory of Public Relations,28,1.51
+06.04,Impression Management Theory,07.02,Apologia and organizational defense,26,1.37
+03.05,Framing Theory,06.01,Organizational reputation formation,23,0.48
+03.05,Framing Theory,12.08,Social responsibility / legitimacy,23,1.08
+06.06,Legitimacy Theory,12.08,Social responsibility / legitimacy,19,2.53
+03.05,Framing Theory,12.04,CSR / corporate citizenship frameworks,19,0.71
+01.05,Contingency Theory of Accommodation,07.01,Rhetorical Theory of Public Relations,18,1.52
+01.05,Contingency Theory of Accommodation,06.06,Legitimacy Theory,18,1.59
+06.04,Impression Management Theory,07.01,Rhetorical Theory of Public Relations,18,1.55
+04.02,Relationship Management Theory,06.01,Organizational reputation formation,17,1.05
+01.04,Open-systems and boundary spanning,04.06,Organizational listening,17,6.21
+01.07,Stakeholder salience,03.05,Framing Theory,15,0.53
+04.06,Organizational listening,07.01,Rhetorical Theory of Public Relations,15,0.76
+03.02,Agenda-Building,07.02,Apologia and organizational defense,14,4.07
+01.08,Mixed-motive game-theoretic PR,03.05,Framing Theory,14,0.75
+01.05,Contingency Theory of Accommodation,04.06,Organizational listening,13,1.09
+12.04,CSR / corporate citizenship frameworks,12.12,Corporate social responsibility communication,13,7.32
+04.02,Relationship Management Theory,04.06,Organizational listening,13,0.72
+03.05,Framing Theory,06.04,Impression Management Theory,12,0.38
+01.10,Resource dependence theory,03.05,Framing Theory,12,0.45
+04.04,Relationship cultivation strategies,06.01,Organizational reputation formation,12,0.63
+03.05,Framing Theory,05.04,Image Repair Theory,12,0.79
+04.04,Relationship cultivation strategies,06.04,Impression Management Theory,11,0.88
+04.04,Relationship cultivation strategies,07.02,Apologia and organizational defense,11,0.32
+05.04,Image Repair Theory,06.06,Legitimacy Theory,11,2.06
+01.05,Contingency Theory of Accommodation,07.02,Apologia and organizational defense,11,0.57
+03.05,Framing Theory,05.02,Contingency Theory of Conflict Management,11,1.36
+01.05,Contingency Theory of Accommodation,01.08,Mixed-motive game-theoretic PR,10,2.37
+05.01,Issues Management Theory,07.02,Apologia and organizational defense,10,0.42
+04.06,Organizational listening,06.01,Organizational reputation formation,10,0.57
+06.06,Legitimacy Theory,12.04,CSR / corporate citizenship frameworks,10,1.07
+03.05,Framing Theory,04.06,Organizational listening,10,0.19
+05.02,Contingency Theory of Conflict Management,07.02,Apologia and organizational defense,10,2.05

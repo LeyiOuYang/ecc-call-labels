@@ -1,0 +1,4 @@
+variant,framework_labels,spearman_vs_base,top10_overlap,top20_overlap
+without_interaction_questions,3717,0.997,9,20
+high_confidence,2846,0.96,10,19
+all_exchanges,5579,0.985,9,19

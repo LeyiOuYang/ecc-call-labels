@@ -1,0 +1,12 @@
+row,population,population_exchanges,exchanges,pct_all_sectors,chi_square,cramers_v,permutation_p,q_value,significant,highest_sector,highest_pct,lowest_sector,lowest_pct
+D2 Information disclosure,all exchanges,26769,25206,94.16,168.5,0.079,0.014098590140985901,0.0517,False,Consumer Staples,96.31,Energy,91.03
+D3 Reputation repair,all exchanges,26769,6966,26.02,220.3,0.091,0.30396960303969606,0.3344,False,Consumer Staples,32.21,Energy,18.91
+D4 Sociopolitical stance,all exchanges,26769,453,1.69,203.8,0.087,0.048995100489951,0.1078,False,Health Care,4.2,Consumer Discretionary,0.38
+D5 Relational engagement,all exchanges,26769,2196,8.2,188.8,0.084,0.10868913108689131,0.1494,False,Consumer Staples,12.86,Communication Services,5.24
+D6 Interpretive framing,all exchanges,26769,18915,70.66,515.4,0.139,0.06779322067793221,0.1243,False,Consumer Staples,80.27,Industrials,63.46
+D8 Commitments and actions,all exchanges,26769,8928,33.35,866.4,0.18,0.0026997300269973002,0.0297,True,Communication Services,51.78,Financials,21.6
+D9 Timing and follow-up,all exchanges,26769,3329,12.44,158.6,0.077,0.35766423357664234,0.3577,False,Communication Services,16.52,Materials,7.81
+D3 Reputation repair | among exchanges whose question raised a threat,exchanges whose question raised a threat,10934,6966,63.71,175.2,0.127,0.0438956104389561,0.1078,False,Communication Services,71.94,Financials,54.09
+D3 Defensive (D3.01-D3.07) | among exchanges whose question raised a threat,exchanges whose question raised a threat,10934,6272,57.36,170.6,0.125,0.006799320067993201,0.0374,True,Information Technology,66.71,Financials,50.64
+D3 Accommodative (D3.08-D3.12) | among exchanges whose question raised a threat,exchanges whose question raised a threat,10934,1769,16.18,241.9,0.149,0.1004899510048995,0.1494,False,Consumer Staples,24.46,Financials,8.07
+D4 Sociopolitical stance | among exchanges involving a sociopolitical issue,exchanges involving a sociopolitical issue,1696,453,26.71,62.7,0.192,0.24497550244975502,0.2994,False,Communication Services,43.16,Consumer Discretionary,10.23

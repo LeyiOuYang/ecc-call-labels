@@ -1,0 +1,514 @@
+dimension_id,code,category,population,sector,sector_companies,sector_population,exchanges,pct_of_population,pct_company_mean,pct_all_sectors,ratio_to_all_sectors,companies_above_overall,top_company,top_company_share
+D2,D2.01,Factual disclosure,all exchanges,Communication Services,3,1489,1372,92.14,92.09,89.58,1.03,3,VZ,36.8
+D2,D2.01,Factual disclosure,all exchanges,Consumer Discretionary,4,2375,2179,91.75,92.48,89.58,1.02,3,HD,44.4
+D2,D2.01,Factual disclosure,all exchanges,Consumer Staples,4,2139,1969,92.05,92.2,89.58,1.03,3,PG,28.9
+D2,D2.01,Factual disclosure,all exchanges,Energy,2,2073,1779,85.82,86.18,89.58,0.96,1,XOM,52.6
+D2,D2.01,Factual disclosure,all exchanges,Financials,5,4473,3891,86.99,88.03,89.58,0.97,2,GS,26.3
+D2,D2.01,Factual disclosure,all exchanges,Health Care,5,2978,2762,92.75,92.87,89.58,1.04,5,AMGN,21.3
+D2,D2.01,Factual disclosure,all exchanges,Industrials,6,4852,4195,86.46,87.01,89.58,0.97,2,MMM,22.6
+D2,D2.01,Factual disclosure,all exchanges,Information Technology,7,3600,3357,93.25,93.93,89.58,1.04,6,INTC,18.4
+D2,D2.01,Factual disclosure,all exchanges,Materials,3,2790,2475,88.71,91.4,89.58,0.99,2,SHW,59.4
+D2,D2.02,Causal explanation,all exchanges,Communication Services,3,1489,1156,77.64,77.72,72.02,1.08,3,VZ,35.3
+D2,D2.02,Causal explanation,all exchanges,Consumer Discretionary,4,2375,1722,72.51,76.3,72.02,1.01,3,HD,38.9
+D2,D2.02,Causal explanation,all exchanges,Consumer Staples,4,2139,1709,79.9,79.9,72.02,1.11,3,PG,30.1
+D2,D2.02,Causal explanation,all exchanges,Energy,2,2073,1355,65.36,65.83,72.02,0.91,0,XOM,51.1
+D2,D2.02,Causal explanation,all exchanges,Financials,5,4473,3189,71.29,72.95,72.02,0.99,2,JPM,26.2
+D2,D2.02,Causal explanation,all exchanges,Health Care,5,2978,2110,70.85,70.9,72.02,0.98,3,UNH,22.2
+D2,D2.02,Causal explanation,all exchanges,Industrials,6,4852,3243,66.84,67.83,72.02,0.93,2,MMM,20.8
+D2,D2.02,Causal explanation,all exchanges,Information Technology,7,3600,2891,80.31,81.96,72.02,1.12,6,INTC,18.5
+D2,D2.02,Causal explanation,all exchanges,Materials,3,2790,1904,68.24,73.63,72.02,0.95,2,SHW,55.3
+D2,D2.03,Evidence provision,all exchanges,Communication Services,3,1489,461,30.96,30.84,26.64,1.16,3,VZ,38.6
+D2,D2.03,Evidence provision,all exchanges,Consumer Discretionary,4,2375,788,33.18,34.33,26.64,1.25,4,HD,41.5
+D2,D2.03,Evidence provision,all exchanges,Consumer Staples,4,2139,691,32.3,32.0,26.64,1.21,2,PG,46.2
+D2,D2.03,Evidence provision,all exchanges,Energy,2,2073,386,18.62,18.91,26.64,0.7,0,CVX,53.4
+D2,D2.03,Evidence provision,all exchanges,Financials,5,4473,944,21.1,22.84,26.64,0.79,1,GS,23.7
+D2,D2.03,Evidence provision,all exchanges,Health Care,5,2978,1069,35.9,36.32,26.64,1.35,4,PFE,26.7
+D2,D2.03,Evidence provision,all exchanges,Industrials,6,4852,972,20.03,20.95,26.64,0.75,2,HON,20.3
+D2,D2.03,Evidence provision,all exchanges,Information Technology,7,3600,1216,33.78,35.33,26.64,1.27,5,CSCO,20.6
+D2,D2.03,Evidence provision,all exchanges,Materials,3,2790,605,21.68,24.33,26.64,0.81,1,SHW,51.7
+D2,D2.04,Uncertainty acknowledgment,all exchanges,Communication Services,3,1489,408,27.4,27.59,26.16,1.05,2,DIS,34.8
+D2,D2.04,Uncertainty acknowledgment,all exchanges,Consumer Discretionary,4,2375,482,20.29,19.86,26.16,0.78,0,HD,46.1
+D2,D2.04,Uncertainty acknowledgment,all exchanges,Consumer Staples,4,2139,599,28.0,27.66,26.16,1.07,1,PG,36.4
+D2,D2.04,Uncertainty acknowledgment,all exchanges,Energy,2,2073,476,22.96,23.13,26.16,0.88,0,XOM,50.8
+D2,D2.04,Uncertainty acknowledgment,all exchanges,Financials,5,4473,1555,34.76,34.74,26.16,1.33,5,JPM,32.5
+D2,D2.04,Uncertainty acknowledgment,all exchanges,Health Care,5,2978,952,31.97,32.2,26.16,1.22,4,PFE,26.9
+D2,D2.04,Uncertainty acknowledgment,all exchanges,Industrials,6,4852,1250,25.76,25.77,26.16,0.98,3,MMM,21.1
+D2,D2.04,Uncertainty acknowledgment,all exchanges,Information Technology,7,3600,726,20.17,19.51,26.16,0.77,0,AAPL,22.6
+D2,D2.04,Uncertainty acknowledgment,all exchanges,Materials,3,2790,554,19.86,21.75,26.16,0.76,0,SHW,54.0
+D2,D2.05,Correction or clarification,all exchanges,Communication Services,3,1489,204,13.7,13.72,12.68,1.08,3,T,35.3
+D2,D2.05,Correction or clarification,all exchanges,Consumer Discretionary,4,2375,239,10.06,10.59,12.68,0.79,0,HD,38.1
+D2,D2.05,Correction or clarification,all exchanges,Consumer Staples,4,2139,311,14.54,14.12,12.68,1.15,3,PG,36.3
+D2,D2.05,Correction or clarification,all exchanges,Energy,2,2073,235,11.34,11.44,12.68,0.89,0,CVX,50.2
+D2,D2.05,Correction or clarification,all exchanges,Financials,5,4473,717,16.03,16.02,12.68,1.26,3,TRV,31.1
+D2,D2.05,Correction or clarification,all exchanges,Health Care,5,2978,421,14.14,14.22,12.68,1.12,3,PFE,29.0
+D2,D2.05,Correction or clarification,all exchanges,Industrials,6,4852,548,11.29,11.42,12.68,0.89,2,CAT,21.9
+D2,D2.05,Correction or clarification,all exchanges,Information Technology,7,3600,448,12.44,12.08,12.68,0.98,3,INTC,23.0
+D2,D2.05,Correction or clarification,all exchanges,Materials,3,2790,271,9.71,10.13,12.68,0.77,0,SHW,58.3
+D2,D2.06,Disclosure boundary,all exchanges,Communication Services,3,1489,100,6.72,6.81,4.07,1.65,3,DIS,40.0
+D2,D2.06,Disclosure boundary,all exchanges,Consumer Discretionary,4,2375,67,2.82,3.16,4.07,0.69,2,AMZN,29.9
+D2,D2.06,Disclosure boundary,all exchanges,Consumer Staples,4,2139,93,4.35,4.2,4.07,1.07,2,WBA,50.5
+D2,D2.06,Disclosure boundary,all exchanges,Energy,2,2073,73,3.52,3.57,4.07,0.86,0,CVX,52.1
+D2,D2.06,Disclosure boundary,all exchanges,Financials,5,4473,169,3.78,4.03,4.07,0.93,3,TRV,33.1
+D2,D2.06,Disclosure boundary,all exchanges,Health Care,5,2978,208,6.98,6.9,4.07,1.72,5,PFE,29.8
+D2,D2.06,Disclosure boundary,all exchanges,Industrials,6,4852,131,2.7,2.81,4.07,0.66,1,CAT,32.1
+D2,D2.06,Disclosure boundary,all exchanges,Information Technology,7,3600,142,3.94,3.5,4.07,0.97,2,AAPL,47.9
+D2,D2.06,Disclosure boundary,all exchanges,Materials,3,2790,107,3.84,2.59,4.07,0.94,1,SHW,88.8
+D2,D2.07,Protective instruction,all exchanges,Communication Services,3,1489,2,0.13,0.14,0.02,7.19,1,T,100.0
+D2,D2.07,Protective instruction,all exchanges,Consumer Discretionary,4,2375,0,0.0,0.0,0.02,0.0,0,,
+D2,D2.07,Protective instruction,all exchanges,Consumer Staples,4,2139,0,0.0,0.0,0.02,0.0,0,,
+D2,D2.07,Protective instruction,all exchanges,Energy,2,2073,0,0.0,0.0,0.02,0.0,0,,
+D2,D2.07,Protective instruction,all exchanges,Financials,5,4473,1,0.02,0.02,0.02,1.2,1,JPM,100.0
+D2,D2.07,Protective instruction,all exchanges,Health Care,5,2978,2,0.07,0.07,0.02,3.6,2,MRK,50.0
+D2,D2.07,Protective instruction,all exchanges,Industrials,6,4852,0,0.0,0.0,0.02,0.0,0,,
+D2,D2.07,Protective instruction,all exchanges,Information Technology,7,3600,0,0.0,0.0,0.02,0.0,0,,
+D2,D2.07,Protective instruction,all exchanges,Materials,3,2790,0,0.0,0.0,0.02,0.0,0,,
+D2,D2.08,Process update,all exchanges,Communication Services,3,1489,117,7.86,7.87,5.74,1.37,3,T,41.9
+D2,D2.08,Process update,all exchanges,Consumer Discretionary,4,2375,81,3.41,3.41,5.74,0.59,1,MCD,44.4
+D2,D2.08,Process update,all exchanges,Consumer Staples,4,2139,99,4.63,4.22,5.74,0.81,1,WBA,48.5
+D2,D2.08,Process update,all exchanges,Energy,2,2073,201,9.7,9.88,5.74,1.69,2,CVX,55.2
+D2,D2.08,Process update,all exchanges,Financials,5,4473,119,2.66,2.94,5.74,0.46,1,GS,37.0
+D2,D2.08,Process update,all exchanges,Health Care,5,2978,398,13.36,13.5,5.74,2.33,4,PFE,35.2
+D2,D2.08,Process update,all exchanges,Industrials,6,4852,311,6.41,6.86,5.74,1.12,3,BA,29.6
+D2,D2.08,Process update,all exchanges,Information Technology,7,3600,86,2.39,2.37,5.74,0.42,0,INTC,40.7
+D2,D2.08,Process update,all exchanges,Materials,3,2790,124,4.44,5.82,5.74,0.77,2,SHW,36.3
+D3,D3.01,Denial,exchanges whose question raised a threat,Communication Services,3,563,22,3.91,3.87,1.98,1.97,3,VZ,59.1
+D3,D3.01,Denial,exchanges whose question raised a threat,Consumer Discretionary,4,899,6,0.67,0.62,1.98,0.34,0,HD,66.7
+D3,D3.01,Denial,exchanges whose question raised a threat,Consumer Staples,4,1010,22,2.18,1.78,1.98,1.1,1,PG,72.7
+D3,D3.01,Denial,exchanges whose question raised a threat,Energy,2,620,12,1.94,1.94,1.98,0.98,0,CVX,50.0
+D3,D3.01,Denial,exchanges whose question raised a threat,Financials,5,1710,31,1.81,1.94,1.98,0.91,1,GS,25.8
+D3,D3.01,Denial,exchanges whose question raised a threat,Health Care,5,1195,38,3.18,3.18,1.98,1.6,4,PFE,28.9
+D3,D3.01,Denial,exchanges whose question raised a threat,Industrials,6,2249,43,1.91,1.87,1.98,0.96,4,BA,25.6
+D3,D3.01,Denial,exchanges whose question raised a threat,Information Technology,7,1529,21,1.37,1.2,1.98,0.69,2,CSCO,38.1
+D3,D3.01,Denial,exchanges whose question raised a threat,Materials,3,1159,22,1.9,2.2,1.98,0.96,1,DD,45.5
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,Communication Services,3,563,3,0.53,0.55,0.44,1.21,2,DIS,66.7
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,Consumer Discretionary,4,899,0,0.0,0.0,0.44,0.0,0,,
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,Consumer Staples,4,1010,2,0.2,0.2,0.44,0.45,0,KO,50.0
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,Energy,2,620,8,1.29,1.29,0.44,2.94,2,CVX,62.5
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,Financials,5,1710,2,0.12,0.09,0.44,0.27,1,GS,100.0
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,Health Care,5,1195,17,1.42,1.23,0.44,3.24,3,PFE,82.4
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,Industrials,6,2249,7,0.31,0.33,0.44,0.71,2,BA,42.9
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,Information Technology,7,1529,5,0.33,0.38,0.44,0.74,3,AAPL,40.0
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,Materials,3,1159,4,0.35,0.36,0.44,0.79,0,SHW,50.0
+D3,D3.03,Excuse,exchanges whose question raised a threat,Communication Services,3,563,80,14.21,14.39,16.46,0.86,1,DIS,47.5
+D3,D3.03,Excuse,exchanges whose question raised a threat,Consumer Discretionary,4,899,176,19.58,20.38,16.46,1.19,4,HD,30.7
+D3,D3.03,Excuse,exchanges whose question raised a threat,Consumer Staples,4,1010,218,21.58,20.77,16.46,1.31,4,PG,39.9
+D3,D3.03,Excuse,exchanges whose question raised a threat,Energy,2,620,85,13.71,13.71,16.46,0.83,0,CVX,51.8
+D3,D3.03,Excuse,exchanges whose question raised a threat,Financials,5,1710,180,10.53,11.29,16.46,0.64,0,GS,37.8
+D3,D3.03,Excuse,exchanges whose question raised a threat,Health Care,5,1195,150,12.55,12.42,16.46,0.76,0,JNJ,32.7
+D3,D3.03,Excuse,exchanges whose question raised a threat,Industrials,6,2249,338,15.03,15.37,16.46,0.91,2,HON,21.3
+D3,D3.03,Excuse,exchanges whose question raised a threat,Information Technology,7,1529,359,23.48,23.17,16.46,1.43,6,CSCO,28.1
+D3,D3.03,Excuse,exchanges whose question raised a threat,Materials,3,1159,214,18.46,19.07,16.46,1.12,3,SHW,51.9
+D3,D3.04,Justification,exchanges whose question raised a threat,Communication Services,3,563,120,21.31,21.17,12.15,1.75,3,T,41.7
+D3,D3.04,Justification,exchanges whose question raised a threat,Consumer Discretionary,4,899,105,11.68,12.06,12.15,0.96,2,MCD,39.0
+D3,D3.04,Justification,exchanges whose question raised a threat,Consumer Staples,4,1010,151,14.95,13.83,12.15,1.23,1,PG,51.7
+D3,D3.04,Justification,exchanges whose question raised a threat,Energy,2,620,115,18.55,18.52,12.15,1.53,2,CVX,54.8
+D3,D3.04,Justification,exchanges whose question raised a threat,Financials,5,1710,208,12.16,12.42,12.15,1.0,3,GS,26.9
+D3,D3.04,Justification,exchanges whose question raised a threat,Health Care,5,1195,165,13.81,13.88,12.15,1.14,2,PFE,29.7
+D3,D3.04,Justification,exchanges whose question raised a threat,Industrials,6,2249,225,10.0,9.79,12.15,0.82,1,BA,36.4
+D3,D3.04,Justification,exchanges whose question raised a threat,Information Technology,7,1529,167,10.92,10.58,12.15,0.9,2,INTC,32.3
+D3,D3.04,Justification,exchanges whose question raised a threat,Materials,3,1159,73,6.3,6.22,12.15,0.52,0,SHW,57.5
+D3,D3.05,Minimization,exchanges whose question raised a threat,Communication Services,3,563,72,12.79,12.85,12.61,1.01,1,DIS,37.5
+D3,D3.05,Minimization,exchanges whose question raised a threat,Consumer Discretionary,4,899,94,10.46,10.43,12.61,0.83,0,HD,35.1
+D3,D3.05,Minimization,exchanges whose question raised a threat,Consumer Staples,4,1010,106,10.5,10.57,12.61,0.83,2,KO,34.9
+D3,D3.05,Minimization,exchanges whose question raised a threat,Energy,2,620,55,8.87,8.79,12.61,0.7,1,CVX,78.2
+D3,D3.05,Minimization,exchanges whose question raised a threat,Financials,5,1710,306,17.89,18.6,12.61,1.42,4,JPM,31.0
+D3,D3.05,Minimization,exchanges whose question raised a threat,Health Care,5,1195,173,14.48,14.08,12.61,1.15,3,JNJ,30.6
+D3,D3.05,Minimization,exchanges whose question raised a threat,Industrials,6,2249,301,13.38,13.9,12.61,1.06,4,CAT,22.6
+D3,D3.05,Minimization,exchanges whose question raised a threat,Information Technology,7,1529,141,9.22,9.48,12.61,0.73,1,INTC,24.1
+D3,D3.05,Minimization,exchanges whose question raised a threat,Materials,3,1159,131,11.3,12.22,12.61,0.9,1,SHW,45.8
+D3,D3.06,Bolstering,exchanges whose question raised a threat,Communication Services,3,563,292,51.87,51.75,38.87,1.33,3,VZ,36.0
+D3,D3.06,Bolstering,exchanges whose question raised a threat,Consumer Discretionary,4,899,381,42.38,45.32,38.87,1.09,3,MCD,28.6
+D3,D3.06,Bolstering,exchanges whose question raised a threat,Consumer Staples,4,1010,451,44.65,42.5,38.87,1.15,2,PG,43.2
+D3,D3.06,Bolstering,exchanges whose question raised a threat,Energy,2,620,238,38.39,38.43,38.87,0.99,1,XOM,52.9
+D3,D3.06,Bolstering,exchanges whose question raised a threat,Financials,5,1710,507,29.65,31.74,38.87,0.76,1,GS,28.0
+D3,D3.06,Bolstering,exchanges whose question raised a threat,Health Care,5,1195,538,45.02,44.04,38.87,1.16,4,JNJ,30.3
+D3,D3.06,Bolstering,exchanges whose question raised a threat,Industrials,6,2249,727,32.33,32.79,38.87,0.83,0,BA,20.1
+D3,D3.06,Bolstering,exchanges whose question raised a threat,Information Technology,7,1529,753,49.25,50.39,38.87,1.27,7,INTC,21.9
+D3,D3.06,Bolstering,exchanges whose question raised a threat,Materials,3,1159,363,31.32,30.65,38.87,0.81,0,SHW,58.4
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,Communication Services,3,563,3,0.53,0.52,0.15,3.64,1,VZ,100.0
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,Consumer Discretionary,4,899,0,0.0,0.0,0.15,0.0,0,,
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,Consumer Staples,4,1010,0,0.0,0.0,0.15,0.0,0,,
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,Energy,2,620,2,0.32,0.32,0.15,2.2,2,CVX,50.0
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,Financials,5,1710,2,0.12,0.09,0.15,0.8,2,GS,50.0
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,Health Care,5,1195,7,0.59,0.51,0.15,4.0,3,JNJ,42.9
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,Industrials,6,2249,1,0.04,0.05,0.15,0.3,1,HON,100.0
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,Information Technology,7,1529,1,0.07,0.05,0.15,0.45,1,AAPL,100.0
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,Materials,3,1159,0,0.0,0.0,0.15,0.0,0,,
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,Communication Services,3,563,11,1.95,1.98,1.75,1.12,2,T,54.5
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,Consumer Discretionary,4,899,26,2.89,3.15,1.75,1.66,2,MCD,38.5
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,Consumer Staples,4,1010,33,3.27,2.96,1.75,1.87,4,PG,54.5
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,Energy,2,620,6,0.97,0.95,1.75,0.55,1,CVX,100.0
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,Financials,5,1710,16,0.94,0.89,1.75,0.54,1,GS,50.0
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,Health Care,5,1195,3,0.25,0.23,1.75,0.14,0,PFE,66.7
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,Industrials,6,2249,56,2.49,2.66,1.75,1.43,4,BA,32.1
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,Information Technology,7,1529,34,2.22,2.0,1.75,1.27,2,INTC,44.1
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,Materials,3,1159,6,0.52,0.63,1.75,0.3,0,DD,33.3
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,Communication Services,3,563,1,0.18,0.17,0.18,0.97,1,T,100.0
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,Consumer Discretionary,4,899,1,0.11,0.1,0.18,0.61,1,MCD,100.0
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,Consumer Staples,4,1010,2,0.2,0.14,0.18,1.08,1,PG,100.0
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,Energy,2,620,2,0.32,0.32,0.18,1.76,2,CVX,50.0
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,Financials,5,1710,1,0.06,0.04,0.18,0.32,1,GS,100.0
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,Health Care,5,1195,2,0.17,0.13,0.18,0.91,2,JNJ,50.0
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,Industrials,6,2249,10,0.44,0.45,0.18,2.43,3,BA,70.0
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,Information Technology,7,1529,1,0.07,0.04,0.18,0.36,1,CSCO,100.0
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,Materials,3,1159,0,0.0,0.0,0.18,0.0,0,,
+D3,D3.10,Compensation,exchanges whose question raised a threat,Communication Services,3,563,3,0.53,0.53,0.4,1.32,3,DIS,33.3
+D3,D3.10,Compensation,exchanges whose question raised a threat,Consumer Discretionary,4,899,5,0.56,0.49,0.4,1.38,1,MCD,100.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,Consumer Staples,4,1010,2,0.2,0.17,0.4,0.49,0,KO,50.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,Energy,2,620,0,0.0,0.0,0.4,0.0,0,,
+D3,D3.10,Compensation,exchanges whose question raised a threat,Financials,5,1710,4,0.23,0.29,0.4,0.58,2,AXP,25.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,Health Care,5,1195,12,1.0,1.04,0.4,2.5,2,UNH,75.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,Industrials,6,2249,16,0.71,0.73,0.4,1.77,3,RTX,43.8
+D3,D3.10,Compensation,exchanges whose question raised a threat,Information Technology,7,1529,0,0.0,0.0,0.4,0.0,0,,
+D3,D3.10,Compensation,exchanges whose question raised a threat,Materials,3,1159,2,0.17,0.18,0.4,0.43,0,DD,50.0
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,Communication Services,3,563,92,16.34,16.33,15.16,1.08,2,T,42.4
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,Consumer Discretionary,4,899,200,22.25,25.34,15.16,1.47,3,MCD,37.5
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,Consumer Staples,4,1010,236,23.37,22.62,15.16,1.54,3,PG,41.5
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,Energy,2,620,96,15.48,15.4,15.16,1.02,1,CVX,66.7
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,Financials,5,1710,124,7.25,6.84,15.16,0.48,0,TRV,41.1
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,Health Care,5,1195,137,11.46,11.21,15.16,0.76,2,JNJ,36.5
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,Industrials,6,2249,441,19.61,20.86,15.16,1.29,3,BA,27.7
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,Information Technology,7,1529,177,11.58,11.24,15.16,0.76,1,INTC,34.5
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,Materials,3,1159,155,13.37,13.22,15.16,0.88,1,SHW,58.1
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,Communication Services,3,563,3,0.53,0.53,0.31,1.71,3,DIS,33.3
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,Consumer Discretionary,4,899,2,0.22,0.34,0.31,0.72,1,NKE,100.0
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,Consumer Staples,4,1010,2,0.2,0.2,0.31,0.64,1,KO,100.0
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,Energy,2,620,2,0.32,0.32,0.31,1.04,2,CVX,50.0
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,Financials,5,1710,2,0.12,0.14,0.31,0.38,1,AXP,50.0
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,Health Care,5,1195,4,0.33,0.32,0.31,1.08,3,UNH,50.0
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,Industrials,6,2249,14,0.62,0.62,0.31,2.0,3,BA,78.6
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,Information Technology,7,1529,3,0.2,0.13,0.31,0.63,2,INTC,66.7
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,Materials,3,1159,2,0.17,0.19,0.31,0.55,1,DOW,50.0
+D4,D4.01,Explicit support,exchanges involving a sociopolitical issue,Communication Services,3,95,30,31.58,27.66,19.99,1.58,2,T,56.7
+D4,D4.01,Explicit support,exchanges involving a sociopolitical issue,Consumer Discretionary,4,88,6,6.82,12.6,19.99,0.34,1,NKE,66.7
+D4,D4.01,Explicit support,exchanges involving a sociopolitical issue,Consumer Staples,4,91,17,18.68,18.58,19.99,0.93,1,WBA,52.9
+D4,D4.01,Explicit support,exchanges involving a sociopolitical issue,Energy,2,162,32,19.75,19.77,19.99,0.99,1,CVX,53.1
+D4,D4.01,Explicit support,exchanges involving a sociopolitical issue,Financials,5,417,67,16.07,13.54,19.99,0.8,1,JPM,53.7
+D4,D4.01,Explicit support,exchanges involving a sociopolitical issue,Health Care,5,323,90,27.86,26.95,19.99,1.39,4,PFE,36.7
+D4,D4.01,Explicit support,exchanges involving a sociopolitical issue,Industrials,6,265,50,18.87,17.75,19.99,0.94,1,BA,54.0
+D4,D4.01,Explicit support,exchanges involving a sociopolitical issue,Information Technology,7,143,31,21.68,20.37,19.99,1.08,3,AAPL,51.6
+D4,D4.01,Explicit support,exchanges involving a sociopolitical issue,Materials,3,112,16,14.29,12.82,19.99,0.71,1,DOW,75.0
+D4,D4.02,Explicit opposition,exchanges involving a sociopolitical issue,Communication Services,3,95,19,20.0,17.16,8.79,2.28,2,T,52.6
+D4,D4.02,Explicit opposition,exchanges involving a sociopolitical issue,Consumer Discretionary,4,88,3,3.41,4.74,8.79,0.39,1,AMZN,66.7
+D4,D4.02,Explicit opposition,exchanges involving a sociopolitical issue,Consumer Staples,4,91,2,2.2,1.79,8.79,0.25,0,KO,50.0
+D4,D4.02,Explicit opposition,exchanges involving a sociopolitical issue,Energy,2,162,9,5.56,5.56,8.79,0.63,0,CVX,55.6
+D4,D4.02,Explicit opposition,exchanges involving a sociopolitical issue,Financials,5,417,43,10.31,6.96,8.79,1.17,1,JPM,83.7
+D4,D4.02,Explicit opposition,exchanges involving a sociopolitical issue,Health Care,5,323,55,17.03,19.0,8.79,1.94,5,PFE,38.2
+D4,D4.02,Explicit opposition,exchanges involving a sociopolitical issue,Industrials,6,265,9,3.4,3.06,8.79,0.39,1,RTX,66.7
+D4,D4.02,Explicit opposition,exchanges involving a sociopolitical issue,Information Technology,7,143,7,4.9,4.4,8.79,0.56,1,AAPL,42.9
+D4,D4.02,Explicit opposition,exchanges involving a sociopolitical issue,Materials,3,112,2,1.79,2.08,8.79,0.2,0,DD,50.0
+D4,D4.03,Declared neutrality,exchanges involving a sociopolitical issue,Communication Services,3,95,1,1.05,2.56,0.24,4.46,1,DIS,100.0
+D4,D4.03,Declared neutrality,exchanges involving a sociopolitical issue,Consumer Discretionary,4,88,0,0.0,0.0,0.24,0.0,0,,
+D4,D4.03,Declared neutrality,exchanges involving a sociopolitical issue,Consumer Staples,4,91,0,0.0,0.0,0.24,0.0,0,,
+D4,D4.03,Declared neutrality,exchanges involving a sociopolitical issue,Energy,2,162,1,0.62,0.62,0.24,2.62,1,CVX,100.0
+D4,D4.03,Declared neutrality,exchanges involving a sociopolitical issue,Financials,5,417,0,0.0,0.0,0.24,0.0,0,,
+D4,D4.03,Declared neutrality,exchanges involving a sociopolitical issue,Health Care,5,323,2,0.62,0.4,0.24,2.63,1,PFE,100.0
+D4,D4.03,Declared neutrality,exchanges involving a sociopolitical issue,Industrials,6,265,0,0.0,0.0,0.24,0.0,0,,
+D4,D4.03,Declared neutrality,exchanges involving a sociopolitical issue,Information Technology,7,143,0,0.0,0.0,0.24,0.0,0,,
+D4,D4.03,Declared neutrality,exchanges involving a sociopolitical issue,Materials,3,112,0,0.0,0.0,0.24,0.0,0,,
+D4,D4.04,Qualified stance,exchanges involving a sociopolitical issue,Communication Services,3,95,3,3.16,2.51,1.24,2.55,2,VZ,66.7
+D4,D4.04,Qualified stance,exchanges involving a sociopolitical issue,Consumer Discretionary,4,88,1,1.14,1.92,1.24,0.92,1,AMZN,100.0
+D4,D4.04,Qualified stance,exchanges involving a sociopolitical issue,Consumer Staples,4,91,0,0.0,0.0,1.24,0.0,0,,
+D4,D4.04,Qualified stance,exchanges involving a sociopolitical issue,Energy,2,162,1,0.62,0.61,1.24,0.5,0,XOM,100.0
+D4,D4.04,Qualified stance,exchanges involving a sociopolitical issue,Financials,5,417,6,1.44,1.07,1.24,1.16,2,JPM,66.7
+D4,D4.04,Qualified stance,exchanges involving a sociopolitical issue,Health Care,5,323,7,2.17,2.56,1.24,1.75,3,PFE,42.9
+D4,D4.04,Qualified stance,exchanges involving a sociopolitical issue,Industrials,6,265,3,1.13,1.33,1.24,0.91,3,BA,33.3
+D4,D4.04,Qualified stance,exchanges involving a sociopolitical issue,Information Technology,7,143,0,0.0,0.0,1.24,0.0,0,,
+D4,D4.04,Qualified stance,exchanges involving a sociopolitical issue,Materials,3,112,0,0.0,0.0,1.24,0.0,0,,
+D4,D4.05,Symbolic solidarity,exchanges involving a sociopolitical issue,Communication Services,3,95,0,0.0,0.0,0.12,0.0,0,,
+D4,D4.05,Symbolic solidarity,exchanges involving a sociopolitical issue,Consumer Discretionary,4,88,0,0.0,0.0,0.12,0.0,0,,
+D4,D4.05,Symbolic solidarity,exchanges involving a sociopolitical issue,Consumer Staples,4,91,0,0.0,0.0,0.12,0.0,0,,
+D4,D4.05,Symbolic solidarity,exchanges involving a sociopolitical issue,Energy,2,162,1,0.62,0.62,0.12,5.23,1,CVX,100.0
+D4,D4.05,Symbolic solidarity,exchanges involving a sociopolitical issue,Financials,5,417,0,0.0,0.0,0.12,0.0,0,,
+D4,D4.05,Symbolic solidarity,exchanges involving a sociopolitical issue,Health Care,5,323,0,0.0,0.0,0.12,0.0,0,,
+D4,D4.05,Symbolic solidarity,exchanges involving a sociopolitical issue,Industrials,6,265,0,0.0,0.0,0.12,0.0,0,,
+D4,D4.05,Symbolic solidarity,exchanges involving a sociopolitical issue,Information Technology,7,143,1,0.7,0.79,0.12,5.93,1,INTC,100.0
+D4,D4.05,Symbolic solidarity,exchanges involving a sociopolitical issue,Materials,3,112,0,0.0,0.0,0.12,0.0,0,,
+D4,D4.06,Material advocacy,exchanges involving a sociopolitical issue,Communication Services,3,95,6,6.32,4.9,2.59,2.43,2,T,50.0
+D4,D4.06,Material advocacy,exchanges involving a sociopolitical issue,Consumer Discretionary,4,88,1,1.14,1.92,2.59,0.44,1,AMZN,100.0
+D4,D4.06,Material advocacy,exchanges involving a sociopolitical issue,Consumer Staples,4,91,2,2.2,2.5,2.59,0.85,1,KO,100.0
+D4,D4.06,Material advocacy,exchanges involving a sociopolitical issue,Energy,2,162,7,4.32,4.34,2.59,1.67,1,CVX,71.4
+D4,D4.06,Material advocacy,exchanges involving a sociopolitical issue,Financials,5,417,4,0.96,0.82,2.59,0.37,0,JPM,50.0
+D4,D4.06,Material advocacy,exchanges involving a sociopolitical issue,Health Care,5,323,7,2.17,2.64,2.59,0.84,4,PFE,42.9
+D4,D4.06,Material advocacy,exchanges involving a sociopolitical issue,Industrials,6,265,7,2.64,2.41,2.59,1.02,2,BA,42.9
+D4,D4.06,Material advocacy,exchanges involving a sociopolitical issue,Information Technology,7,143,8,5.59,6.37,2.59,2.16,4,AAPL,37.5
+D4,D4.06,Material advocacy,exchanges involving a sociopolitical issue,Materials,3,112,2,1.79,2.08,2.59,0.69,1,DD,50.0
+D4,D4.07,Position change,exchanges involving a sociopolitical issue,Communication Services,3,95,0,0.0,0.0,0.0,,0,,
+D4,D4.07,Position change,exchanges involving a sociopolitical issue,Consumer Discretionary,4,88,0,0.0,0.0,0.0,,0,,
+D4,D4.07,Position change,exchanges involving a sociopolitical issue,Consumer Staples,4,91,0,0.0,0.0,0.0,,0,,
+D4,D4.07,Position change,exchanges involving a sociopolitical issue,Energy,2,162,0,0.0,0.0,0.0,,0,,
+D4,D4.07,Position change,exchanges involving a sociopolitical issue,Financials,5,417,0,0.0,0.0,0.0,,0,,
+D4,D4.07,Position change,exchanges involving a sociopolitical issue,Health Care,5,323,0,0.0,0.0,0.0,,0,,
+D4,D4.07,Position change,exchanges involving a sociopolitical issue,Industrials,6,265,0,0.0,0.0,0.0,,0,,
+D4,D4.07,Position change,exchanges involving a sociopolitical issue,Information Technology,7,143,0,0.0,0.0,0.0,,0,,
+D4,D4.07,Position change,exchanges involving a sociopolitical issue,Materials,3,112,0,0.0,0.0,0.0,,0,,
+D5,D5.01,Acknowledgment,all exchanges,Communication Services,3,1489,31,2.08,2.07,2.26,0.92,1,T,38.7
+D5,D5.01,Acknowledgment,all exchanges,Consumer Discretionary,4,2375,57,2.4,2.83,2.26,1.06,1,MCD,70.2
+D5,D5.01,Acknowledgment,all exchanges,Consumer Staples,4,2139,66,3.09,3.32,2.26,1.37,3,PG,40.9
+D5,D5.01,Acknowledgment,all exchanges,Energy,2,2073,45,2.17,2.18,2.26,0.96,0,XOM,53.3
+D5,D5.01,Acknowledgment,all exchanges,Financials,5,4473,91,2.03,1.96,2.26,0.9,1,GS,39.6
+D5,D5.01,Acknowledgment,all exchanges,Health Care,5,2978,118,3.96,3.91,2.26,1.75,5,AMGN,28.8
+D5,D5.01,Acknowledgment,all exchanges,Industrials,6,4852,85,1.75,1.84,2.26,0.78,2,BA,31.8
+D5,D5.01,Acknowledgment,all exchanges,Information Technology,7,3600,72,2.0,2.28,2.26,0.88,3,CRM,19.4
+D5,D5.01,Acknowledgment,all exchanges,Materials,3,2790,40,1.43,1.33,2.26,0.63,0,SHW,67.5
+D5,D5.02,Empathy,all exchanges,Communication Services,3,1489,3,0.2,0.21,0.26,0.77,1,T,100.0
+D5,D5.02,Empathy,all exchanges,Consumer Discretionary,4,2375,8,0.34,0.33,0.26,1.29,2,MCD,50.0
+D5,D5.02,Empathy,all exchanges,Consumer Staples,4,2139,10,0.47,0.54,0.26,1.79,3,WMT,40.0
+D5,D5.02,Empathy,all exchanges,Energy,2,2073,7,0.34,0.34,0.26,1.29,2,XOM,57.1
+D5,D5.02,Empathy,all exchanges,Financials,5,4473,8,0.18,0.19,0.26,0.68,2,JPM,62.5
+D5,D5.02,Empathy,all exchanges,Health Care,5,2978,9,0.3,0.3,0.26,1.16,2,PFE,44.4
+D5,D5.02,Empathy,all exchanges,Industrials,6,4852,11,0.23,0.22,0.26,0.87,1,BA,63.6
+D5,D5.02,Empathy,all exchanges,Information Technology,7,3600,11,0.31,0.37,0.26,1.17,3,CRM,54.5
+D5,D5.02,Empathy,all exchanges,Materials,3,2790,3,0.11,0.06,0.26,0.41,0,SHW,100.0
+D5,D5.03,Validation,all exchanges,Communication Services,3,1489,9,0.6,0.61,1.27,0.48,0,T,44.4
+D5,D5.03,Validation,all exchanges,Consumer Discretionary,4,2375,26,1.09,1.27,1.27,0.86,1,MCD,80.8
+D5,D5.03,Validation,all exchanges,Consumer Staples,4,2139,56,2.62,2.37,1.27,2.06,2,PG,73.2
+D5,D5.03,Validation,all exchanges,Energy,2,2073,35,1.69,1.7,1.27,1.33,2,XOM,51.4
+D5,D5.03,Validation,all exchanges,Financials,5,4473,73,1.63,1.49,1.27,1.28,4,GS,35.6
+D5,D5.03,Validation,all exchanges,Health Care,5,2978,38,1.28,1.32,1.27,1.0,2,MRK,34.2
+D5,D5.03,Validation,all exchanges,Industrials,6,4852,43,0.89,0.93,1.27,0.7,1,BA,18.6
+D5,D5.03,Validation,all exchanges,Information Technology,7,3600,34,0.94,0.95,1.27,0.74,1,CSCO,32.4
+D5,D5.03,Validation,all exchanges,Materials,3,2790,26,0.93,1.02,1.27,0.73,1,SHW,53.8
+D5,D5.04,Gratitude,all exchanges,Communication Services,3,1489,8,0.54,0.51,0.86,0.63,1,VZ,75.0
+D5,D5.04,Gratitude,all exchanges,Consumer Discretionary,4,2375,28,1.18,1.4,0.86,1.38,3,MCD,28.6
+D5,D5.04,Gratitude,all exchanges,Consumer Staples,4,2139,37,1.73,2.2,0.86,2.02,3,WMT,62.2
+D5,D5.04,Gratitude,all exchanges,Energy,2,2073,7,0.34,0.34,0.86,0.39,0,XOM,57.1
+D5,D5.04,Gratitude,all exchanges,Financials,5,4473,10,0.22,0.18,0.86,0.26,0,TRV,50.0
+D5,D5.04,Gratitude,all exchanges,Health Care,5,2978,46,1.54,1.55,0.86,1.81,4,JNJ,37.0
+D5,D5.04,Gratitude,all exchanges,Industrials,6,4852,36,0.74,0.79,0.86,0.87,2,GE,25.0
+D5,D5.04,Gratitude,all exchanges,Information Technology,7,3600,43,1.19,1.53,0.86,1.4,4,CRM,53.5
+D5,D5.04,Gratitude,all exchanges,Materials,3,2790,14,0.5,0.44,0.86,0.59,0,SHW,71.4
+D5,D5.05,Invitation to dialogue,all exchanges,Communication Services,3,1489,10,0.67,0.69,0.76,0.89,1,T,60.0
+D5,D5.05,Invitation to dialogue,all exchanges,Consumer Discretionary,4,2375,2,0.08,0.11,0.76,0.11,0,AMZN,50.0
+D5,D5.05,Invitation to dialogue,all exchanges,Consumer Staples,4,2139,24,1.12,1.05,0.76,1.48,2,PG,62.5
+D5,D5.05,Invitation to dialogue,all exchanges,Energy,2,2073,6,0.29,0.32,0.76,0.38,0,CVX,100.0
+D5,D5.05,Invitation to dialogue,all exchanges,Financials,5,4473,53,1.18,1.4,0.76,1.56,3,TRV,30.2
+D5,D5.05,Invitation to dialogue,all exchanges,Health Care,5,2978,48,1.61,1.69,0.76,2.13,3,JNJ,54.2
+D5,D5.05,Invitation to dialogue,all exchanges,Industrials,6,4852,19,0.39,0.47,0.76,0.52,2,RTX,36.8
+D5,D5.05,Invitation to dialogue,all exchanges,Information Technology,7,3600,39,1.08,1.0,0.76,1.43,3,CSCO,53.8
+D5,D5.05,Invitation to dialogue,all exchanges,Materials,3,2790,2,0.07,0.13,0.76,0.09,0,DD,50.0
+D5,D5.06,Consultation,all exchanges,Communication Services,3,1489,3,0.2,0.19,0.55,0.37,0,VZ,66.7
+D5,D5.06,Consultation,all exchanges,Consumer Discretionary,4,2375,25,1.05,1.02,0.55,1.92,3,MCD,48.0
+D5,D5.06,Consultation,all exchanges,Consumer Staples,4,2139,9,0.42,0.52,0.55,0.77,1,WMT,55.6
+D5,D5.06,Consultation,all exchanges,Energy,2,2073,5,0.24,0.22,0.55,0.44,0,XOM,100.0
+D5,D5.06,Consultation,all exchanges,Financials,5,4473,24,0.54,0.57,0.55,0.98,2,GS,58.3
+D5,D5.06,Consultation,all exchanges,Health Care,5,2978,18,0.6,0.58,0.55,1.1,2,AMGN,55.6
+D5,D5.06,Consultation,all exchanges,Industrials,6,4852,34,0.7,0.71,0.55,1.28,2,BA,70.6
+D5,D5.06,Consultation,all exchanges,Information Technology,7,3600,20,0.56,0.69,0.55,1.01,3,CRM,40.0
+D5,D5.06,Consultation,all exchanges,Materials,3,2790,9,0.32,0.3,0.55,0.59,1,SHW,66.7
+D5,D5.07,Collaborative problem-solving,all exchanges,Communication Services,3,1489,23,1.54,1.52,2.99,0.52,0,T,43.5
+D5,D5.07,Collaborative problem-solving,all exchanges,Consumer Discretionary,4,2375,98,4.13,5.05,2.99,1.38,2,MCD,48.0
+D5,D5.07,Collaborative problem-solving,all exchanges,Consumer Staples,4,2139,108,5.05,4.79,2.99,1.69,3,WBA,41.7
+D5,D5.07,Collaborative problem-solving,all exchanges,Energy,2,2073,78,3.76,3.74,2.99,1.26,2,XOM,57.7
+D5,D5.07,Collaborative problem-solving,all exchanges,Financials,5,4473,54,1.21,1.68,2.99,0.4,1,V,44.4
+D5,D5.07,Collaborative problem-solving,all exchanges,Health Care,5,2978,123,4.13,4.11,2.99,1.38,5,AMGN,22.8
+D5,D5.07,Collaborative problem-solving,all exchanges,Industrials,6,4852,135,2.78,2.95,2.99,0.93,2,BA,39.3
+D5,D5.07,Collaborative problem-solving,all exchanges,Information Technology,7,3600,116,3.22,3.18,2.99,1.08,3,NVDA,37.1
+D5,D5.07,Collaborative problem-solving,all exchanges,Materials,3,2790,66,2.37,2.44,2.99,0.79,1,SHW,59.1
+D5,D5.08,Feedback incorporation,all exchanges,Communication Services,3,1489,8,0.54,0.54,0.59,0.9,1,T,37.5
+D5,D5.08,Feedback incorporation,all exchanges,Consumer Discretionary,4,2375,31,1.31,1.49,0.59,2.2,4,AMZN,32.3
+D5,D5.08,Feedback incorporation,all exchanges,Consumer Staples,4,2139,7,0.33,0.4,0.59,0.55,1,WMT,57.1
+D5,D5.08,Feedback incorporation,all exchanges,Energy,2,2073,6,0.29,0.3,0.59,0.49,0,CVX,66.7
+D5,D5.08,Feedback incorporation,all exchanges,Financials,5,4473,24,0.54,0.59,0.59,0.9,2,GS,45.8
+D5,D5.08,Feedback incorporation,all exchanges,Health Care,5,2978,18,0.6,0.61,0.59,1.02,3,JNJ,33.3
+D5,D5.08,Feedback incorporation,all exchanges,Industrials,6,4852,19,0.39,0.4,0.59,0.66,1,BA,52.6
+D5,D5.08,Feedback incorporation,all exchanges,Information Technology,7,3600,43,1.19,1.5,0.59,2.01,4,CRM,46.5
+D5,D5.08,Feedback incorporation,all exchanges,Materials,3,2790,3,0.11,0.1,0.59,0.18,0,SHW,66.7
+D6,D6.01,Problem definition,all exchanges,Communication Services,3,1489,30,2.01,2.04,2.23,0.9,1,T,40.0
+D6,D6.01,Problem definition,all exchanges,Consumer Discretionary,4,2375,70,2.95,3.53,2.23,1.32,2,MCD,58.6
+D6,D6.01,Problem definition,all exchanges,Consumer Staples,4,2139,65,3.04,2.93,2.23,1.36,3,WBA,35.4
+D6,D6.01,Problem definition,all exchanges,Energy,2,2073,43,2.07,2.06,2.23,0.93,0,XOM,58.1
+D6,D6.01,Problem definition,all exchanges,Financials,5,4473,71,1.59,1.57,2.23,0.71,1,JPM,47.9
+D6,D6.01,Problem definition,all exchanges,Health Care,5,2978,104,3.49,3.53,2.23,1.57,3,PFE,33.7
+D6,D6.01,Problem definition,all exchanges,Industrials,6,4852,104,2.14,2.35,2.23,0.96,3,GE,23.1
+D6,D6.01,Problem definition,all exchanges,Information Technology,7,3600,75,2.08,2.16,2.23,0.94,2,NVDA,30.7
+D6,D6.01,Problem definition,all exchanges,Materials,3,2790,34,1.22,1.61,2.23,0.55,1,DOW,52.9
+D6,D6.02,Causal framing,all exchanges,Communication Services,3,1489,368,24.71,24.61,30.68,0.81,0,VZ,38.6
+D6,D6.02,Causal framing,all exchanges,Consumer Discretionary,4,2375,801,33.73,35.34,30.68,1.1,3,HD,39.5
+D6,D6.02,Causal framing,all exchanges,Consumer Staples,4,2139,722,33.75,33.95,30.68,1.1,3,PG,32.5
+D6,D6.02,Causal framing,all exchanges,Energy,2,2073,400,19.3,19.39,30.68,0.63,0,XOM,52.2
+D6,D6.02,Causal framing,all exchanges,Financials,5,4473,1338,29.91,30.88,30.68,0.98,3,JPM,25.2
+D6,D6.02,Causal framing,all exchanges,Health Care,5,2978,674,22.63,22.61,30.68,0.74,0,UNH,25.8
+D6,D6.02,Causal framing,all exchanges,Industrials,6,4852,1529,31.51,31.96,30.68,1.03,3,MMM,21.0
+D6,D6.02,Causal framing,all exchanges,Information Technology,7,3600,1495,41.53,42.15,30.68,1.35,7,CSCO,19.3
+D6,D6.02,Causal framing,all exchanges,Materials,3,2790,885,31.72,35.53,30.68,1.03,2,SHW,51.9
+D6,D6.03,Responsibility framing,all exchanges,Communication Services,3,1489,3,0.2,0.21,0.4,0.51,1,DIS,66.7
+D6,D6.03,Responsibility framing,all exchanges,Consumer Discretionary,4,2375,4,0.17,0.22,0.4,0.43,1,MCD,75.0
+D6,D6.03,Responsibility framing,all exchanges,Consumer Staples,4,2139,11,0.51,0.52,0.4,1.3,3,PG,36.4
+D6,D6.03,Responsibility framing,all exchanges,Energy,2,2073,9,0.43,0.43,0.4,1.1,2,XOM,55.6
+D6,D6.03,Responsibility framing,all exchanges,Financials,5,4473,11,0.25,0.23,0.4,0.62,1,GS,45.5
+D6,D6.03,Responsibility framing,all exchanges,Health Care,5,2978,5,0.17,0.17,0.4,0.42,0,PFE,40.0
+D6,D6.03,Responsibility framing,all exchanges,Industrials,6,4852,34,0.7,0.72,0.4,1.77,3,BA,41.2
+D6,D6.03,Responsibility framing,all exchanges,Information Technology,7,3600,12,0.33,0.34,0.4,0.84,2,INTC,33.3
+D6,D6.03,Responsibility framing,all exchanges,Materials,3,2790,17,0.61,0.85,0.4,1.54,1,DD,70.6
+D6,D6.04,Risk framing,all exchanges,Communication Services,3,1489,48,3.22,3.27,4.85,0.66,0,T,43.8
+D6,D6.04,Risk framing,all exchanges,Consumer Discretionary,4,2375,83,3.49,3.8,4.85,0.72,1,MCD,34.9
+D6,D6.04,Risk framing,all exchanges,Consumer Staples,4,2139,129,6.03,5.85,4.85,1.24,2,PG,36.4
+D6,D6.04,Risk framing,all exchanges,Energy,2,2073,116,5.6,5.74,4.85,1.15,1,CVX,58.6
+D6,D6.04,Risk framing,all exchanges,Financials,5,4473,362,8.09,7.45,4.85,1.67,4,JPM,48.1
+D6,D6.04,Risk framing,all exchanges,Health Care,5,2978,141,4.73,4.78,4.85,0.98,3,UNH,23.4
+D6,D6.04,Risk framing,all exchanges,Industrials,6,4852,271,5.59,5.8,4.85,1.15,4,HON,21.8
+D6,D6.04,Risk framing,all exchanges,Information Technology,7,3600,84,2.33,2.47,4.85,0.48,0,CSCO,19.0
+D6,D6.04,Risk framing,all exchanges,Materials,3,2790,65,2.33,2.73,4.85,0.48,0,SHW,47.7
+D6,D6.05,Opportunity framing,all exchanges,Communication Services,3,1489,654,43.92,44.17,29.37,1.5,3,DIS,34.9
+D6,D6.05,Opportunity framing,all exchanges,Consumer Discretionary,4,2375,777,32.72,38.9,29.37,1.11,3,NKE,26.8
+D6,D6.05,Opportunity framing,all exchanges,Consumer Staples,4,2139,673,31.46,32.09,29.37,1.07,3,WBA,31.6
+D6,D6.05,Opportunity framing,all exchanges,Energy,2,2073,401,19.34,19.14,29.37,0.66,0,XOM,60.3
+D6,D6.05,Opportunity framing,all exchanges,Financials,5,4473,870,19.45,22.66,29.37,0.66,2,GS,32.2
+D6,D6.05,Opportunity framing,all exchanges,Health Care,5,2978,1292,43.38,43.6,29.37,1.48,5,PFE,24.8
+D6,D6.05,Opportunity framing,all exchanges,Industrials,6,4852,962,19.83,20.19,29.37,0.67,0,HON,21.6
+D6,D6.05,Opportunity framing,all exchanges,Information Technology,7,3600,1566,43.5,46.21,29.37,1.48,6,NVDA,22.5
+D6,D6.05,Opportunity framing,all exchanges,Materials,3,2790,668,23.94,23.82,29.37,0.82,0,SHW,62.3
+D6,D6.06,Economic framing,all exchanges,Communication Services,3,1489,625,41.97,42.1,24.95,1.68,3,T,38.6
+D6,D6.06,Economic framing,all exchanges,Consumer Discretionary,4,2375,470,19.79,22.7,24.95,0.79,2,MCD,31.5
+D6,D6.06,Economic framing,all exchanges,Consumer Staples,4,2139,732,34.22,33.71,24.95,1.37,4,PG,31.3
+D6,D6.06,Economic framing,all exchanges,Energy,2,2073,923,44.52,44.53,24.95,1.78,2,XOM,54.7
+D6,D6.06,Economic framing,all exchanges,Financials,5,4473,1039,23.23,23.47,24.95,0.93,2,GS,30.7
+D6,D6.06,Economic framing,all exchanges,Health Care,5,2978,705,23.67,23.56,24.95,0.95,3,PFE,30.2
+D6,D6.06,Economic framing,all exchanges,Industrials,6,4852,903,18.61,18.63,24.95,0.75,1,BA,24.4
+D6,D6.06,Economic framing,all exchanges,Information Technology,7,3600,750,20.83,22.79,24.95,0.83,3,INTC,20.1
+D6,D6.06,Economic framing,all exchanges,Materials,3,2790,532,19.07,20.82,24.95,0.76,1,SHW,54.1
+D6,D6.07,Moral framing,all exchanges,Communication Services,3,1489,10,0.67,0.65,0.53,1.28,2,VZ,60.0
+D6,D6.07,Moral framing,all exchanges,Consumer Discretionary,4,2375,1,0.04,0.06,0.53,0.08,0,AMZN,100.0
+D6,D6.07,Moral framing,all exchanges,Consumer Staples,4,2139,11,0.51,0.57,0.53,0.98,2,WBA,36.4
+D6,D6.07,Moral framing,all exchanges,Energy,2,2073,4,0.19,0.19,0.53,0.37,0,CVX,50.0
+D6,D6.07,Moral framing,all exchanges,Financials,5,4473,22,0.49,0.47,0.53,0.93,2,JPM,72.7
+D6,D6.07,Moral framing,all exchanges,Health Care,5,2978,40,1.34,1.34,0.53,2.55,4,PFE,37.5
+D6,D6.07,Moral framing,all exchanges,Industrials,6,4852,21,0.43,0.43,0.53,0.82,1,BA,57.1
+D6,D6.07,Moral framing,all exchanges,Information Technology,7,3600,28,0.78,0.88,0.53,1.48,3,AAPL,42.9
+D6,D6.07,Moral framing,all exchanges,Materials,3,2790,4,0.14,0.21,0.53,0.27,0,DD,50.0
+D6,D6.08,Legal or regulatory framing,all exchanges,Communication Services,3,1489,56,3.76,3.8,3.39,1.11,1,T,51.8
+D6,D6.08,Legal or regulatory framing,all exchanges,Consumer Discretionary,4,2375,12,0.51,0.58,3.39,0.15,0,AMZN,66.7
+D6,D6.08,Legal or regulatory framing,all exchanges,Consumer Staples,4,2139,33,1.54,1.39,3.39,0.46,0,WBA,60.6
+D6,D6.08,Legal or regulatory framing,all exchanges,Energy,2,2073,64,3.09,3.12,3.39,0.91,1,CVX,51.6
+D6,D6.08,Legal or regulatory framing,all exchanges,Financials,5,4473,346,7.74,7.14,3.39,2.28,4,JPM,41.0
+D6,D6.08,Legal or regulatory framing,all exchanges,Health Care,5,2978,204,6.85,6.85,3.39,2.02,4,AMGN,32.8
+D6,D6.08,Legal or regulatory framing,all exchanges,Industrials,6,4852,114,2.35,2.34,3.39,0.69,1,BA,42.1
+D6,D6.08,Legal or regulatory framing,all exchanges,Information Technology,7,3600,38,1.06,1.09,3.39,0.31,0,AAPL,31.6
+D6,D6.08,Legal or regulatory framing,all exchanges,Materials,3,2790,40,1.43,2.07,3.39,0.42,0,DD,37.5
+D6,D6.09,Solution framing,all exchanges,Communication Services,3,1489,260,17.46,17.63,14.81,1.18,2,T,40.0
+D6,D6.09,Solution framing,all exchanges,Consumer Discretionary,4,2375,431,18.15,22.24,14.81,1.23,3,MCD,41.1
+D6,D6.09,Solution framing,all exchanges,Consumer Staples,4,2139,547,25.57,25.09,14.81,1.73,4,PG,34.9
+D6,D6.09,Solution framing,all exchanges,Energy,2,2073,278,13.41,13.73,14.81,0.91,1,CVX,57.6
+D6,D6.09,Solution framing,all exchanges,Financials,5,4473,406,9.08,9.51,14.81,0.61,0,GS,30.8
+D6,D6.09,Solution framing,all exchanges,Health Care,5,2978,473,15.88,15.83,14.81,1.07,3,UNH,26.2
+D6,D6.09,Solution framing,all exchanges,Industrials,6,4852,732,15.09,16.05,14.81,1.02,3,BA,28.0
+D6,D6.09,Solution framing,all exchanges,Information Technology,7,3600,511,14.19,15.05,14.81,0.96,4,INTC,23.1
+D6,D6.09,Solution framing,all exchanges,Materials,3,2790,326,11.68,12.4,14.81,0.79,1,SHW,56.7
+D8,D8.02,Investigation commitment,all exchanges,Communication Services,3,1489,13,0.87,0.85,0.49,1.78,2,VZ,61.5
+D8,D8.02,Investigation commitment,all exchanges,Consumer Discretionary,4,2375,5,0.21,0.18,0.49,0.43,0,HD,60.0
+D8,D8.02,Investigation commitment,all exchanges,Consumer Staples,4,2139,11,0.51,0.51,0.49,1.05,2,WBA,54.5
+D8,D8.02,Investigation commitment,all exchanges,Energy,2,2073,11,0.53,0.56,0.49,1.08,1,CVX,72.7
+D8,D8.02,Investigation commitment,all exchanges,Financials,5,4473,19,0.42,0.33,0.49,0.87,1,JPM,52.6
+D8,D8.02,Investigation commitment,all exchanges,Health Care,5,2978,50,1.68,1.68,0.49,3.43,3,PFE,34.0
+D8,D8.02,Investigation commitment,all exchanges,Industrials,6,4852,11,0.23,0.21,0.49,0.46,0,BA,36.4
+D8,D8.02,Investigation commitment,all exchanges,Information Technology,7,3600,7,0.19,0.18,0.49,0.4,1,INTC,57.1
+D8,D8.02,Investigation commitment,all exchanges,Materials,3,2790,4,0.14,0.21,0.49,0.29,0,DD,50.0
+D8,D8.03,Conditional commitment,all exchanges,Communication Services,3,1489,160,10.75,10.67,5.61,1.92,3,VZ,40.0
+D8,D8.03,Conditional commitment,all exchanges,Consumer Discretionary,4,2375,64,2.69,2.88,5.61,0.48,0,HD,34.4
+D8,D8.03,Conditional commitment,all exchanges,Consumer Staples,4,2139,132,6.17,5.86,5.61,1.1,3,WBA,34.1
+D8,D8.03,Conditional commitment,all exchanges,Energy,2,2073,178,8.59,8.53,5.61,1.53,2,XOM,58.4
+D8,D8.03,Conditional commitment,all exchanges,Financials,5,4473,264,5.9,6.29,5.61,1.05,3,GS,28.8
+D8,D8.03,Conditional commitment,all exchanges,Health Care,5,2978,221,7.42,7.49,5.61,1.32,4,PFE,34.8
+D8,D8.03,Conditional commitment,all exchanges,Industrials,6,4852,244,5.03,4.97,5.61,0.9,1,BA,38.1
+D8,D8.03,Conditional commitment,all exchanges,Information Technology,7,3600,95,2.64,2.58,5.61,0.47,0,CSCO,30.5
+D8,D8.03,Conditional commitment,all exchanges,Materials,3,2790,143,5.13,4.71,5.61,0.91,1,SHW,68.5
+D8,D8.04,Policy-change commitment,all exchanges,Communication Services,3,1489,25,1.68,1.72,0.92,1.83,3,DIS,56.0
+D8,D8.04,Policy-change commitment,all exchanges,Consumer Discretionary,4,2375,31,1.31,1.52,0.92,1.42,3,MCD,51.6
+D8,D8.04,Policy-change commitment,all exchanges,Consumer Staples,4,2139,26,1.22,1.09,0.92,1.32,2,WBA,53.8
+D8,D8.04,Policy-change commitment,all exchanges,Energy,2,2073,16,0.77,0.81,0.92,0.84,1,CVX,68.8
+D8,D8.04,Policy-change commitment,all exchanges,Financials,5,4473,32,0.72,0.79,0.92,0.78,2,GS,34.4
+D8,D8.04,Policy-change commitment,all exchanges,Health Care,5,2978,21,0.71,0.69,0.92,0.77,2,PFE,38.1
+D8,D8.04,Policy-change commitment,all exchanges,Industrials,6,4852,40,0.82,0.82,0.92,0.9,3,MMM,32.5
+D8,D8.04,Policy-change commitment,all exchanges,Information Technology,7,3600,39,1.08,1.1,0.92,1.18,4,INTC,33.3
+D8,D8.04,Policy-change commitment,all exchanges,Materials,3,2790,16,0.57,0.79,0.92,0.62,2,DD,37.5
+D8,D8.05,Time-bound commitment,all exchanges,Communication Services,3,1489,318,21.36,21.42,11.57,1.85,3,T,34.9
+D8,D8.05,Time-bound commitment,all exchanges,Consumer Discretionary,4,2375,289,12.17,14.02,11.57,1.05,2,MCD,37.7
+D8,D8.05,Time-bound commitment,all exchanges,Consumer Staples,4,2139,231,10.8,10.7,11.57,0.93,1,WBA,35.5
+D8,D8.05,Time-bound commitment,all exchanges,Energy,2,2073,284,13.7,14.07,11.57,1.18,1,CVX,59.2
+D8,D8.05,Time-bound commitment,all exchanges,Financials,5,4473,230,5.14,5.9,11.57,0.44,0,JPM,26.5
+D8,D8.05,Time-bound commitment,all exchanges,Health Care,5,2978,517,17.36,17.46,11.57,1.5,5,PFE,29.6
+D8,D8.05,Time-bound commitment,all exchanges,Industrials,6,4852,518,10.68,11.29,11.57,0.92,3,BA,20.1
+D8,D8.05,Time-bound commitment,all exchanges,Information Technology,7,3600,435,12.08,11.83,11.57,1.04,3,INTC,32.4
+D8,D8.05,Time-bound commitment,all exchanges,Materials,3,2790,274,9.82,11.27,11.57,0.85,1,SHW,49.6
+D8,D8.06,Reported action underway,all exchanges,Communication Services,3,1489,509,34.18,33.93,21.09,1.62,3,VZ,40.5
+D8,D8.06,Reported action underway,all exchanges,Consumer Discretionary,4,2375,624,26.27,30.85,21.09,1.25,3,MCD,30.3
+D8,D8.06,Reported action underway,all exchanges,Consumer Staples,4,2139,600,28.05,27.79,21.09,1.33,4,WBA,33.3
+D8,D8.06,Reported action underway,all exchanges,Energy,2,2073,475,22.91,23.19,21.09,1.09,1,CVX,51.6
+D8,D8.06,Reported action underway,all exchanges,Financials,5,4473,527,11.78,12.17,21.09,0.56,0,GS,42.5
+D8,D8.06,Reported action underway,all exchanges,Health Care,5,2978,854,28.68,28.74,21.09,1.36,5,PFE,25.9
+D8,D8.06,Reported action underway,all exchanges,Industrials,6,4852,943,19.44,20.24,21.09,0.92,3,BA,23.9
+D8,D8.06,Reported action underway,all exchanges,Information Technology,7,3600,684,19.0,18.94,21.09,0.9,3,INTC,29.4
+D8,D8.06,Reported action underway,all exchanges,Materials,3,2790,430,15.41,17.01,21.09,0.73,1,SHW,53.3
+D8,D8.07,Reported completed action,all exchanges,Communication Services,3,1489,105,7.05,7.01,4.82,1.46,3,VZ,41.0
+D8,D8.07,Reported completed action,all exchanges,Consumer Discretionary,4,2375,166,6.99,7.77,4.82,1.45,4,HD,31.9
+D8,D8.07,Reported completed action,all exchanges,Consumer Staples,4,2139,164,7.67,7.79,4.82,1.59,4,WBA,29.9
+D8,D8.07,Reported completed action,all exchanges,Energy,2,2073,117,5.64,5.72,4.82,1.17,2,CVX,52.1
+D8,D8.07,Reported completed action,all exchanges,Financials,5,4473,94,2.1,2.27,4.82,0.44,0,GS,29.8
+D8,D8.07,Reported completed action,all exchanges,Health Care,5,2978,174,5.84,5.87,4.82,1.21,3,JNJ,29.9
+D8,D8.07,Reported completed action,all exchanges,Industrials,6,4852,170,3.5,3.68,4.82,0.73,2,BA,22.4
+D8,D8.07,Reported completed action,all exchanges,Information Technology,7,3600,219,6.08,6.68,4.82,1.26,4,CRM,20.1
+D8,D8.07,Reported completed action,all exchanges,Materials,3,2790,81,2.9,3.98,4.82,0.6,1,DOW,46.9
+D9,D9.01,Initial response,all exchanges,Communication Services,3,1489,0,0.0,0.0,0.0,,0,,
+D9,D9.01,Initial response,all exchanges,Consumer Discretionary,4,2375,0,0.0,0.0,0.0,,0,,
+D9,D9.01,Initial response,all exchanges,Consumer Staples,4,2139,0,0.0,0.0,0.0,,0,,
+D9,D9.01,Initial response,all exchanges,Energy,2,2073,0,0.0,0.0,0.0,,0,,
+D9,D9.01,Initial response,all exchanges,Financials,5,4473,0,0.0,0.0,0.0,,0,,
+D9,D9.01,Initial response,all exchanges,Health Care,5,2978,0,0.0,0.0,0.0,,0,,
+D9,D9.01,Initial response,all exchanges,Industrials,6,4852,0,0.0,0.0,0.0,,0,,
+D9,D9.01,Initial response,all exchanges,Information Technology,7,3600,0,0.0,0.0,0.0,,0,,
+D9,D9.01,Initial response,all exchanges,Materials,3,2790,0,0.0,0.0,0.0,,0,,
+D9,D9.02,Follow-up response,all exchanges,Communication Services,3,1489,241,16.19,16.08,12.01,1.35,3,VZ,41.1
+D9,D9.02,Follow-up response,all exchanges,Consumer Discretionary,4,2375,288,12.13,14.09,12.01,1.01,3,AMZN,27.1
+D9,D9.02,Follow-up response,all exchanges,Consumer Staples,4,2139,228,10.66,11.14,12.01,0.89,2,KO,31.6
+D9,D9.02,Follow-up response,all exchanges,Energy,2,2073,297,14.33,14.3,12.01,1.19,2,XOM,55.6
+D9,D9.02,Follow-up response,all exchanges,Financials,5,4473,537,12.01,12.44,12.01,1.0,2,TRV,27.0
+D9,D9.02,Follow-up response,all exchanges,Health Care,5,2978,345,11.58,11.51,12.01,0.96,2,UNH,35.4
+D9,D9.02,Follow-up response,all exchanges,Industrials,6,4852,494,10.18,10.52,12.01,0.85,3,MMM,27.5
+D9,D9.02,Follow-up response,all exchanges,Information Technology,7,3600,575,15.97,17.17,12.01,1.33,4,IBM,25.2
+D9,D9.02,Follow-up response,all exchanges,Materials,3,2790,209,7.49,7.5,12.01,0.62,0,SHW,61.7
+D9,D9.03,Response revision,all exchanges,Communication Services,3,1489,11,0.74,0.76,1.01,0.73,1,DIS,63.6
+D9,D9.03,Response revision,all exchanges,Consumer Discretionary,4,2375,28,1.18,1.22,1.01,1.16,3,HD,39.3
+D9,D9.03,Response revision,all exchanges,Consumer Staples,4,2139,20,0.94,0.97,1.01,0.92,2,WBA,45.0
+D9,D9.03,Response revision,all exchanges,Energy,2,2073,17,0.82,0.89,1.01,0.81,1,CVX,88.2
+D9,D9.03,Response revision,all exchanges,Financials,5,4473,33,0.74,0.83,1.01,0.73,3,JPM,42.4
+D9,D9.03,Response revision,all exchanges,Health Care,5,2978,25,0.84,0.85,1.01,0.83,2,JNJ,40.0
+D9,D9.03,Response revision,all exchanges,Industrials,6,4852,71,1.46,1.53,1.01,1.45,4,MMM,36.6
+D9,D9.03,Response revision,all exchanges,Information Technology,7,3600,44,1.22,1.24,1.01,1.21,3,INTC,59.1
+D9,D9.03,Response revision,all exchanges,Materials,3,2790,22,0.79,0.9,1.01,0.78,1,SHW,50.0
+D9,D9.04,Escalation,all exchanges,Communication Services,3,1489,0,0.0,0.0,0.01,0.0,0,,
+D9,D9.04,Escalation,all exchanges,Consumer Discretionary,4,2375,0,0.0,0.0,0.01,0.0,0,,
+D9,D9.04,Escalation,all exchanges,Consumer Staples,4,2139,0,0.0,0.0,0.01,0.0,0,,
+D9,D9.04,Escalation,all exchanges,Energy,2,2073,2,0.1,0.11,0.01,6.46,1,CVX,100.0
+D9,D9.04,Escalation,all exchanges,Financials,5,4473,0,0.0,0.0,0.01,0.0,0,,
+D9,D9.04,Escalation,all exchanges,Health Care,5,2978,0,0.0,0.0,0.01,0.0,0,,
+D9,D9.04,Escalation,all exchanges,Industrials,6,4852,0,0.0,0.0,0.01,0.0,0,,
+D9,D9.04,Escalation,all exchanges,Information Technology,7,3600,2,0.06,0.06,0.01,3.72,2,AAPL,50.0
+D9,D9.04,Escalation,all exchanges,Materials,3,2790,0,0.0,0.0,0.01,0.0,0,,
+D9,D9.05,De-escalation,all exchanges,Communication Services,3,1489,0,0.0,0.0,0.0,0.0,0,,
+D9,D9.05,De-escalation,all exchanges,Consumer Discretionary,4,2375,0,0.0,0.0,0.0,0.0,0,,
+D9,D9.05,De-escalation,all exchanges,Consumer Staples,4,2139,0,0.0,0.0,0.0,0.0,0,,
+D9,D9.05,De-escalation,all exchanges,Energy,2,2073,0,0.0,0.0,0.0,0.0,0,,
+D9,D9.05,De-escalation,all exchanges,Financials,5,4473,1,0.02,0.02,0.0,5.98,1,GS,100.0
+D9,D9.05,De-escalation,all exchanges,Health Care,5,2978,0,0.0,0.0,0.0,0.0,0,,
+D9,D9.05,De-escalation,all exchanges,Industrials,6,4852,0,0.0,0.0,0.0,0.0,0,,
+D9,D9.05,De-escalation,all exchanges,Information Technology,7,3600,0,0.0,0.0,0.0,0.0,0,,
+D9,D9.05,De-escalation,all exchanges,Materials,3,2790,0,0.0,0.0,0.0,0.0,0,,
+D9,D9.06,Resolution communication,all exchanges,Communication Services,3,1489,0,0.0,0.0,0.0,,0,,
+D9,D9.06,Resolution communication,all exchanges,Consumer Discretionary,4,2375,0,0.0,0.0,0.0,,0,,
+D9,D9.06,Resolution communication,all exchanges,Consumer Staples,4,2139,0,0.0,0.0,0.0,,0,,
+D9,D9.06,Resolution communication,all exchanges,Energy,2,2073,0,0.0,0.0,0.0,,0,,
+D9,D9.06,Resolution communication,all exchanges,Financials,5,4473,0,0.0,0.0,0.0,,0,,
+D9,D9.06,Resolution communication,all exchanges,Health Care,5,2978,0,0.0,0.0,0.0,,0,,
+D9,D9.06,Resolution communication,all exchanges,Industrials,6,4852,0,0.0,0.0,0.0,,0,,
+D9,D9.06,Resolution communication,all exchanges,Information Technology,7,3600,0,0.0,0.0,0.0,,0,,
+D9,D9.06,Resolution communication,all exchanges,Materials,3,2790,0,0.0,0.0,0.0,,0,,
+D9,D9.07,Recurrence response,all exchanges,Communication Services,3,1489,0,0.0,0.0,0.0,,0,,
+D9,D9.07,Recurrence response,all exchanges,Consumer Discretionary,4,2375,0,0.0,0.0,0.0,,0,,
+D9,D9.07,Recurrence response,all exchanges,Consumer Staples,4,2139,0,0.0,0.0,0.0,,0,,
+D9,D9.07,Recurrence response,all exchanges,Energy,2,2073,0,0.0,0.0,0.0,,0,,
+D9,D9.07,Recurrence response,all exchanges,Financials,5,4473,0,0.0,0.0,0.0,,0,,
+D9,D9.07,Recurrence response,all exchanges,Health Care,5,2978,0,0.0,0.0,0.0,,0,,
+D9,D9.07,Recurrence response,all exchanges,Industrials,6,4852,0,0.0,0.0,0.0,,0,,
+D9,D9.07,Recurrence response,all exchanges,Information Technology,7,3600,0,0.0,0.0,0.0,,0,,
+D9,D9.07,Recurrence response,all exchanges,Materials,3,2790,0,0.0,0.0,0.0,,0,,

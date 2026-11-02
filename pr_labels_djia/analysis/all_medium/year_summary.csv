@@ -1,0 +1,11 @@
+call_year,companies,calls,exchanges,labeled_exchanges,area_labels,pct_labeled,areas_per_labeled_exchange,most_prevalent_area,effective_areas,spearman_vs_other_years
+2015,37,145,3266,288,409,8.8,1.42,"07 Rhetoric, discourse & meaning",6.0,0.862
+2016,37,148,3217,327,484,10.2,1.48,04 Relationships & dialogue,6.5,0.965
+2017,38,148,3083,389,585,12.6,1.5,04 Relationships & dialogue,6.8,0.956
+2018,37,146,2657,298,439,11.2,1.47,04 Relationships & dialogue,6.9,0.916
+2019,39,150,2671,338,536,12.7,1.59,04 Relationships & dialogue,7.3,0.972
+2020,39,155,2413,417,606,17.3,1.45,04 Relationships & dialogue,7.5,0.882
+2021,39,156,2426,407,638,16.8,1.57,"03 Media, issues & framing",7.7,0.916
+2022,39,156,2406,332,506,13.8,1.52,04 Relationships & dialogue,7.4,0.96
+2023,39,156,2378,319,473,13.4,1.48,04 Relationships & dialogue,7.0,0.935
+2024,39,155,2252,316,475,14.0,1.5,"03 Media, issues & framing",7.1,0.958

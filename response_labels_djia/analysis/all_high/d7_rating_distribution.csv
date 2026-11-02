@@ -1,0 +1,9 @@
+code,characteristic,column,scale,mean,pct_rated_-2,pct_rated_-1,pct_rated_0,pct_rated_1,pct_rated_2,pct_above_0,pct_pronounced
+D7.01,Specificity,d7_01_specificity,"0 = generic, no concrete details; 1 = some concrete details; 2 = concrete figures, examples, named actions or timelines carry the answer",1.57,,,6.4,30.7,63.0,93.6,63.0
+D7.02,Clarity,d7_02_clarity,0 = hard to follow or ambiguous; 1 = mostly understandable with some ambiguity; 2 = clear and unambiguous,1.7,,,0.3,29.4,70.3,99.7,70.3
+D7.03,Assertiveness,d7_03_assertiveness,"0 = little expressed confidence; 1 = moderate confidence; 2 = strong, unqualified confidence or certainty",1.46,,,2.4,48.9,48.7,97.6,48.7
+D7.04,Cautiousness,d7_04_cautiousness,"0 = no hedges or qualifications; 1 = some hedging or qualification; 2 = heavily hedged, qualified or caveated",1.02,,,13.5,70.6,15.9,86.5,15.9
+D7.05,Optimism or pessimism,d7_05_optimism,"-2 = strongly pessimistic; -1 = somewhat pessimistic; 0 = neutral, balanced or no outlook; 1 = somewhat optimistic; 2 = strongly optimistic",0.87,0.0,1.6,30.2,48.1,20.1,69.8,20.1
+D7.06,Formality,d7_06_formality,"0 = conversational; 1 = mixed; 2 = formal, institutional or technical",0.92,,,11.7,84.9,3.4,88.3,3.4
+D7.07,Emotional expression,d7_07_emotional_expression,"0 = no explicit emotion; 1 = mild or formulaic emotion words (""we're pleased"", ""excited""); 2 = strong explicit emotion",0.27,,,73.5,26.1,0.4,26.5,0.4
+D7.08,Lexical or syntactic complexity,d7_08_complexity,0 = plain wording; 1 = some jargon or complex sentences; 2 = dense jargon or convoluted structure,1.01,,,12.6,74.1,13.3,87.4,13.3

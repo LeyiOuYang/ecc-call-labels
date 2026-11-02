@@ -1,0 +1,10 @@
+dimension_id,dimension,categories_in_codebook,categories_coded,categories_observed,exchanges,pct_of_exchanges,high_confidence_exchanges,pct_high_confidence,companies,mean_categories_per_covered_exchange,most_frequent_category,most_frequent_pct_of_exchanges,note
+D1,Answer responsiveness and completeness,10,10,10,26769,100.0,25566,95.5,39,1.18,D1.01 Direct answer,52.4,completeness is coded for every exchange
+D2,Information disclosure and public guidance,8,8,8,25206,94.2,24693,92.2,39,2.52,D2.01 Factual disclosure,89.6,
+D3,Crisis responsibility and reputation repair,12,12,12,6966,26.0,5040,18.8,39,1.58,D3.06 Bolstering,15.9,
+D4,Sociopolitical stance and advocacy,7,7,6,453,1.7,358,1.3,38,1.23,D4.01 Explicit support,1.3,
+D5,Relational engagement and dialogue,8,8,8,2196,8.2,1155,4.3,39,1.16,D5.07 Collaborative problem-solving,3.0,
+D6,Interpretive framing and legitimation,9,9,9,18915,70.7,16555,61.8,39,1.57,D6.02 Causal framing,30.7,
+D7,Rhetorical and linguistic characteristics,8,8,8,25662,95.9,,,39,2.45,D7.02 Clarity,70.3,rated on every exchange; counts exchanges with a characteristic rated at the top of its scale
+D8,Organizational commitments and corrective actions,8,7,7,8928,33.4,7005,26.2,39,1.33,D8.06 Reported action underway,21.1,excludes D8.01 No explicit commitment (absence code)
+D9,"Timing, continuity, and follow-up",7,7,4,3329,12.4,2540,9.5,39,1.05,D9.02 Follow-up response,12.0,

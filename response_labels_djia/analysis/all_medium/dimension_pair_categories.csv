@@ -1,0 +1,381 @@
+pair,universe,row_code,row_category,row_basis,row_exchanges,column_code,column_category,column_pct_of_universe,exchanges_both,pct_of_row,pct_of_other_rows,difference_pp,lift
+Information disclosure + Interpretive framing,All exchanges,D2.01,Factual disclosure,category coded,23979,D6.01,Problem definition,2.2,566,2.4,1.1,1.3,1.06
+Information disclosure + Interpretive framing,All exchanges,D2.01,Factual disclosure,category coded,23979,D6.02,Causal framing,30.7,7970,33.2,8.7,24.6,1.08
+Information disclosure + Interpretive framing,All exchanges,D2.01,Factual disclosure,category coded,23979,D6.03,Responsibility framing,0.4,101,0.4,0.2,0.2,1.06
+Information disclosure + Interpretive framing,All exchanges,D2.01,Factual disclosure,category coded,23979,D6.04,Risk framing,4.9,1226,5.1,2.6,2.5,1.05
+Information disclosure + Interpretive framing,All exchanges,D2.01,Factual disclosure,category coded,23979,D6.05,Opportunity framing,29.4,7614,31.8,8.9,22.8,1.08
+Information disclosure + Interpretive framing,All exchanges,D2.01,Factual disclosure,category coded,23979,D6.06,Economic framing,25.0,6407,26.7,9.7,17.0,1.07
+Information disclosure + Interpretive framing,All exchanges,D2.01,Factual disclosure,category coded,23979,D6.07,Moral framing,0.5,137,0.6,0.1,0.4,1.08
+Information disclosure + Interpretive framing,All exchanges,D2.01,Factual disclosure,category coded,23979,D6.08,Legal or regulatory framing,3.4,863,3.6,1.6,2.0,1.06
+Information disclosure + Interpretive framing,All exchanges,D2.01,Factual disclosure,category coded,23979,D6.09,Solution framing,14.8,3848,16.0,4.2,11.9,1.08
+Information disclosure + Interpretive framing,All exchanges,D2.02,Causal explanation,category coded,19279,D6.01,Problem definition,2.2,515,2.7,1.1,1.6,1.2
+Information disclosure + Interpretive framing,All exchanges,D2.02,Causal explanation,category coded,19279,D6.02,Causal framing,30.7,8202,42.5,0.1,42.4,1.39
+Information disclosure + Interpretive framing,All exchanges,D2.02,Causal explanation,category coded,19279,D6.03,Responsibility framing,0.4,79,0.4,0.4,0.0,1.03
+Information disclosure + Interpretive framing,All exchanges,D2.02,Causal explanation,category coded,19279,D6.04,Risk framing,4.9,1104,5.7,2.6,3.1,1.18
+Information disclosure + Interpretive framing,All exchanges,D2.02,Causal explanation,category coded,19279,D6.05,Opportunity framing,29.4,6528,33.9,17.8,16.0,1.15
+Information disclosure + Interpretive framing,All exchanges,D2.02,Causal explanation,category coded,19279,D6.06,Economic framing,25.0,5781,30.0,12.0,18.0,1.2
+Information disclosure + Interpretive framing,All exchanges,D2.02,Causal explanation,category coded,19279,D6.07,Moral framing,0.5,112,0.6,0.4,0.2,1.1
+Information disclosure + Interpretive framing,All exchanges,D2.02,Causal explanation,category coded,19279,D6.08,Legal or regulatory framing,3.4,662,3.4,3.3,0.2,1.01
+Information disclosure + Interpretive framing,All exchanges,D2.02,Causal explanation,category coded,19279,D6.09,Solution framing,14.8,3469,18.0,6.6,11.4,1.22
+Information disclosure + Interpretive framing,All exchanges,D2.03,Evidence provision,category coded,7132,D6.01,Problem definition,2.2,215,3.0,1.9,1.1,1.35
+Information disclosure + Interpretive framing,All exchanges,D2.03,Evidence provision,category coded,7132,D6.02,Causal framing,30.7,3079,43.2,26.1,17.0,1.41
+Information disclosure + Interpretive framing,All exchanges,D2.03,Evidence provision,category coded,7132,D6.03,Responsibility framing,0.4,29,0.4,0.4,0.0,1.03
+Information disclosure + Interpretive framing,All exchanges,D2.03,Evidence provision,category coded,7132,D6.04,Risk framing,4.9,409,5.7,4.5,1.2,1.18
+Information disclosure + Interpretive framing,All exchanges,D2.03,Evidence provision,category coded,7132,D6.05,Opportunity framing,29.4,2971,41.7,24.9,16.7,1.42
+Information disclosure + Interpretive framing,All exchanges,D2.03,Evidence provision,category coded,7132,D6.06,Economic framing,25.0,2113,29.6,23.3,6.4,1.19
+Information disclosure + Interpretive framing,All exchanges,D2.03,Evidence provision,category coded,7132,D6.07,Moral framing,0.5,48,0.7,0.5,0.2,1.28
+Information disclosure + Interpretive framing,All exchanges,D2.03,Evidence provision,category coded,7132,D6.08,Legal or regulatory framing,3.4,193,2.7,3.6,-0.9,0.8
+Information disclosure + Interpretive framing,All exchanges,D2.03,Evidence provision,category coded,7132,D6.09,Solution framing,14.8,1318,18.5,13.5,5.0,1.25
+Information disclosure + Interpretive framing,All exchanges,D2.04,Uncertainty acknowledgment,category coded,7002,D6.01,Problem definition,2.2,176,2.5,2.1,0.4,1.13
+Information disclosure + Interpretive framing,All exchanges,D2.04,Uncertainty acknowledgment,category coded,7002,D6.02,Causal framing,30.7,2500,35.7,28.9,6.8,1.16
+Information disclosure + Interpretive framing,All exchanges,D2.04,Uncertainty acknowledgment,category coded,7002,D6.03,Responsibility framing,0.4,23,0.3,0.4,-0.1,0.83
+Information disclosure + Interpretive framing,All exchanges,D2.04,Uncertainty acknowledgment,category coded,7002,D6.04,Risk framing,4.9,776,11.1,2.6,8.4,2.28
+Information disclosure + Interpretive framing,All exchanges,D2.04,Uncertainty acknowledgment,category coded,7002,D6.05,Opportunity framing,29.4,1948,27.8,29.9,-2.1,0.95
+Information disclosure + Interpretive framing,All exchanges,D2.04,Uncertainty acknowledgment,category coded,7002,D6.06,Economic framing,25.0,1620,23.1,25.6,-2.5,0.93
+Information disclosure + Interpretive framing,All exchanges,D2.04,Uncertainty acknowledgment,category coded,7002,D6.07,Moral framing,0.5,51,0.7,0.5,0.3,1.38
+Information disclosure + Interpretive framing,All exchanges,D2.04,Uncertainty acknowledgment,category coded,7002,D6.08,Legal or regulatory framing,3.4,471,6.7,2.2,4.5,1.99
+Information disclosure + Interpretive framing,All exchanges,D2.04,Uncertainty acknowledgment,category coded,7002,D6.09,Solution framing,14.8,1050,15.0,14.7,0.3,1.01
+Information disclosure + Interpretive framing,All exchanges,D2.05,Correction or clarification,category coded,3394,D6.01,Problem definition,2.2,81,2.4,2.2,0.2,1.07
+Information disclosure + Interpretive framing,All exchanges,D2.05,Correction or clarification,category coded,3394,D6.02,Causal framing,30.7,1162,34.2,30.2,4.1,1.12
+Information disclosure + Interpretive framing,All exchanges,D2.05,Correction or clarification,category coded,3394,D6.03,Responsibility framing,0.4,16,0.5,0.4,0.1,1.19
+Information disclosure + Interpretive framing,All exchanges,D2.05,Correction or clarification,category coded,3394,D6.04,Risk framing,4.9,150,4.4,4.9,-0.5,0.91
+Information disclosure + Interpretive framing,All exchanges,D2.05,Correction or clarification,category coded,3394,D6.05,Opportunity framing,29.4,754,22.2,30.4,-8.2,0.76
+Information disclosure + Interpretive framing,All exchanges,D2.05,Correction or clarification,category coded,3394,D6.06,Economic framing,25.0,900,26.5,24.7,1.8,1.06
+Information disclosure + Interpretive framing,All exchanges,D2.05,Correction or clarification,category coded,3394,D6.07,Moral framing,0.5,17,0.5,0.5,-0.0,0.95
+Information disclosure + Interpretive framing,All exchanges,D2.05,Correction or clarification,category coded,3394,D6.08,Legal or regulatory framing,3.4,140,4.1,3.3,0.8,1.22
+Information disclosure + Interpretive framing,All exchanges,D2.05,Correction or clarification,category coded,3394,D6.09,Solution framing,14.8,419,12.3,15.2,-2.8,0.83
+Information disclosure + Interpretive framing,All exchanges,D2.06,Disclosure boundary,category coded,1090,D6.01,Problem definition,2.2,30,2.8,2.2,0.5,1.24
+Information disclosure + Interpretive framing,All exchanges,D2.06,Disclosure boundary,category coded,1090,D6.02,Causal framing,30.7,205,18.8,31.2,-12.4,0.61
+Information disclosure + Interpretive framing,All exchanges,D2.06,Disclosure boundary,category coded,1090,D6.03,Responsibility framing,0.4,10,0.9,0.4,0.5,2.32
+Information disclosure + Interpretive framing,All exchanges,D2.06,Disclosure boundary,category coded,1090,D6.04,Risk framing,4.9,41,3.8,4.9,-1.1,0.78
+Information disclosure + Interpretive framing,All exchanges,D2.06,Disclosure boundary,category coded,1090,D6.05,Opportunity framing,29.4,282,25.9,29.5,-3.7,0.88
+Information disclosure + Interpretive framing,All exchanges,D2.06,Disclosure boundary,category coded,1090,D6.06,Economic framing,25.0,279,25.6,24.9,0.7,1.03
+Information disclosure + Interpretive framing,All exchanges,D2.06,Disclosure boundary,category coded,1090,D6.07,Moral framing,0.5,7,0.6,0.5,0.1,1.22
+Information disclosure + Interpretive framing,All exchanges,D2.06,Disclosure boundary,category coded,1090,D6.08,Legal or regulatory framing,3.4,74,6.8,3.2,3.5,2.0
+Information disclosure + Interpretive framing,All exchanges,D2.06,Disclosure boundary,category coded,1090,D6.09,Solution framing,14.8,128,11.7,14.9,-3.2,0.79
+Information disclosure + Interpretive framing,All exchanges,D2.07,Protective instruction,category coded,5,D6.01,Problem definition,2.2,0,0.0,2.2,-2.2,0.0
+Information disclosure + Interpretive framing,All exchanges,D2.07,Protective instruction,category coded,5,D6.02,Causal framing,30.7,0,0.0,30.7,-30.7,0.0
+Information disclosure + Interpretive framing,All exchanges,D2.07,Protective instruction,category coded,5,D6.03,Responsibility framing,0.4,0,0.0,0.4,-0.4,0.0
+Information disclosure + Interpretive framing,All exchanges,D2.07,Protective instruction,category coded,5,D6.04,Risk framing,4.9,1,20.0,4.8,15.2,4.12
+Information disclosure + Interpretive framing,All exchanges,D2.07,Protective instruction,category coded,5,D6.05,Opportunity framing,29.4,2,40.0,29.4,10.6,1.36
+Information disclosure + Interpretive framing,All exchanges,D2.07,Protective instruction,category coded,5,D6.06,Economic framing,25.0,1,20.0,25.0,-5.0,0.8
+Information disclosure + Interpretive framing,All exchanges,D2.07,Protective instruction,category coded,5,D6.07,Moral framing,0.5,0,0.0,0.5,-0.5,0.0
+Information disclosure + Interpretive framing,All exchanges,D2.07,Protective instruction,category coded,5,D6.08,Legal or regulatory framing,3.4,0,0.0,3.4,-3.4,0.0
+Information disclosure + Interpretive framing,All exchanges,D2.07,Protective instruction,category coded,5,D6.09,Solution framing,14.8,4,80.0,14.8,65.2,5.4
+Information disclosure + Interpretive framing,All exchanges,D2.08,Process update,category coded,1536,D6.01,Problem definition,2.2,48,3.1,2.2,1.0,1.4
+Information disclosure + Interpretive framing,All exchanges,D2.08,Process update,category coded,1536,D6.02,Causal framing,30.7,227,14.8,31.6,-16.9,0.48
+Information disclosure + Interpretive framing,All exchanges,D2.08,Process update,category coded,1536,D6.03,Responsibility framing,0.4,9,0.6,0.4,0.2,1.48
+Information disclosure + Interpretive framing,All exchanges,D2.08,Process update,category coded,1536,D6.04,Risk framing,4.9,81,5.3,4.8,0.4,1.09
+Information disclosure + Interpretive framing,All exchanges,D2.08,Process update,category coded,1536,D6.05,Opportunity framing,29.4,496,32.3,29.2,3.1,1.1
+Information disclosure + Interpretive framing,All exchanges,D2.08,Process update,category coded,1536,D6.06,Economic framing,25.0,433,28.2,24.8,3.4,1.13
+Information disclosure + Interpretive framing,All exchanges,D2.08,Process update,category coded,1536,D6.07,Moral framing,0.5,20,1.3,0.5,0.8,2.47
+Information disclosure + Interpretive framing,All exchanges,D2.08,Process update,category coded,1536,D6.08,Legal or regulatory framing,3.4,205,13.3,2.8,10.6,3.94
+Information disclosure + Interpretive framing,All exchanges,D2.08,Process update,category coded,1536,D6.09,Solution framing,14.8,377,24.5,14.2,10.3,1.66
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D6.01,Problem definition,3.7,11,5.1,3.6,1.4,1.38
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D6.02,Causal framing,46.3,78,35.9,46.5,-10.5,0.78
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D6.03,Responsibility framing,0.8,19,8.8,0.6,8.1,10.88
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D6.04,Risk framing,7.5,6,2.8,7.6,-4.8,0.37
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D6.05,Opportunity framing,26.4,61,28.1,26.4,1.7,1.06
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D6.06,Economic framing,24.4,72,33.2,24.3,8.9,1.36
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D6.07,Moral framing,0.9,6,2.8,0.9,1.9,2.94
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D6.08,Legal or regulatory framing,5.7,31,14.3,5.5,8.8,2.52
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D6.09,Solution framing,22.9,44,20.3,23.0,-2.7,0.88
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D6.01,Problem definition,3.7,6,12.5,3.6,8.9,3.4
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D6.02,Causal framing,46.3,34,70.8,46.2,24.7,1.53
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D6.03,Responsibility framing,0.8,15,31.2,0.7,30.6,38.83
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D6.04,Risk framing,7.5,3,6.2,7.5,-1.2,0.83
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D6.05,Opportunity framing,26.4,13,27.1,26.4,0.7,1.03
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D6.06,Economic framing,24.4,20,41.7,24.4,17.3,1.71
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D6.07,Moral framing,0.9,6,12.5,0.9,11.6,13.27
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D6.08,Legal or regulatory framing,5.7,11,22.9,5.6,17.3,4.03
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D6.09,Solution framing,22.9,12,25.0,22.9,2.1,1.09
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D6.01,Problem definition,3.7,79,4.4,3.5,0.9,1.19
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D6.02,Causal framing,46.3,1517,84.3,38.8,45.5,1.82
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D6.03,Responsibility framing,0.8,32,1.8,0.6,1.2,2.21
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D6.04,Risk framing,7.5,144,8.0,7.4,0.6,1.07
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D6.05,Opportunity framing,26.4,479,26.6,26.4,0.2,1.01
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D6.06,Economic framing,24.4,369,20.5,25.2,-4.7,0.84
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D6.07,Moral framing,0.9,10,0.6,1.0,-0.5,0.59
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D6.08,Legal or regulatory framing,5.7,81,4.5,5.9,-1.4,0.79
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D6.09,Solution framing,22.9,459,25.5,22.4,3.1,1.11
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D6.01,Problem definition,3.7,48,3.6,3.7,-0.1,0.98
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D6.02,Causal framing,46.3,491,36.9,47.6,-10.6,0.8
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D6.03,Responsibility framing,0.8,16,1.2,0.7,0.5,1.5
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D6.04,Risk framing,7.5,86,6.5,7.6,-1.2,0.86
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D6.05,Opportunity framing,26.4,451,33.9,25.4,8.6,1.29
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D6.06,Economic framing,24.4,864,65.0,18.8,46.2,2.66
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D6.07,Moral framing,0.9,37,2.8,0.7,2.1,2.96
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D6.08,Legal or regulatory framing,5.7,74,5.6,5.7,-0.1,0.98
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D6.09,Solution framing,22.9,402,30.2,21.9,8.3,1.32
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D6.01,Problem definition,3.7,49,3.6,3.7,-0.1,0.97
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D6.02,Causal framing,46.3,688,49.9,45.8,4.1,1.08
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D6.03,Responsibility framing,0.8,15,1.1,0.8,0.3,1.35
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D6.04,Risk framing,7.5,100,7.3,7.5,-0.3,0.97
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D6.05,Opportunity framing,26.4,296,21.5,27.1,-5.7,0.81
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D6.06,Economic framing,24.4,255,18.5,25.3,-6.8,0.76
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D6.07,Moral framing,0.9,14,1.0,0.9,0.1,1.08
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D6.08,Legal or regulatory framing,5.7,81,5.9,5.7,0.2,1.03
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D6.09,Solution framing,22.9,254,18.4,23.6,-5.2,0.8
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D6.01,Problem definition,3.7,170,4.0,3.5,0.5,1.09
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D6.02,Causal framing,46.3,2054,48.3,45.0,3.4,1.04
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D6.03,Responsibility framing,0.8,39,0.9,0.7,0.2,1.14
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D6.04,Risk framing,7.5,280,6.6,8.1,-1.5,0.88
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D6.05,Opportunity framing,26.4,1643,38.7,18.6,20.0,1.46
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D6.06,Economic framing,24.4,1316,31.0,20.3,10.7,1.27
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D6.07,Moral framing,0.9,55,1.3,0.7,0.6,1.37
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D6.08,Legal or regulatory framing,5.7,147,3.5,7.1,-3.6,0.61
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D6.09,Solution framing,22.9,1138,26.8,20.5,6.3,1.17
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D6.01,Problem definition,3.7,2,12.5,3.7,8.8,3.4
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D6.02,Causal framing,46.3,2,12.5,46.3,-33.8,0.27
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D6.03,Responsibility framing,0.8,0,0.0,0.8,-0.8,0.0
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D6.04,Risk framing,7.5,0,0.0,7.5,-7.5,0.0
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D6.05,Opportunity framing,26.4,7,43.8,26.4,17.4,1.66
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D6.06,Economic framing,24.4,7,43.8,24.4,19.3,1.79
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D6.07,Moral framing,0.9,1,6.2,0.9,5.3,6.63
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D6.08,Legal or regulatory framing,5.7,3,18.8,5.7,13.1,3.3
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D6.09,Solution framing,22.9,7,43.8,22.9,20.8,1.91
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D6.01,Problem definition,3.7,33,17.3,3.4,13.8,4.7
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D6.02,Causal framing,46.3,107,56.0,46.1,9.9,1.21
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D6.03,Responsibility framing,0.8,20,10.5,0.6,9.8,13.01
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D6.04,Risk framing,7.5,12,6.3,7.5,-1.2,0.84
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D6.05,Opportunity framing,26.4,41,21.5,26.5,-5.0,0.81
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D6.06,Economic framing,24.4,45,23.6,24.4,-0.9,0.96
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D6.07,Moral framing,0.9,2,1.0,0.9,0.1,1.11
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D6.08,Legal or regulatory framing,5.7,6,3.1,5.7,-2.6,0.55
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D6.09,Solution framing,22.9,121,63.4,22.2,41.1,2.76
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D6.01,Problem definition,3.7,2,10.0,3.7,6.3,2.72
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D6.02,Causal framing,46.3,2,10.0,46.3,-36.3,0.22
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D6.03,Responsibility framing,0.8,1,5.0,0.8,4.2,6.21
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D6.04,Risk framing,7.5,0,0.0,7.5,-7.5,0.0
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D6.05,Opportunity framing,26.4,4,20.0,26.4,-6.4,0.76
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D6.06,Economic framing,24.4,1,5.0,24.5,-19.5,0.2
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D6.07,Moral framing,0.9,0,0.0,0.9,-0.9,0.0
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D6.08,Legal or regulatory framing,5.7,2,10.0,5.7,4.3,1.76
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D6.09,Solution framing,22.9,7,35.0,22.9,12.1,1.53
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D6.01,Problem definition,3.7,2,4.5,3.7,0.9,1.24
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D6.02,Causal framing,46.3,12,27.3,46.4,-19.1,0.59
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D6.03,Responsibility framing,0.8,0,0.0,0.8,-0.8,0.0
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D6.04,Risk framing,7.5,2,4.5,7.5,-3.0,0.61
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D6.05,Opportunity framing,26.4,5,11.4,26.5,-15.1,0.43
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D6.06,Economic framing,24.4,3,6.8,24.5,-17.7,0.28
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D6.07,Moral framing,0.9,5,11.4,0.9,10.5,12.06
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D6.08,Legal or regulatory framing,5.7,10,22.7,5.6,17.1,4.0
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D6.09,Solution framing,22.9,18,40.9,22.9,18.0,1.78
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D6.01,Problem definition,3.7,129,7.8,2.9,4.8,2.12
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D6.02,Causal framing,46.3,752,45.4,46.4,-1.1,0.98
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D6.03,Responsibility framing,0.8,22,1.3,0.7,0.6,1.65
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D6.04,Risk framing,7.5,122,7.4,7.5,-0.2,0.98
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D6.05,Opportunity framing,26.4,374,22.6,27.1,-4.5,0.85
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D6.06,Economic framing,24.4,500,30.2,23.4,6.8,1.23
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D6.07,Moral framing,0.9,19,1.1,0.9,0.2,1.22
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D6.08,Legal or regulatory framing,5.7,77,4.6,5.9,-1.2,0.82
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D6.09,Solution framing,22.9,1308,78.9,12.9,65.9,3.44
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D6.01,Problem definition,3.7,1,2.9,3.7,-0.7,0.8
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D6.02,Causal framing,46.3,12,35.3,46.3,-11.0,0.76
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D6.03,Responsibility framing,0.8,4,11.8,0.8,11.0,14.62
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D6.04,Risk framing,7.5,4,11.8,7.5,4.3,1.57
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D6.05,Opportunity framing,26.4,16,47.1,26.3,20.7,1.78
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D6.06,Economic framing,24.4,7,20.6,24.4,-3.9,0.84
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D6.07,Moral framing,0.9,2,5.9,0.9,5.0,6.24
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D6.08,Legal or regulatory framing,5.7,2,5.9,5.7,0.2,1.04
+Reputation repair + Interpretive framing,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D6.09,Solution framing,22.9,23,67.6,22.8,44.8,2.95
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D8.02,Investigation commitment,0.5,1,0.5,0.5,-0.1,0.9
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D8.03,Conditional commitment,5.8,20,9.2,5.7,3.5,1.59
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D8.04,Policy-change commitment,1.2,3,1.4,1.2,0.2,1.18
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D8.05,Time-bound commitment,11.9,26,12.0,11.9,0.1,1.01
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D8.06,Reported action underway,24.7,58,26.7,24.7,2.1,1.08
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.01,Denial,category coded,217,D8.07,Reported completed action,5.9,12,5.5,6.0,-0.4,0.93
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D8.02,Investigation commitment,0.5,2,4.2,0.5,3.7,8.14
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D8.03,Conditional commitment,5.8,5,10.4,5.8,4.6,1.8
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D8.04,Policy-change commitment,1.2,0,0.0,1.2,-1.2,0.0
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D8.05,Time-bound commitment,11.9,7,14.6,11.9,2.7,1.23
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D8.06,Reported action underway,24.7,11,22.9,24.7,-1.8,0.93
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.02,Shifting blame,category coded,48,D8.07,Reported completed action,5.9,1,2.1,6.0,-3.9,0.35
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D8.02,Investigation commitment,0.5,3,0.2,0.6,-0.4,0.33
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D8.03,Conditional commitment,5.8,77,4.3,6.1,-1.8,0.74
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D8.04,Policy-change commitment,1.2,24,1.3,1.1,0.2,1.14
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D8.05,Time-bound commitment,11.9,199,11.1,12.1,-1.0,0.93
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D8.06,Reported action underway,24.7,463,25.7,24.5,1.2,1.04
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.03,Excuse,category coded,1800,D8.07,Reported completed action,5.9,111,6.2,5.9,0.3,1.04
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D8.02,Investigation commitment,0.5,14,1.1,0.4,0.6,2.06
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D8.03,Conditional commitment,5.8,162,12.2,4.9,7.3,2.11
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D8.04,Policy-change commitment,1.2,33,2.5,1.0,1.5,2.12
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D8.05,Time-bound commitment,11.9,203,15.3,11.4,3.8,1.28
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D8.06,Reported action underway,24.7,466,35.1,23.3,11.8,1.42
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.04,Justification,category coded,1329,D8.07,Reported completed action,5.9,101,7.6,5.7,1.9,1.28
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D8.02,Investigation commitment,0.5,8,0.6,0.5,0.1,1.13
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D8.03,Conditional commitment,5.8,63,4.6,6.0,-1.4,0.79
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D8.04,Policy-change commitment,1.2,13,0.9,1.2,-0.3,0.81
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D8.05,Time-bound commitment,11.9,114,8.3,12.4,-4.2,0.69
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D8.06,Reported action underway,24.7,282,20.4,25.3,-4.9,0.83
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.05,Minimization,category coded,1379,D8.07,Reported completed action,5.9,71,5.1,6.1,-0.9,0.87
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D8.02,Investigation commitment,0.5,19,0.4,0.6,-0.1,0.87
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D8.03,Conditional commitment,5.8,257,6.0,5.6,0.4,1.04
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D8.04,Policy-change commitment,1.2,54,1.3,1.1,0.2,1.09
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D8.05,Time-bound commitment,11.9,568,13.4,11.0,2.4,1.12
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D8.06,Reported action underway,24.7,1228,28.9,22.0,6.9,1.17
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.06,Bolstering,category coded,4250,D8.07,Reported completed action,5.9,330,7.8,4.8,3.0,1.31
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D8.02,Investigation commitment,0.5,0,0.0,0.5,-0.5,0.0
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D8.03,Conditional commitment,5.8,3,18.8,5.8,13.0,3.24
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D8.04,Policy-change commitment,1.2,0,0.0,1.2,-1.2,0.0
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D8.05,Time-bound commitment,11.9,5,31.2,11.9,19.4,2.63
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D8.06,Reported action underway,24.7,5,31.2,24.7,6.6,1.27
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.07,Attacking the accuser,category coded,16,D8.07,Reported completed action,5.9,1,6.2,5.9,0.3,1.05
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D8.02,Investigation commitment,0.5,2,1.0,0.5,0.5,2.04
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D8.03,Conditional commitment,5.8,11,5.8,5.8,-0.0,0.99
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D8.04,Policy-change commitment,1.2,12,6.3,1.1,5.2,5.37
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D8.05,Time-bound commitment,11.9,28,14.7,11.8,2.8,1.23
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D8.06,Reported action underway,24.7,91,47.6,24.3,23.3,1.93
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.08,Responsibility acknowledgment,category coded,191,D8.07,Reported completed action,5.9,27,14.1,5.8,8.3,2.38
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D8.02,Investigation commitment,0.5,1,5.0,0.5,4.5,9.76
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D8.03,Conditional commitment,5.8,4,20.0,5.8,14.2,3.45
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D8.04,Policy-change commitment,1.2,2,10.0,1.2,8.8,8.54
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D8.05,Time-bound commitment,11.9,4,20.0,11.9,8.1,1.68
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D8.06,Reported action underway,24.7,10,50.0,24.7,25.3,2.02
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.09,Apology or mortification,category coded,20,D8.07,Reported completed action,5.9,2,10.0,5.9,4.1,1.68
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D8.02,Investigation commitment,0.5,0,0.0,0.5,-0.5,0.0
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D8.03,Conditional commitment,5.8,7,15.9,5.7,10.2,2.75
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D8.04,Policy-change commitment,1.2,1,2.3,1.2,1.1,1.94
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D8.05,Time-bound commitment,11.9,10,22.7,11.9,10.9,1.91
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D8.06,Reported action underway,24.7,30,68.2,24.5,43.7,2.76
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.10,Compensation,category coded,44,D8.07,Reported completed action,5.9,9,20.5,5.9,14.6,3.44
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D8.02,Investigation commitment,0.5,8,0.5,0.5,-0.0,0.94
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D8.03,Conditional commitment,5.8,123,7.4,5.5,1.9,1.28
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D8.04,Policy-change commitment,1.2,69,4.2,0.6,3.5,3.55
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D8.05,Time-bound commitment,11.9,342,20.6,10.3,10.3,1.73
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D8.06,Reported action underway,24.7,1064,64.2,17.6,46.5,2.6
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.11,Corrective-action communication,category coded,1658,D8.07,Reported completed action,5.9,303,18.3,3.7,14.5,3.07
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D8.02,Investigation commitment,0.5,3,8.8,0.5,8.3,17.23
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D8.03,Conditional commitment,5.8,3,8.8,5.8,3.0,1.52
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D8.04,Policy-change commitment,1.2,4,11.8,1.1,10.6,10.05
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D8.05,Time-bound commitment,11.9,4,11.8,11.9,-0.1,0.99
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D8.06,Reported action underway,24.7,16,47.1,24.6,22.4,1.91
+Reputation repair + Commitments,Exchanges whose question raised a threat,D3.12,Renewal-oriented communication,category coded,34,D8.07,Reported completed action,5.9,6,17.6,5.9,11.7,2.97
+Relational engagement + Commitments,All exchanges,D5.01,Acknowledgment,category coded,605,D8.02,Investigation commitment,0.5,11,1.8,0.5,1.4,3.72
+Relational engagement + Commitments,All exchanges,D5.01,Acknowledgment,category coded,605,D8.03,Conditional commitment,5.6,51,8.4,5.5,2.9,1.5
+Relational engagement + Commitments,All exchanges,D5.01,Acknowledgment,category coded,605,D8.04,Policy-change commitment,0.9,14,2.3,0.9,1.4,2.52
+Relational engagement + Commitments,All exchanges,D5.01,Acknowledgment,category coded,605,D8.05,Time-bound commitment,11.6,89,14.7,11.5,3.2,1.27
+Relational engagement + Commitments,All exchanges,D5.01,Acknowledgment,category coded,605,D8.06,Reported action underway,21.1,183,30.2,20.9,9.4,1.43
+Relational engagement + Commitments,All exchanges,D5.01,Acknowledgment,category coded,605,D8.07,Reported completed action,4.8,51,8.4,4.7,3.7,1.75
+Relational engagement + Commitments,All exchanges,D5.02,Empathy,category coded,70,D8.02,Investigation commitment,0.5,1,1.4,0.5,0.9,2.92
+Relational engagement + Commitments,All exchanges,D5.02,Empathy,category coded,70,D8.03,Conditional commitment,5.6,10,14.3,5.6,8.7,2.55
+Relational engagement + Commitments,All exchanges,D5.02,Empathy,category coded,70,D8.04,Policy-change commitment,0.9,2,2.9,0.9,1.9,3.11
+Relational engagement + Commitments,All exchanges,D5.02,Empathy,category coded,70,D8.05,Time-bound commitment,11.6,10,14.3,11.6,2.7,1.24
+Relational engagement + Commitments,All exchanges,D5.02,Empathy,category coded,70,D8.06,Reported action underway,21.1,26,37.1,21.0,16.1,1.76
+Relational engagement + Commitments,All exchanges,D5.02,Empathy,category coded,70,D8.07,Reported completed action,4.8,8,11.4,4.8,6.6,2.37
+Relational engagement + Commitments,All exchanges,D5.03,Validation,category coded,340,D8.02,Investigation commitment,0.5,4,1.2,0.5,0.7,2.4
+Relational engagement + Commitments,All exchanges,D5.03,Validation,category coded,340,D8.03,Conditional commitment,5.6,41,12.1,5.5,6.5,2.15
+Relational engagement + Commitments,All exchanges,D5.03,Validation,category coded,340,D8.04,Policy-change commitment,0.9,10,2.9,0.9,2.0,3.2
+Relational engagement + Commitments,All exchanges,D5.03,Validation,category coded,340,D8.05,Time-bound commitment,11.6,61,17.9,11.5,6.5,1.55
+Relational engagement + Commitments,All exchanges,D5.03,Validation,category coded,340,D8.06,Reported action underway,21.1,106,31.2,21.0,10.2,1.48
+Relational engagement + Commitments,All exchanges,D5.03,Validation,category coded,340,D8.07,Reported completed action,4.8,18,5.3,4.8,0.5,1.1
+Relational engagement + Commitments,All exchanges,D5.04,Gratitude,category coded,229,D8.02,Investigation commitment,0.5,1,0.4,0.5,-0.1,0.89
+Relational engagement + Commitments,All exchanges,D5.04,Gratitude,category coded,229,D8.03,Conditional commitment,5.6,17,7.4,5.6,1.8,1.32
+Relational engagement + Commitments,All exchanges,D5.04,Gratitude,category coded,229,D8.04,Policy-change commitment,0.9,2,0.9,0.9,-0.0,0.95
+Relational engagement + Commitments,All exchanges,D5.04,Gratitude,category coded,229,D8.05,Time-bound commitment,11.6,42,18.3,11.5,6.8,1.59
+Relational engagement + Commitments,All exchanges,D5.04,Gratitude,category coded,229,D8.06,Reported action underway,21.1,77,33.6,21.0,12.6,1.59
+Relational engagement + Commitments,All exchanges,D5.04,Gratitude,category coded,229,D8.07,Reported completed action,4.8,38,16.6,4.7,11.9,3.44
+Relational engagement + Commitments,All exchanges,D5.05,Invitation to dialogue,category coded,203,D8.02,Investigation commitment,0.5,2,1.0,0.5,0.5,2.01
+Relational engagement + Commitments,All exchanges,D5.05,Invitation to dialogue,category coded,203,D8.03,Conditional commitment,5.6,21,10.3,5.6,4.8,1.84
+Relational engagement + Commitments,All exchanges,D5.05,Invitation to dialogue,category coded,203,D8.04,Policy-change commitment,0.9,7,3.4,0.9,2.5,3.75
+Relational engagement + Commitments,All exchanges,D5.05,Invitation to dialogue,category coded,203,D8.05,Time-bound commitment,11.6,62,30.5,11.4,19.1,2.64
+Relational engagement + Commitments,All exchanges,D5.05,Invitation to dialogue,category coded,203,D8.06,Reported action underway,21.1,50,24.6,21.1,3.6,1.17
+Relational engagement + Commitments,All exchanges,D5.05,Invitation to dialogue,category coded,203,D8.07,Reported completed action,4.8,12,5.9,4.8,1.1,1.23
+Relational engagement + Commitments,All exchanges,D5.06,Consultation,category coded,147,D8.02,Investigation commitment,0.5,2,1.4,0.5,0.9,2.78
+Relational engagement + Commitments,All exchanges,D5.06,Consultation,category coded,147,D8.03,Conditional commitment,5.6,17,11.6,5.6,6.0,2.06
+Relational engagement + Commitments,All exchanges,D5.06,Consultation,category coded,147,D8.04,Policy-change commitment,0.9,3,2.0,0.9,1.1,2.22
+Relational engagement + Commitments,All exchanges,D5.06,Consultation,category coded,147,D8.05,Time-bound commitment,11.6,27,18.4,11.5,6.8,1.59
+Relational engagement + Commitments,All exchanges,D5.06,Consultation,category coded,147,D8.06,Reported action underway,21.1,60,40.8,21.0,19.8,1.94
+Relational engagement + Commitments,All exchanges,D5.06,Consultation,category coded,147,D8.07,Reported completed action,4.8,9,6.1,4.8,1.3,1.27
+Relational engagement + Commitments,All exchanges,D5.07,Collaborative problem-solving,category coded,801,D8.02,Investigation commitment,0.5,9,1.1,0.5,0.7,2.3
+Relational engagement + Commitments,All exchanges,D5.07,Collaborative problem-solving,category coded,801,D8.03,Conditional commitment,5.6,71,8.9,5.5,3.4,1.58
+Relational engagement + Commitments,All exchanges,D5.07,Collaborative problem-solving,category coded,801,D8.04,Policy-change commitment,0.9,13,1.6,0.9,0.7,1.77
+Relational engagement + Commitments,All exchanges,D5.07,Collaborative problem-solving,category coded,801,D8.05,Time-bound commitment,11.6,147,18.4,11.4,7.0,1.59
+Relational engagement + Commitments,All exchanges,D5.07,Collaborative problem-solving,category coded,801,D8.06,Reported action underway,21.1,408,50.9,20.2,30.8,2.42
+Relational engagement + Commitments,All exchanges,D5.07,Collaborative problem-solving,category coded,801,D8.07,Reported completed action,4.8,82,10.2,4.7,5.6,2.12
+Relational engagement + Commitments,All exchanges,D5.08,Feedback incorporation,category coded,159,D8.02,Investigation commitment,0.5,2,1.3,0.5,0.8,2.57
+Relational engagement + Commitments,All exchanges,D5.08,Feedback incorporation,category coded,159,D8.03,Conditional commitment,5.6,17,10.7,5.6,5.1,1.91
+Relational engagement + Commitments,All exchanges,D5.08,Feedback incorporation,category coded,159,D8.04,Policy-change commitment,0.9,4,2.5,0.9,1.6,2.74
+Relational engagement + Commitments,All exchanges,D5.08,Feedback incorporation,category coded,159,D8.05,Time-bound commitment,11.6,26,16.4,11.5,4.8,1.41
+Relational engagement + Commitments,All exchanges,D5.08,Feedback incorporation,category coded,159,D8.06,Reported action underway,21.1,62,39.0,21.0,18.0,1.85
+Relational engagement + Commitments,All exchanges,D5.08,Feedback incorporation,category coded,159,D8.07,Reported completed action,4.8,22,13.8,4.8,9.1,2.87
+Answer responsiveness + Information disclosure,All exchanges,D1.01,Direct answer,overall completeness category,14023,D2.01,Factual disclosure,89.6,12883,91.9,87.1,4.8,1.03
+Answer responsiveness + Information disclosure,All exchanges,D1.01,Direct answer,overall completeness category,14023,D2.02,Causal explanation,72.0,10524,75.0,68.7,6.4,1.04
+Answer responsiveness + Information disclosure,All exchanges,D1.01,Direct answer,overall completeness category,14023,D2.03,Evidence provision,26.6,3720,26.5,26.8,-0.2,1.0
+Answer responsiveness + Information disclosure,All exchanges,D1.01,Direct answer,overall completeness category,14023,D2.04,Uncertainty acknowledgment,26.2,3559,25.4,27.0,-1.6,0.97
+Answer responsiveness + Information disclosure,All exchanges,D1.01,Direct answer,overall completeness category,14023,D2.05,Correction or clarification,12.7,2041,14.6,10.6,3.9,1.15
+Answer responsiveness + Information disclosure,All exchanges,D1.01,Direct answer,overall completeness category,14023,D2.06,Disclosure boundary,4.1,172,1.2,7.2,-6.0,0.3
+Answer responsiveness + Information disclosure,All exchanges,D1.01,Direct answer,overall completeness category,14023,D2.07,Protective instruction,0.0,1,0.0,0.0,-0.0,0.38
+Answer responsiveness + Information disclosure,All exchanges,D1.01,Direct answer,overall completeness category,14023,D2.08,Process update,5.7,729,5.2,6.3,-1.1,0.91
+Answer responsiveness + Information disclosure,All exchanges,D1.02,Partial answer,overall completeness category,9425,D2.01,Factual disclosure,89.6,9165,97.2,85.4,11.8,1.09
+Answer responsiveness + Information disclosure,All exchanges,D1.02,Partial answer,overall completeness category,9425,D2.02,Causal explanation,72.0,7466,79.2,68.1,11.1,1.1
+Answer responsiveness + Information disclosure,All exchanges,D1.02,Partial answer,overall completeness category,9425,D2.03,Evidence provision,26.6,3002,31.9,23.8,8.0,1.2
+Answer responsiveness + Information disclosure,All exchanges,D1.02,Partial answer,overall completeness category,9425,D2.04,Uncertainty acknowledgment,26.2,2760,29.3,24.5,4.8,1.12
+Answer responsiveness + Information disclosure,All exchanges,D1.02,Partial answer,overall completeness category,9425,D2.05,Correction or clarification,12.7,1196,12.7,12.7,0.0,1.0
+Answer responsiveness + Information disclosure,All exchanges,D1.02,Partial answer,overall completeness category,9425,D2.06,Disclosure boundary,4.1,654,6.9,2.5,4.4,1.7
+Answer responsiveness + Information disclosure,All exchanges,D1.02,Partial answer,overall completeness category,9425,D2.07,Protective instruction,0.0,4,0.0,0.0,0.0,2.27
+Answer responsiveness + Information disclosure,All exchanges,D1.02,Partial answer,overall completeness category,9425,D2.08,Process update,5.7,707,7.5,4.8,2.7,1.31
+Answer responsiveness + Information disclosure,All exchanges,D1.03,Indirect answer,overall completeness category,1542,D2.01,Factual disclosure,89.6,1322,85.7,89.8,-4.1,0.96
+Answer responsiveness + Information disclosure,All exchanges,D1.03,Indirect answer,overall completeness category,1542,D2.02,Causal explanation,72.0,948,61.5,72.7,-11.2,0.85
+Answer responsiveness + Information disclosure,All exchanges,D1.03,Indirect answer,overall completeness category,1542,D2.03,Evidence provision,26.6,331,21.5,27.0,-5.5,0.81
+Answer responsiveness + Information disclosure,All exchanges,D1.03,Indirect answer,overall completeness category,1542,D2.04,Uncertainty acknowledgment,26.2,376,24.4,26.3,-1.9,0.93
+Answer responsiveness + Information disclosure,All exchanges,D1.03,Indirect answer,overall completeness category,1542,D2.05,Correction or clarification,12.7,104,6.7,13.0,-6.3,0.53
+Answer responsiveness + Information disclosure,All exchanges,D1.03,Indirect answer,overall completeness category,1542,D2.06,Disclosure boundary,4.1,36,2.3,4.2,-1.8,0.57
+Answer responsiveness + Information disclosure,All exchanges,D1.03,Indirect answer,overall completeness category,1542,D2.07,Protective instruction,0.0,0,0.0,0.0,-0.0,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.03,Indirect answer,overall completeness category,1542,D2.08,Process update,5.7,47,3.0,5.9,-2.9,0.53
+Answer responsiveness + Information disclosure,All exchanges,D1.04,Tangential answer,overall completeness category,319,D2.01,Factual disclosure,89.6,240,75.2,89.8,-14.5,0.84
+Answer responsiveness + Information disclosure,All exchanges,D1.04,Tangential answer,overall completeness category,319,D2.02,Causal explanation,72.0,148,46.4,72.3,-25.9,0.64
+Answer responsiveness + Information disclosure,All exchanges,D1.04,Tangential answer,overall completeness category,319,D2.03,Evidence provision,26.6,42,13.2,26.8,-13.6,0.49
+Answer responsiveness + Information disclosure,All exchanges,D1.04,Tangential answer,overall completeness category,319,D2.04,Uncertainty acknowledgment,26.2,37,11.6,26.3,-14.7,0.44
+Answer responsiveness + Information disclosure,All exchanges,D1.04,Tangential answer,overall completeness category,319,D2.05,Correction or clarification,12.7,30,9.4,12.7,-3.3,0.74
+Answer responsiveness + Information disclosure,All exchanges,D1.04,Tangential answer,overall completeness category,319,D2.06,Disclosure boundary,4.1,10,3.1,4.1,-0.9,0.77
+Answer responsiveness + Information disclosure,All exchanges,D1.04,Tangential answer,overall completeness category,319,D2.07,Protective instruction,0.0,0,0.0,0.0,-0.0,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.04,Tangential answer,overall completeness category,319,D2.08,Process update,5.7,12,3.8,5.8,-2.0,0.66
+Answer responsiveness + Information disclosure,All exchanges,D1.05,Topic shift,overall completeness category,22,D2.01,Factual disclosure,89.6,13,59.1,89.6,-30.5,0.66
+Answer responsiveness + Information disclosure,All exchanges,D1.05,Topic shift,overall completeness category,22,D2.02,Causal explanation,72.0,7,31.8,72.1,-40.2,0.44
+Answer responsiveness + Information disclosure,All exchanges,D1.05,Topic shift,overall completeness category,22,D2.03,Evidence provision,26.6,3,13.6,26.7,-13.0,0.51
+Answer responsiveness + Information disclosure,All exchanges,D1.05,Topic shift,overall completeness category,22,D2.04,Uncertainty acknowledgment,26.2,1,4.5,26.2,-21.6,0.17
+Answer responsiveness + Information disclosure,All exchanges,D1.05,Topic shift,overall completeness category,22,D2.05,Correction or clarification,12.7,2,9.1,12.7,-3.6,0.72
+Answer responsiveness + Information disclosure,All exchanges,D1.05,Topic shift,overall completeness category,22,D2.06,Disclosure boundary,4.1,0,0.0,4.1,-4.1,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.05,Topic shift,overall completeness category,22,D2.07,Protective instruction,0.0,0,0.0,0.0,-0.0,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.05,Topic shift,overall completeness category,22,D2.08,Process update,5.7,0,0.0,5.7,-5.7,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.06,Explicit refusal,overall completeness category,393,D2.01,Factual disclosure,89.6,197,50.1,90.2,-40.0,0.56
+Answer responsiveness + Information disclosure,All exchanges,D1.06,Explicit refusal,overall completeness category,393,D2.02,Causal explanation,72.0,82,20.9,72.8,-51.9,0.29
+Answer responsiveness + Information disclosure,All exchanges,D1.06,Explicit refusal,overall completeness category,393,D2.03,Evidence provision,26.6,21,5.3,27.0,-21.6,0.2
+Answer responsiveness + Information disclosure,All exchanges,D1.06,Explicit refusal,overall completeness category,393,D2.04,Uncertainty acknowledgment,26.2,50,12.7,26.4,-13.6,0.49
+Answer responsiveness + Information disclosure,All exchanges,D1.06,Explicit refusal,overall completeness category,393,D2.05,Correction or clarification,12.7,12,3.1,12.8,-9.8,0.24
+Answer responsiveness + Information disclosure,All exchanges,D1.06,Explicit refusal,overall completeness category,393,D2.06,Disclosure boundary,4.1,178,45.3,3.5,41.8,11.12
+Answer responsiveness + Information disclosure,All exchanges,D1.06,Explicit refusal,overall completeness category,393,D2.07,Protective instruction,0.0,0,0.0,0.0,-0.0,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.06,Explicit refusal,overall completeness category,393,D2.08,Process update,5.7,15,3.8,5.8,-1.9,0.67
+Answer responsiveness + Information disclosure,All exchanges,D1.07,Stated inability,overall completeness category,209,D2.01,Factual disclosure,89.6,93,44.5,89.9,-45.4,0.5
+Answer responsiveness + Information disclosure,All exchanges,D1.07,Stated inability,overall completeness category,209,D2.02,Causal explanation,72.0,62,29.7,72.4,-42.7,0.41
+Answer responsiveness + Information disclosure,All exchanges,D1.07,Stated inability,overall completeness category,209,D2.03,Evidence provision,26.6,5,2.4,26.8,-24.4,0.09
+Answer responsiveness + Information disclosure,All exchanges,D1.07,Stated inability,overall completeness category,209,D2.04,Uncertainty acknowledgment,26.2,171,81.8,25.7,56.1,3.13
+Answer responsiveness + Information disclosure,All exchanges,D1.07,Stated inability,overall completeness category,209,D2.05,Correction or clarification,12.7,2,1.0,12.8,-11.8,0.08
+Answer responsiveness + Information disclosure,All exchanges,D1.07,Stated inability,overall completeness category,209,D2.06,Disclosure boundary,4.1,14,6.7,4.1,2.6,1.65
+Answer responsiveness + Information disclosure,All exchanges,D1.07,Stated inability,overall completeness category,209,D2.07,Protective instruction,0.0,0,0.0,0.0,-0.0,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.07,Stated inability,overall completeness category,209,D2.08,Process update,5.7,7,3.3,5.8,-2.4,0.58
+Answer responsiveness + Information disclosure,All exchanges,D1.08,Deferral,overall completeness category,149,D2.01,Factual disclosure,89.6,59,39.6,89.9,-50.3,0.44
+Answer responsiveness + Information disclosure,All exchanges,D1.08,Deferral,overall completeness category,149,D2.02,Causal explanation,72.0,39,26.2,72.3,-46.1,0.36
+Answer responsiveness + Information disclosure,All exchanges,D1.08,Deferral,overall completeness category,149,D2.03,Evidence provision,26.6,8,5.4,26.8,-21.4,0.2
+Answer responsiveness + Information disclosure,All exchanges,D1.08,Deferral,overall completeness category,149,D2.04,Uncertainty acknowledgment,26.2,46,30.9,26.1,4.7,1.18
+Answer responsiveness + Information disclosure,All exchanges,D1.08,Deferral,overall completeness category,149,D2.05,Correction or clarification,12.7,3,2.0,12.7,-10.7,0.16
+Answer responsiveness + Information disclosure,All exchanges,D1.08,Deferral,overall completeness category,149,D2.06,Disclosure boundary,4.1,26,17.4,4.0,13.5,4.29
+Answer responsiveness + Information disclosure,All exchanges,D1.08,Deferral,overall completeness category,149,D2.07,Protective instruction,0.0,0,0.0,0.0,-0.0,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.08,Deferral,overall completeness category,149,D2.08,Process update,5.7,19,12.8,5.7,7.1,2.22
+Answer responsiveness + Information disclosure,All exchanges,D1.09,Clarification request,overall completeness category,432,D2.01,Factual disclosure,89.6,6,1.4,91.0,-89.6,0.02
+Answer responsiveness + Information disclosure,All exchanges,D1.09,Clarification request,overall completeness category,432,D2.02,Causal explanation,72.0,3,0.7,73.2,-72.5,0.01
+Answer responsiveness + Information disclosure,All exchanges,D1.09,Clarification request,overall completeness category,432,D2.03,Evidence provision,26.6,0,0.0,27.1,-27.1,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.09,Clarification request,overall completeness category,432,D2.04,Uncertainty acknowledgment,26.2,2,0.5,26.6,-26.1,0.02
+Answer responsiveness + Information disclosure,All exchanges,D1.09,Clarification request,overall completeness category,432,D2.05,Correction or clarification,12.7,4,0.9,12.9,-11.9,0.07
+Answer responsiveness + Information disclosure,All exchanges,D1.09,Clarification request,overall completeness category,432,D2.06,Disclosure boundary,4.1,0,0.0,4.1,-4.1,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.09,Clarification request,overall completeness category,432,D2.07,Protective instruction,0.0,0,0.0,0.0,-0.0,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.09,Clarification request,overall completeness category,432,D2.08,Process update,5.7,0,0.0,5.8,-5.8,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.10,No observed response,overall completeness category,255,D2.01,Factual disclosure,89.6,1,0.4,90.4,-90.0,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.10,No observed response,overall completeness category,255,D2.02,Causal explanation,72.0,0,0.0,72.7,-72.7,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.10,No observed response,overall completeness category,255,D2.03,Evidence provision,26.6,0,0.0,26.9,-26.9,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.10,No observed response,overall completeness category,255,D2.04,Uncertainty acknowledgment,26.2,0,0.0,26.4,-26.4,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.10,No observed response,overall completeness category,255,D2.05,Correction or clarification,12.7,0,0.0,12.8,-12.8,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.10,No observed response,overall completeness category,255,D2.06,Disclosure boundary,4.1,0,0.0,4.1,-4.1,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.10,No observed response,overall completeness category,255,D2.07,Protective instruction,0.0,0,0.0,0.0,-0.0,0.0
+Answer responsiveness + Information disclosure,All exchanges,D1.10,No observed response,overall completeness category,255,D2.08,Process update,5.7,0,0.0,5.8,-5.8,0.0

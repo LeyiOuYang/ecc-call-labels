@@ -1,0 +1,11 @@
+call_year,exchanges,framework_labels,frameworks_used,effective_frameworks,top10_pct_of_labels,spearman_vs_other_years,top10_overlap_with_other_years,top_framework,top_framework_pct
+2015,2526,360,46,15.4,70.6,0.682,9,Framing Theory,13.3
+2016,2388,359,50,15.0,69.9,0.808,9,Framing Theory,15.6
+2017,2322,448,53,15.3,68.3,0.776,9,Framing Theory,16.5
+2018,2030,355,49,16.2,65.6,0.785,8,Framing Theory,16.9
+2019,2008,457,51,18.4,63.0,0.879,10,Framing Theory,14.0
+2020,1793,495,52,19.9,61.8,0.78,7,Framing Theory,12.3
+2021,1837,495,55,19.5,58.8,0.752,7,Framing Theory,14.1
+2022,1781,403,53,17.3,64.8,0.792,8,Framing Theory,14.6
+2023,1761,353,50,16.6,65.4,0.755,10,Framing Theory,15.6
+2024,1726,381,48,18.6,61.2,0.764,10,Framing Theory,13.9

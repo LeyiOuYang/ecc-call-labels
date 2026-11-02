@@ -1,0 +1,10 @@
+sector,companies,exchanges,labeled_exchanges,pct_labeled,symbols,most_frequent_area
+Communication Services,3,1489,146,9.8,DIS T VZ,"07 Rhetoric, discourse & meaning"
+Consumer Discretionary,4,2375,171,7.2,AMZN HD MCD NKE,04 Relationships & dialogue
+Consumer Staples,4,2139,173,8.1,KO PG WBA WMT,04 Relationships & dialogue
+Energy,2,2073,179,8.6,CVX XOM,"03 Media, issues & framing"
+Financials,5,4473,393,8.8,AXP GS JPM TRV V,"03 Media, issues & framing"
+Health Care,5,2978,459,15.4,AMGN JNJ MRK PFE UNH,"03 Media, issues & framing"
+Industrials,6,4852,352,7.3,BA CAT GE HON MMM RTX,"07 Rhetoric, discourse & meaning"
+Information Technology,7,3600,202,5.6,AAPL CRM CSCO IBM INTC MSFT NVDA,"07 Rhetoric, discourse & meaning"
+Materials,3,2790,191,6.8,DD DOW SHW,04 Relationships & dialogue

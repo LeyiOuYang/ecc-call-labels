@@ -1,0 +1,12 @@
+row,All sectors,Communication Services,Consumer Discretionary,Consumer Staples,Energy,Financials,Health Care,Industrials,Information Technology,Materials
+D2 Information disclosure,94.16,95.3,94.95,96.31,91.03,93.9,95.97,91.41,95.97,94.52
+D3 Reputation repair,26.02,27.2,26.36,32.21,18.91,20.68,26.83,28.44,30.19,23.76
+D4 Sociopolitical stance,1.69,2.75,0.38,0.84,1.98,2.35,4.2,1.2,1.08,0.61
+D5 Relational engagement,8.2,5.24,9.56,12.86,8.01,6.6,11.55,6.92,9.06,5.34
+D6 Interpretive framing,70.66,78.31,70.27,80.27,66.33,67.32,75.29,63.46,79.36,64.48
+D8 Commitments and actions,33.35,51.78,36.38,40.67,37.24,21.6,45.2,30.38,31.94,25.63
+D9 Timing and follow-up,12.44,16.52,12.76,11.17,14.62,12.41,12.06,10.59,16.44,7.81
+D3 Reputation repair | among exchanges whose question raised a threat,63.71,71.94,69.63,68.22,63.23,54.09,66.86,61.36,71.09,57.2
+D3 Defensive (D3.01-D3.07) | among exchanges whose question raised a threat,57.36,66.25,60.29,61.39,56.77,50.64,61.92,51.76,66.71,51.34
+D3 Accommodative (D3.08-D3.12) | among exchanges whose question raised a threat,16.18,17.94,23.36,24.46,15.65,8.07,12.47,21.12,12.49,13.89
+D4 Sociopolitical stance | among exchanges involving a sociopolitical issue,26.71,43.16,10.23,19.78,25.31,25.18,38.7,21.89,27.27,15.18

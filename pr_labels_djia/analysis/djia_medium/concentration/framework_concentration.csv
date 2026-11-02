@@ -1,0 +1,133 @@
+theory_id,rank,area_id,research_area,theory,exchanges,pct_of_labels,cumulative_pct,solo_share,companies,top_company,top_company_share,effective_companies,peak_year,peak_year_share,effective_years,profile,exchanges_without_interaction_questions,research_questions_in_codebook
+03.05,1,03,"Media, issues & framing",Framing Theory,600,14.61,14.6,0.29,34,JPM,0.122,18.0,2017,0.123,9.9,broad,600,4
+07.02,2,07,"Rhetoric, discourse & meaning",Apologia and organizational defense,362,8.82,23.4,0.29,33,BA,0.083,20.9,2015,0.13,9.7,broad,132,5
+04.04,3,04,Relationships & dialogue,Relationship cultivation strategies,239,5.82,29.2,0.43,35,GS,0.096,22.1,2019,0.151,9.3,broad,239,2
+04.06,4,04,Relationships & dialogue,Organizational listening,223,5.43,34.7,0.39,34,GS,0.126,17.5,2017,0.126,9.7,broad,223,5
+07.01,5,07,"Rhetoric, discourse & meaning",Rhetorical Theory of Public Relations,222,5.41,40.1,0.15,32,BA,0.158,15.7,2017,0.158,9.1,broad,199,6
+06.06,6,06,"Reputation, image & legitimacy",Legitimacy Theory,211,5.14,45.2,0.16,25,BA,0.104,14.0,2019,0.137,9.5,broad,211,4
+04.02,7,04,Relationships & dialogue,Relationship Management Theory,204,4.97,50.2,0.55,30,AXP,0.142,14.6,2020,0.147,9.6,broad,204,4
+06.01,8,06,"Reputation, image & legitimacy",Organizational reputation formation,200,4.87,55.1,0.3,33,MCD,0.1,21.2,2019,0.145,9.4,broad,77,11
+05.01,9,05,"Issues, risk & crisis",Issues Management Theory,167,4.07,59.1,0.46,31,JPM,0.084,19.7,2020,0.162,8.9,broad,167,6
+01.05,10,01,Strategic management & systems,Contingency Theory of Accommodation,135,3.29,62.4,0.13,24,JPM,0.156,13.8,2021,0.126,9.7,broad,135,4
+06.04,11,06,"Reputation, image & legitimacy",Impression Management Theory,132,3.21,65.6,0.29,34,GS,0.098,21.8,2022,0.152,9.5,broad,132,2
+01.07,12,01,Strategic management & systems,Stakeholder salience,120,2.92,68.6,0.35,32,UNH,0.1,20.6,2020,0.233,7.9,broad,120,4
+12.04,13,12,"Ethics, citizenship & advocacy",CSR / corporate citizenship frameworks,112,2.73,71.3,0.34,22,DOW,0.179,11.3,2021,0.33,4.7,period-driven,112,3
+01.10,14,01,Strategic management & systems,Resource dependence theory,111,2.7,74.0,0.4,23,BA,0.324,7.1,2021,0.153,9.4,company-driven,111,4
+12.08,15,12,"Ethics, citizenship & advocacy",Social responsibility / legitimacy,90,2.19,76.2,0.22,20,UNH,0.211,10.8,2020,0.344,5.2,period-driven,90,2
+01.08,16,01,Strategic management & systems,Mixed-motive game-theoretic PR,79,1.92,78.1,0.33,21,BA,0.177,12.0,2016,0.165,9.1,broad,79,3
+05.04,17,05,"Issues, risk & crisis",Image Repair Theory,64,1.56,79.7,0.06,18,BA,0.234,7.8,2019,0.172,8.6,broad,64,3
+06.02,18,06,"Reputation, image & legitimacy",Corporate image and intended image,59,1.44,81.1,0.32,20,MCD,0.22,9.6,2017,0.169,8.2,broad,59,4
+01.06,19,01,Strategic management & systems,Strategic public relations management,50,1.22,82.3,0.38,20,NKE,0.16,12.8,2024,0.2,8.3,broad,50,2
+11.02,20,11,"Global, intercultural & diplomacy",International / global PR frameworks,49,1.19,83.5,0.27,19,NKE,0.184,10.8,2018,0.184,8.8,broad,49,3
+10.07,21,10,Internal & employee communication,Change communication / sensemaking,45,1.1,84.6,0.64,17,KO,0.156,12.6,2021,0.178,8.2,broad,45,2
+12.12,22,12,"Ethics, citizenship & advocacy",Corporate social responsibility communication,40,0.97,85.6,0.18,16,CVX,0.175,10.8,2021,0.275,5.4,period-driven,40,4
+05.02,23,05,"Issues, risk & crisis",Contingency Theory of Conflict Management,34,0.83,86.4,0.21,14,TRV,0.147,11.8,2017,0.176,8.8,broad,34,4
+05.03,24,05,"Issues, risk & crisis",Situational Crisis Communication Theory (SCCT),34,0.83,87.2,0.21,14,BA,0.412,4.9,2019,0.265,6.1,company- and period-driven,34,4
+04.01,25,04,Relationships & dialogue,Organization–Public Relationship (OPR),33,0.8,88.0,0.36,16,WBA,0.152,12.5,2021,0.212,7.3,broad,33,5
+01.04,26,01,Strategic management & systems,Open-systems and boundary spanning,31,0.75,88.8,0.19,18,GS,0.161,12.2,2021,0.194,7.9,broad,31,2
+09.04,27,09,"Digital, networked & AI",Platform affordances,30,0.73,89.5,0.43,9,NKE,0.4,4.7,2021,0.2,8.3,company-driven,30,3
+05.13,28,05,"Issues, risk & crisis",CERC crisis/emergency model,27,0.66,90.2,0.52,14,JNJ,0.333,6.6,2020,0.481,3.2,company- and period-driven,27,3
+01.01,29,01,Strategic management & systems,Four models of public relations,24,0.58,90.8,0.62,11,MRK,0.25,7.0,2019,0.25,6.0,company- and period-driven,24,3
+03.02,30,03,"Media, issues & framing",Agenda-Building,24,0.58,91.4,0.12,13,GS,0.167,10.3,2021,0.208,6.9,broad,24,6
+03.09,31,03,"Media, issues & framing",Hallahan’s seven PR framing models,21,0.51,91.9,0.76,12,MRK,0.19,9.4,2023,0.19,7.2,broad,21,5
+04.03,32,04,Relationships & dialogue,Dialogic Theory,19,0.46,92.3,0.42,10,V,0.211,8.0,2015,0.316,4.6,thin,15,4
+02.03,33,02,Publics & PUBLIC OPINION,Public opinion formation and change,17,0.41,92.7,0.29,11,MCD,0.176,8.8,2019,0.235,6.4,thin,17,5
+05.07,34,05,"Issues, risk & crisis",Discourse of Renewal,16,0.39,93.1,0.19,7,BA,0.5,3.3,2019,0.25,4.4,thin,16,2
+06.07,35,06,"Reputation, image & legitimacy",Attribution Theory,15,0.37,93.5,0.13,9,BA,0.333,5.8,2024,0.2,6.4,thin,15,2
+07.08,36,07,"Rhetoric, discourse & meaning",Strategic ambiguity,15,0.37,93.9,0.2,12,BA,0.133,10.7,2024,0.267,6.8,thin,8,7
+12.03,37,12,"Ethics, citizenship & advocacy",Ethical stakeholder responsibility,15,0.37,94.2,0.33,10,AAPL,0.267,6.8,2022,0.2,6.8,thin,15,2
+05.14,38,05,"Issues, risk & crisis",IDEA instructional risk model,13,0.32,94.5,0.31,10,MRK,0.231,8.0,2020,0.308,4.3,thin,13,3
+12.01,39,12,"Ethics, citizenship & advocacy",Communitarian Theory,13,0.32,94.9,0.0,8,JPM,0.231,6.8,2020,0.385,4.6,thin,13,2
+02.05,40,02,Publics & PUBLIC OPINION,Two-Step Flow and opinion leadership,11,0.27,95.1,0.27,8,AMGN,0.182,7.1,2022,0.182,6.4,thin,11,3
+04.05,41,04,Relationships & dialogue,Co-orientation Theory,11,0.27,95.4,0.27,8,PG,0.273,6.4,2017,0.273,4.8,thin,11,3
+09.02,42,09,"Digital, networked & AI",Diffusion of Innovations,11,0.27,95.7,0.73,6,PFE,0.364,4.2,2016,0.273,5.3,thin,11,2
+09.05,43,09,"Digital, networked & AI",Mediatization,11,0.27,95.9,0.36,3,PG,0.636,2.1,2024,0.364,3.9,thin,11,2
+01.02,44,01,Strategic management & systems,Two-way symmetrical communication,9,0.22,96.2,0.22,7,GS,0.333,5.4,2023,0.222,5.4,thin,9,3
+12.10,45,12,"Ethics, citizenship & advocacy",Kantian deontological PR ethics,9,0.22,96.4,0.0,5,AAPL,0.444,3.5,2018,0.333,3.9,thin,9,4
+06.03,46,06,"Reputation, image & legitimacy",Organizational identity / identification,8,0.19,96.6,0.5,6,MCD,0.375,4.6,2022,0.375,4.6,thin,8,3
+12.05,47,12,"Ethics, citizenship & advocacy",Advocacy and activist PR,8,0.19,96.8,0.0,4,JPM,0.375,3.2,2017,0.5,2.5,thin,8,2
+09.06,48,09,"Digital, networked & AI",Algorithmic gatekeeping / visibility,7,0.17,96.9,0.57,2,PG,0.857,1.3,2017,0.286,4.5,thin,7,5
+10.03,49,10,Internal & employee communication,Employee–organization relationship frameworks,7,0.17,97.1,0.29,6,BA,0.286,5.4,2021,0.286,4.5,thin,7,3
+10.06,50,10,Internal & employee communication,Employee voice and silence,7,0.17,97.3,0.14,5,BA,0.286,4.5,2024,0.286,5.4,thin,7,4
+11.06,51,11,"Global, intercultural & diplomacy",International relationship-building,7,0.17,97.4,0.57,3,UNH,0.571,2.3,2017,0.286,4.5,thin,7,2
+10.02,52,10,Internal & employee communication,Social Exchange Theory,6,0.15,97.6,0.33,4,MCD,0.333,3.6,2021,0.5,3.0,thin,6,2
+11.08,53,11,"Global, intercultural & diplomacy",Generic–specific principles of global PR,6,0.15,97.7,0.5,3,NKE,0.5,2.6,2016,0.333,4.5,thin,6,4
+02.10,54,02,Publics & PUBLIC OPINION,Expectancy Violations Theory,5,0.12,97.9,0.4,4,DIS,0.4,3.6,2018,0.4,3.6,thin,5,3
+07.06,55,07,"Rhetoric, discourse & meaning",Communicative Constitution of Organizations (CCO),5,0.12,98.0,0.4,4,GS,0.4,3.6,2018,0.6,2.3,thin,3,4
+08.02,56,08,"Critical, cultural & power",Political economy of public relations,5,0.12,98.1,0.6,4,INTC,0.4,3.6,2022,0.4,3.6,thin,5,2
+03.07,57,03,"Media, issues & framing",Issue ownership,4,0.1,98.2,0.0,4,CSCO,0.25,4.0,2017,0.5,2.7,thin,4,4
+04.07,58,04,Relationships & dialogue,Stewardship Theory,4,0.1,98.3,0.5,3,MMM,0.5,2.7,2023,0.25,4.0,thin,4,3
+04.10,59,04,Relationships & dialogue,Consensus-Oriented Public Relations (COPR),4,0.1,98.4,0.0,3,PFE,0.5,2.7,2021,0.5,2.7,thin,4,3
+07.09,60,07,"Rhetoric, discourse & meaning",Fully functioning society approach,4,0.1,98.5,0.25,4,JPM,0.25,4.0,2021,0.5,2.7,thin,4,3
+09.09,61,09,"Digital, networked & AI",Actor–Network Theory (human and nonhuman actants),4,0.1,98.6,1.0,4,IBM,0.25,4.0,2023,0.75,1.6,thin,4,4
+11.03,62,11,"Global, intercultural & diplomacy",Cultural-economic model of PR,4,0.1,98.7,0.75,4,DIS,0.25,4.0,2015,0.5,2.7,thin,4,2
+04.11,63,04,Relationships & dialogue,Stewardship (four relationship-maintenance practices),3,0.07,98.8,0.0,2,MCD,0.667,1.8,2024,1.0,1.0,thin,3,4
+05.15,64,05,"Issues, risk & crisis",Legitimacy gap (issue management),3,0.07,98.8,0.0,3,DOW,0.333,3.0,2020,0.667,1.8,thin,3,3
+06.09,65,06,"Reputation, image & legitimacy",CSR attributions (altruistic vs. self-serving),3,0.07,98.9,0.0,3,DOW,0.333,3.0,2021,0.667,1.8,thin,3,3
+07.03,66,07,"Rhetoric, discourse & meaning",Narrative Paradigm,3,0.07,99.0,0.0,3,CSCO,0.333,3.0,2015,0.333,3.0,thin,3,2
+07.05,67,07,"Rhetoric, discourse & meaning",Discourse and discursive struggle,3,0.07,99.1,0.0,3,AMGN,0.333,3.0,2024,0.333,3.0,thin,3,2
+09.03,68,09,"Digital, networked & AI",Social media dialogic communication,3,0.07,99.1,0.33,2,PG,0.667,1.8,2021,0.333,3.0,thin,3,3
+09.07,69,09,"Digital, networked & AI",Networked publics,3,0.07,99.2,0.0,3,AXP,0.333,3.0,2016,0.333,3.0,thin,3,4
+10.01,70,10,Internal & employee communication,Social Identity Theory,3,0.07,99.3,0.67,3,BA,0.333,3.0,2016,0.333,3.0,thin,3,4
+10.08,71,10,Internal & employee communication,Employee communication behavior (ECB),3,0.07,99.3,0.67,3,CRM,0.333,3.0,2023,0.333,3.0,thin,3,3
+04.09,72,04,Relationships & dialogue,Public engagement framework,2,0.05,99.4,0.0,1,NKE,1.0,1.0,2020,1.0,1.0,thin,2,3
+05.06,73,05,"Issues, risk & crisis",Integrated Crisis Mapping,2,0.05,99.4,0.5,2,PG,0.5,2.0,2023,0.5,2.0,thin,2,3
+06.05,74,06,"Reputation, image & legitimacy",Institutional Theory,2,0.05,99.5,0.5,2,MMM,0.5,2.0,2022,0.5,2.0,thin,2,2
+10.04,75,10,Internal & employee communication,Organizational identification,2,0.05,99.5,1.0,2,BA,0.5,2.0,2021,0.5,2.0,thin,2,2
+10.09,76,10,Internal & employee communication,Megaphoning and scouting effects,2,0.05,99.6,0.0,2,PG,0.5,2.0,2017,0.5,2.0,thin,2,4
+12.07,77,12,"Ethics, citizenship & advocacy",Corporate social advocacy,2,0.05,99.6,0.0,2,AAPL,0.5,2.0,2021,0.5,2.0,thin,2,3
+01.03,78,01,Strategic management & systems,Excellence Theory,1,0.02,99.7,0.0,1,MMM,1.0,1.0,2019,1.0,1.0,thin,1,3
+01.09,79,01,Strategic management & systems,Chaos and complexity theory,1,0.02,99.7,0.0,1,JPM,1.0,1.0,2015,1.0,1.0,thin,1,3
+01.11,80,01,Strategic management & systems,Reflective paradigm (autopoietic systems),1,0.02,99.7,0.0,1,DIS,1.0,1.0,2021,1.0,1.0,thin,1,3
+02.02,81,02,Publics & PUBLIC OPINION,Situational Theory of Problem Solving (STOPS),1,0.02,99.7,1.0,1,UNH,1.0,1.0,2018,1.0,1.0,thin,1,4
+03.01,82,03,"Media, issues & framing",Agenda-Setting (first/second level),1,0.02,99.8,0.0,1,MCD,1.0,1.0,2024,1.0,1.0,thin,1,5
+03.12,83,03,"Media, issues & framing",Mediatization of organizations,1,0.02,99.8,1.0,1,AMGN,1.0,1.0,2024,1.0,1.0,thin,1,3
+05.05,84,05,"Issues, risk & crisis",Social-Mediated Crisis Communication (SMCC),1,0.02,99.8,0.0,1,PG,1.0,1.0,2024,1.0,1.0,thin,1,3
+05.08,85,05,"Issues, risk & crisis",Risk-information seeking and processing,1,0.02,99.8,1.0,1,CSCO,1.0,1.0,2021,1.0,1.0,thin,1,2
+05.10,86,05,"Issues, risk & crisis",Stealing thunder,1,0.02,99.9,0.0,1,INTC,1.0,1.0,2022,1.0,1.0,thin,1,3
+06.08,87,06,"Reputation, image & legitimacy",Authenticity and trust frameworks,1,0.02,99.9,0.0,1,PG,1.0,1.0,2020,1.0,1.0,thin,1,5
+07.04,88,07,"Rhetoric, discourse & meaning",Social constructionism,1,0.02,99.9,0.0,1,MCD,1.0,1.0,2022,1.0,1.0,thin,1,2
+07.07,89,07,"Rhetoric, discourse & meaning",Organizational sensemaking,1,0.02,99.9,1.0,1,TRV,1.0,1.0,2018,1.0,1.0,thin,1,3
+11.07,90,11,"Global, intercultural & diplomacy",Institutional logics,1,0.02,100.0,1.0,1,AMGN,1.0,1.0,2023,1.0,1.0,thin,1,2
+11.09,91,11,"Global, intercultural & diplomacy",Personal influence model,1,0.02,100.0,1.0,1,RTX,1.0,1.0,2017,1.0,1.0,thin,1,3
+12.11,92,12,"Ethics, citizenship & advocacy",Corporate social advocacy (CSA),1,0.02,100.0,0.0,1,PG,1.0,1.0,2017,1.0,1.0,thin,1,3
+01.12,93,01,Strategic management & systems,Luhmannian social systems theory,0,0.0,100.0,,0,,,,,,,unused,0,3
+02.01,94,02,Publics & PUBLIC OPINION,Situational Theory of Publics (STP),0,0.0,100.0,,0,,,,,,,unused,0,5
+02.04,95,02,Publics & PUBLIC OPINION,Spiral of Silence,0,0.0,100.0,,0,,,,,,,unused,0,4
+02.06,96,02,Publics & PUBLIC OPINION,Third-Person Effect,0,0.0,100.0,,0,,,,,,,unused,0,4
+02.07,97,02,Publics & PUBLIC OPINION,Public sphere and deliberation,0,0.0,100.0,,0,,,,,,,unused,0,3
+02.08,98,02,Publics & PUBLIC OPINION,Counterpublics and issue publics,0,0.0,100.0,,0,,,,,,,unused,0,3
+02.09,99,02,Publics & PUBLIC OPINION,Symbolic Convergence Theory,0,0.0,100.0,,0,,,,,,,unused,0,3
+03.03,100,03,"Media, issues & framing",Intermedia Agenda-Setting,0,0.0,100.0,,0,,,,,,,unused,0,3
+03.04,101,03,"Media, issues & framing",Network Agenda-Setting,0,0.0,100.0,,0,,,,,,,unused,0,3
+03.06,102,03,"Media, issues & framing",Priming,0,0.0,100.0,,0,,,,,,,unused,0,2
+03.08,103,03,"Media, issues & framing",Media-system dependency,0,0.0,100.0,,0,,,,,,,unused,0,3
+03.10,104,03,"Media, issues & framing",Information subsidies,0,0.0,100.0,,0,,,,,,,unused,0,3
+03.11,105,03,"Media, issues & framing",Media catching,0,0.0,100.0,,0,,,,,,,unused,0,3
+04.08,106,04,Relationships & dialogue,Communicative engagement,0,0.0,100.0,,0,,,,,,,unused,0,2
+05.09,107,05,"Issues, risk & crisis",Rhetorical Arena Theory (RAT),0,0.0,100.0,,0,,,,,,,unused,0,3
+05.11,108,05,"Issues, risk & crisis",Inoculation theory,0,0.0,100.0,,0,,,,,,,unused,0,3
+05.12,109,05,"Issues, risk & crisis",Paracrisis framework,0,0.0,100.0,,0,,,,,,,unused,0,4
+08.01,110,08,"Critical, cultural & power",Critical Public Relations,0,0.0,100.0,,0,,,,,,,unused,0,4
+08.03,111,08,"Critical, cultural & power",Feminist public relations,0,0.0,100.0,,0,,,,,,,unused,0,2
+08.04,112,08,"Critical, cultural & power",Postcolonial / decolonial public relations,0,0.0,100.0,,0,,,,,,,unused,0,2
+08.05,113,08,"Critical, cultural & power",Critical race perspectives,0,0.0,100.0,,0,,,,,,,unused,0,2
+08.06,114,08,"Critical, cultural & power",Hegemony and ideology critique,0,0.0,100.0,,0,,,,,,,unused,0,2
+08.07,115,08,"Critical, cultural & power",Public sphere critique,0,0.0,100.0,,0,,,,,,,unused,0,4
+08.08,116,08,"Critical, cultural & power",Activism and counterpublic theory,0,0.0,100.0,,0,,,,,,,unused,0,4
+08.09,117,08,"Critical, cultural & power",Circuit of Culture (five moments),0,0.0,100.0,,0,,,,,,,unused,0,3
+08.10,118,08,"Critical, cultural & power","Bourdieu: field, habitus, capital",0,0.0,100.0,,0,,,,,,,unused,0,3
+08.11,119,08,"Critical, cultural & power",Postmodern PR and dissensus,0,0.0,100.0,,0,,,,,,,unused,0,3
+08.12,120,08,"Critical, cultural & power",PR as organizational activism,0,0.0,100.0,,0,,,,,,,unused,0,3
+08.13,121,08,"Critical, cultural & power",Sociological turn / European PR sociology,0,0.0,100.0,,0,,,,,,,unused,0,3
+09.01,122,09,"Digital, networked & AI",Network Theory,0,0.0,100.0,,0,,,,,,,unused,0,3
+09.08,123,09,"Digital, networked & AI",Datafication and AI-mediated PR,0,0.0,100.0,,0,,,,,,,unused,0,4
+09.10,124,09,"Digital, networked & AI",Algorithmic and computational PR,0,0.0,100.0,,0,,,,,,,unused,0,6
+10.05,125,10,Internal & employee communication,Organizational support theory,0,0.0,100.0,,0,,,,,,,unused,0,2
+11.01,126,11,"Global, intercultural & diplomacy",Cultural dimensions frameworks,0,0.0,100.0,,0,,,,,,,unused,0,3
+11.04,127,11,"Global, intercultural & diplomacy",Public diplomacy,0,0.0,100.0,,0,,,,,,,unused,0,4
+11.05,128,11,"Global, intercultural & diplomacy",Soft Power Theory,0,0.0,100.0,,0,,,,,,,unused,0,3
+11.10,129,11,"Global, intercultural & diplomacy",Cultural interpreter model,0,0.0,100.0,,0,,,,,,,unused,0,3
+12.02,130,12,"Ethics, citizenship & advocacy",Discourse Ethics,0,0.0,100.0,,0,,,,,,,unused,0,3
+12.06,131,12,"Ethics, citizenship & advocacy",Deliberative democracy,0,0.0,100.0,,0,,,,,,,unused,0,2
+12.09,132,12,"Ethics, citizenship & advocacy",TARES ethical persuasion test,0,0.0,100.0,,0,,,,,,,unused,0,4

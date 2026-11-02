@@ -1,0 +1,58 @@
+dimension_id,code,category,population,population_exchanges,exchanges,pct_all_sectors,chi_square,cramers_v,permutation_p,q_value,significant,highest_sector,highest_pct,lowest_sector,lowest_pct
+D2,D2.01,Factual disclosure,all exchanges,26769,23167,86.54,271.3,0.101,0.0785921407859214,0.1945,False,Information Technology,91.0,Financials,82.63
+D2,D2.02,Causal explanation,all exchanges,26769,17814,66.55,322.2,0.11,0.17818218178182182,0.3427,False,Consumer Staples,74.99,Energy,60.64
+D2,D2.03,Evidence provision,all exchanges,26769,5087,19.0,572.5,0.146,0.039996000399960006,0.1176,False,Health Care,27.33,Energy,12.2
+D2,D2.04,Uncertainty acknowledgment,all exchanges,26769,5301,19.8,391.5,0.121,0.0005999400059994001,0.01,True,Financials,27.61,Materials,14.01
+D2,D2.05,Correction or clarification,all exchanges,26769,2708,10.12,86.7,0.057,0.17688231176882313,0.3427,False,Financials,12.79,Consumer Discretionary,7.62
+D2,D2.06,Disclosure boundary,all exchanges,26769,704,2.63,80.5,0.055,0.12968703129687031,0.2702,False,Health Care,4.5,Industrials,1.69
+D2,D2.07,Protective instruction,all exchanges,26769,4,0.01,23.0,0.029,0.0816918308169183,0.1945,False,Communication Services,0.13,Consumer Discretionary,0.0
+D2,D2.08,Process update,all exchanges,26769,1138,4.25,463.5,0.132,0.001999800019998,0.0133,True,Health Care,9.87,Information Technology,1.61
+D3,D3.01,Denial,exchanges whose question raised a threat,10934,160,1.46,24.5,0.047,0.0766923307669233,0.1945,False,Communication Services,2.49,Consumer Discretionary,0.33
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,10934,37,0.34,41.1,0.061,0.284971502849715,0.4318,False,Health Care,1.17,Consumer Discretionary,0.0
+D3,D3.03,Excuse,exchanges whose question raised a threat,10934,641,5.86,77.6,0.084,0.038696130386961305,0.1176,False,Consumer Staples,9.8,Financials,3.22
+D3,D3.04,Justification,exchanges whose question raised a threat,10934,1018,9.31,107.3,0.099,0.025397460253974602,0.0907,False,Communication Services,16.7,Materials,4.83
+D3,D3.05,Minimization,exchanges whose question raised a threat,10934,863,7.89,53.1,0.07,0.28387161283871615,0.4318,False,Financials,10.99,Information Technology,5.3
+D3,D3.06,Bolstering,exchanges whose question raised a threat,10934,2801,25.62,256.6,0.153,0.0010998900109989002,0.0125,True,Communication Services,36.77,Materials,17.0
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,10934,9,0.08,24.5,0.047,0.0628937106289371,0.1747,False,Communication Services,0.36,Consumer Discretionary,0.0
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,10934,118,1.08,45.5,0.064,0.19768023197680232,0.3661,False,Consumer Discretionary,1.89,Health Care,0.08
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,10934,11,0.1,9.6,0.03,0.7322267773222678,0.7959,False,Energy,0.32,Communication Services,0.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,10934,24,0.22,23.3,0.046,0.6342365763423657,0.7207,False,Health Care,0.67,Energy,0.0
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,10934,1193,10.91,206.4,0.137,0.12368763123687632,0.2689,False,Consumer Discretionary,18.02,Financials,5.2
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,10934,18,0.16,11.1,0.032,0.9793020697930207,0.9793,False,Industrials,0.36,Consumer Discretionary,0.0
+D4,D4.01,Explicit support,exchanges involving a sociopolitical issue,1696,270,15.92,33.5,0.141,0.43255674432556745,0.5845,False,Communication Services,25.26,Consumer Discretionary,6.82
+D4,D4.02,Explicit opposition,exchanges involving a sociopolitical issue,1696,119,7.02,76.6,0.213,0.0014998500149985001,0.0125,True,Health Care,15.79,Materials,0.89
+D4,D4.03,Declared neutrality,exchanges involving a sociopolitical issue,1696,2,0.12,5.9,0.059,0.4794520547945205,0.5993,False,Energy,0.62,Communication Services,0.0
+D4,D4.04,Qualified stance,exchanges involving a sociopolitical issue,1696,15,0.88,6.6,0.062,0.46155384461553844,0.5993,False,Communication Services,2.11,Consumer Staples,0.0
+D4,D4.05,Symbolic solidarity,exchanges involving a sociopolitical issue,1696,0,0.0,,,,,False,Materials,0.0,Communication Services,0.0
+D4,D4.06,Material advocacy,exchanges involving a sociopolitical issue,1696,27,1.59,10.9,0.08,0.2622737726227377,0.423,False,Communication Services,4.21,Materials,0.89
+D4,D4.07,Position change,exchanges involving a sociopolitical issue,1696,0,0.0,,,,,False,Materials,0.0,Communication Services,0.0
+D5,D5.01,Acknowledgment,all exchanges,26769,271,1.01,32.9,0.035,0.39186081391860816,0.5443,False,Health Care,1.78,Materials,0.54
+D5,D5.02,Empathy,all exchanges,26769,38,0.14,7.8,0.017,0.9293070692930707,0.968,False,Consumer Discretionary,0.25,Communication Services,0.0
+D5,D5.03,Validation,all exchanges,26769,152,0.57,59.9,0.047,0.24987501249875013,0.423,False,Consumer Staples,1.54,Communication Services,0.13
+D5,D5.04,Gratitude,all exchanges,26769,142,0.53,64.1,0.049,0.2552744725527447,0.423,False,Consumer Staples,1.17,Financials,0.09
+D5,D5.05,Invitation to dialogue,all exchanges,26769,107,0.4,90.8,0.058,0.20587941205879412,0.3676,False,Health Care,1.28,Materials,0.04
+D5,D5.06,Consultation,all exchanges,26769,71,0.27,19.9,0.027,0.8816118388161184,0.9379,False,Consumer Discretionary,0.46,Materials,0.0
+D5,D5.07,Collaborative problem-solving,all exchanges,26769,434,1.62,66.1,0.05,0.3488651134886511,0.4984,False,Consumer Discretionary,2.69,Financials,0.63
+D5,D5.08,Feedback incorporation,all exchanges,26769,103,0.38,34.8,0.036,0.33066693330666935,0.4863,False,Information Technology,0.83,Materials,0.11
+D6,D6.01,Problem definition,all exchanges,26769,507,1.89,49.6,0.043,0.5035496450354965,0.5995,False,Health Care,3.02,Materials,0.97
+D6,D6.02,Causal framing,all exchanges,26769,6902,25.78,439.4,0.128,0.0004999500049995,0.01,True,Information Technology,36.31,Energy,16.35
+D6,D6.03,Responsibility framing,all exchanges,26769,77,0.29,17.7,0.026,0.5958404159584042,0.6928,False,Industrials,0.49,Consumer Discretionary,0.13
+D6,D6.04,Risk framing,all exchanges,26769,732,2.73,140.7,0.073,0.037196280371962806,0.1176,False,Financials,4.38,Materials,0.97
+D6,D6.05,Opportunity framing,all exchanges,26769,6180,23.09,1263.2,0.217,0.0023997600239976003,0.0133,True,Communication Services,36.2,Energy,14.38
+D6,D6.06,Economic framing,all exchanges,26769,5410,20.21,1013.7,0.195,0.00019998000199980003,0.01,True,Energy,39.85,Industrials,14.76
+D6,D6.07,Moral framing,all exchanges,26769,76,0.28,24.2,0.03,0.7198280171982802,0.7959,False,Information Technology,0.58,Consumer Discretionary,0.04
+D6,D6.08,Legal or regulatory framing,all exchanges,26769,663,2.48,461.8,0.131,0.0027997200279972004,0.014,True,Financials,6.1,Consumer Discretionary,0.29
+D6,D6.09,Solution framing,all exchanges,26769,2997,11.2,345.3,0.114,0.1136886311368863,0.2584,False,Consumer Staples,20.43,Financials,6.42
+D8,D8.02,Investigation commitment,all exchanges,26769,72,0.27,109.2,0.064,0.009499050094990502,0.0365,True,Health Care,1.18,Information Technology,0.03
+D8,D8.03,Conditional commitment,all exchanges,26769,1071,4.0,179.7,0.082,0.0012998700129987,0.0125,True,Communication Services,7.86,Information Technology,1.69
+D8,D8.04,Policy-change commitment,all exchanges,26769,135,0.5,19.9,0.027,0.47685231476852313,0.5993,False,Communication Services,0.94,Health Care,0.24
+D8,D8.05,Time-bound commitment,all exchanges,26769,2268,8.47,321.9,0.11,0.0047995200479952005,0.0218,True,Communication Services,15.51,Financials,3.89
+D8,D8.06,Reported action underway,all exchanges,26769,4364,16.3,587.9,0.148,0.0022997700229977,0.0133,True,Communication Services,27.87,Financials,8.67
+D8,D8.07,Reported completed action,all exchanges,26769,962,3.59,165.9,0.079,0.007599240075992401,0.0317,True,Consumer Staples,5.52,Financials,1.41
+D9,D9.01,Initial response,all exchanges,26769,0,0.0,,,,,False,Materials,0.0,Communication Services,0.0
+D9,D9.02,Follow-up response,all exchanges,26769,2446,9.14,114.9,0.066,0.49875012498750126,0.5995,False,Communication Services,12.76,Materials,5.77
+D9,D9.03,Response revision,all exchanges,26769,206,0.77,11.8,0.021,0.9721027897210279,0.9793,False,Industrials,1.03,Financials,0.6
+D9,D9.04,Escalation,all exchanges,26769,0,0.0,,,,,False,Materials,0.0,Communication Services,0.0
+D9,D9.05,De-escalation,all exchanges,26769,0,0.0,,,,,False,Materials,0.0,Communication Services,0.0
+D9,D9.06,Resolution communication,all exchanges,26769,0,0.0,,,,,False,Materials,0.0,Communication Services,0.0
+D9,D9.07,Recurrence response,all exchanges,26769,0,0.0,,,,,False,Materials,0.0,Communication Services,0.0

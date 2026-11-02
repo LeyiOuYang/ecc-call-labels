@@ -1,0 +1,12 @@
+row,population,population_exchanges,exchanges,pct_all_sectors,chi_square,cramers_v,permutation_p,q_value,significant,highest_sector,highest_pct,lowest_sector,lowest_pct
+D2 Information disclosure,all exchanges,26769,24693,92.24,170.2,0.08,0.08029197080291971,0.1419,False,Information Technology,94.81,Energy,88.86
+D3 Reputation repair,all exchanges,26769,5040,18.83,206.0,0.088,0.33726627337266274,0.371,False,Consumer Staples,24.92,Energy,14.28
+D4 Sociopolitical stance,all exchanges,26769,358,1.34,183.7,0.083,0.012098790120987902,0.0444,True,Health Care,3.59,Consumer Discretionary,0.29
+D5 Relational engagement,all exchanges,26769,1155,4.31,138.4,0.072,0.10318968103189681,0.1419,False,Consumer Staples,6.97,Communication Services,2.42
+D6 Interpretive framing,all exchanges,26769,16555,61.84,545.6,0.143,0.0836916308369163,0.1419,False,Consumer Staples,71.95,Materials,54.37
+D8 Commitments and actions,all exchanges,26769,7005,26.17,724.7,0.165,0.0026997300269973002,0.0148,True,Communication Services,42.31,Financials,16.12
+D9 Timing and follow-up,all exchanges,26769,2540,9.49,110.8,0.064,0.5525447455254474,0.5525,False,Communication Services,13.03,Materials,6.02
+D3 Reputation repair | among exchanges whose question raised a threat,exchanges whose question raised a threat,10934,5040,46.09,185.2,0.13,0.0770922907709229,0.1419,False,Communication Services,55.24,Materials,35.81
+D3 Defensive (D3.01-D3.07) | among exchanges whose question raised a threat,exchanges whose question raised a threat,10934,4338,39.67,200.8,0.136,0.0021997800219978004,0.0148,True,Communication Services,51.15,Materials,30.28
+D3 Accommodative (D3.08-D3.12) | among exchanges whose question raised a threat,exchanges whose question raised a threat,10934,1262,11.54,208.2,0.138,0.1374862513748625,0.168,False,Consumer Discretionary,18.8,Financials,5.56
+D4 Sociopolitical stance | among exchanges involving a sociopolitical issue,exchanges involving a sociopolitical issue,1696,358,21.11,63.1,0.193,0.10218978102189781,0.1419,False,Health Care,33.13,Consumer Discretionary,7.95

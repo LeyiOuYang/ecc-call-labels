@@ -1,0 +1,10 @@
+sector,companies,exchanges,threat_exchanges,sociopolitical_exchanges,pct_threat,pct_sociopolitical,symbols
+Communication Services,3,1489,563,95,37.8,6.4,DIS T VZ
+Consumer Discretionary,4,2375,899,88,37.9,3.7,AMZN HD MCD NKE
+Consumer Staples,4,2139,1010,91,47.2,4.3,KO PG WBA WMT
+Energy,2,2073,620,162,29.9,7.8,CVX XOM
+Financials,5,4473,1710,417,38.2,9.3,AXP GS JPM TRV V
+Health Care,5,2978,1195,323,40.1,10.8,AMGN JNJ MRK PFE UNH
+Industrials,6,4852,2249,265,46.4,5.5,BA CAT GE HON MMM RTX
+Information Technology,7,3600,1529,143,42.5,4.0,AAPL CRM CSCO IBM INTC MSFT NVDA
+Materials,3,2790,1159,112,41.5,4.0,DD DOW SHW

@@ -1,0 +1,78 @@
+dimension_id,dimension,rank_in_dimension,code,category,coding_mode,measure,exchanges,pct_of_exchanges,pct_of_dimension_exchanges,high_confidence_exchanges,pct_high_confidence,as_completeness,pct_as_completeness,companies
+D1,Answer responsiveness and completeness,1,D1.01,Direct answer,label,coded,14023,52.4,52.4,13440,95.8,14023,52.4,39
+D1,Answer responsiveness and completeness,2,D1.02,Partial answer,label,coded,9425,35.2,35.2,9018,95.7,9425,35.2,39
+D1,Answer responsiveness and completeness,3,D1.06,Explicit refusal,label,coded,2107,7.9,7.9,2090,99.2,393,1.5,39
+D1,Answer responsiveness and completeness,4,D1.03,Indirect answer,label,coded,1571,5.9,5.9,1331,84.7,1542,5.8,39
+D1,Answer responsiveness and completeness,5,D1.08,Deferral,label,coded,1225,4.6,4.6,1222,99.8,149,0.6,39
+D1,Answer responsiveness and completeness,6,D1.07,Stated inability,label,coded,724,2.7,2.7,703,97.1,209,0.8,39
+D1,Answer responsiveness and completeness,7,D1.09,Clarification request,label,coded,580,2.2,2.2,559,96.4,432,1.6,39
+D1,Answer responsiveness and completeness,8,D1.04,Tangential answer,label,coded,325,1.2,1.2,283,87.1,319,1.2,39
+D1,Answer responsiveness and completeness,9,D1.05,Topic shift,label,coded,310,1.2,1.2,309,99.7,22,0.1,38
+D1,Answer responsiveness and completeness,10,D1.10,No observed response,label,coded,255,1.0,1.0,244,95.7,255,1.0,34
+D2,Information disclosure and public guidance,1,D2.01,Factual disclosure,label,coded,23167,86.5,93.8,23167,100.0,,,39
+D2,Information disclosure and public guidance,2,D2.02,Causal explanation,label,coded,17814,66.5,72.1,17814,100.0,,,39
+D2,Information disclosure and public guidance,3,D2.04,Uncertainty acknowledgment,label,coded,5301,19.8,21.5,5301,100.0,,,39
+D2,Information disclosure and public guidance,4,D2.03,Evidence provision,label,coded,5087,19.0,20.6,5087,100.0,,,39
+D2,Information disclosure and public guidance,5,D2.05,Correction or clarification,label,coded,2708,10.1,11.0,2708,100.0,,,39
+D2,Information disclosure and public guidance,6,D2.08,Process update,label,coded,1138,4.3,4.6,1138,100.0,,,39
+D2,Information disclosure and public guidance,7,D2.06,Disclosure boundary,label,coded,704,2.6,2.9,704,100.0,,,39
+D2,Information disclosure and public guidance,8,D2.07,Protective instruction,label,coded,4,0.0,0.0,4,100.0,,,3
+D3,Crisis responsibility and reputation repair,1,D3.06,Bolstering,label,coded,2801,10.5,55.6,2801,100.0,,,39
+D3,Crisis responsibility and reputation repair,2,D3.11,Corrective-action communication,label,coded,1193,4.5,23.7,1193,100.0,,,39
+D3,Crisis responsibility and reputation repair,3,D3.04,Justification,label,coded,1018,3.8,20.2,1018,100.0,,,39
+D3,Crisis responsibility and reputation repair,4,D3.05,Minimization,label,coded,863,3.2,17.1,863,100.0,,,39
+D3,Crisis responsibility and reputation repair,5,D3.03,Excuse,label,coded,641,2.4,12.7,641,100.0,,,39
+D3,Crisis responsibility and reputation repair,6,D3.01,Denial,label,coded,160,0.6,3.2,160,100.0,,,34
+D3,Crisis responsibility and reputation repair,7,D3.08,Responsibility acknowledgment,label,coded,118,0.4,2.3,118,100.0,,,27
+D3,Crisis responsibility and reputation repair,8,D3.02,Shifting blame,label,coded,37,0.1,0.7,37,100.0,,,19
+D3,Crisis responsibility and reputation repair,9,D3.10,Compensation,label,coded,24,0.1,0.5,24,100.0,,,10
+D3,Crisis responsibility and reputation repair,10,D3.12,Renewal-oriented communication,label,coded,18,0.1,0.4,18,100.0,,,11
+D3,Crisis responsibility and reputation repair,11,D3.09,Apology or mortification,label,coded,11,0.0,0.2,11,100.0,,,8
+D3,Crisis responsibility and reputation repair,12,D3.07,Attacking the accuser,label,coded,9,0.0,0.2,9,100.0,,,6
+D4,Sociopolitical stance and advocacy,1,D4.01,Explicit support,label,coded,270,1.0,75.4,270,100.0,,,36
+D4,Sociopolitical stance and advocacy,2,D4.02,Explicit opposition,label,coded,119,0.4,33.2,119,100.0,,,23
+D4,Sociopolitical stance and advocacy,3,D4.06,Material advocacy,label,coded,27,0.1,7.5,27,100.0,,,20
+D4,Sociopolitical stance and advocacy,4,D4.04,Qualified stance,label,coded,15,0.1,4.2,15,100.0,,,12
+D4,Sociopolitical stance and advocacy,5,D4.03,Declared neutrality,label,coded,2,0.0,0.6,2,100.0,,,2
+D4,Sociopolitical stance and advocacy,6,D4.05,Symbolic solidarity,label,coded,0,0.0,0.0,0,0.0,,,0
+D4,Sociopolitical stance and advocacy,7,D4.07,Position change,explicit_reference,coded (explicit reference to earlier communication only),0,0.0,0.0,0,0.0,,,0
+D5,Relational engagement and dialogue,1,D5.07,Collaborative problem-solving,label,coded,434,1.6,37.6,434,100.0,,,38
+D5,Relational engagement and dialogue,2,D5.01,Acknowledgment,label,coded,271,1.0,23.5,271,100.0,,,39
+D5,Relational engagement and dialogue,3,D5.03,Validation,label,coded,152,0.6,13.2,152,100.0,,,33
+D5,Relational engagement and dialogue,4,D5.04,Gratitude,label,coded,142,0.5,12.3,142,100.0,,,30
+D5,Relational engagement and dialogue,5,D5.05,Invitation to dialogue,label,coded,107,0.4,9.3,107,100.0,,,24
+D5,Relational engagement and dialogue,6,D5.08,Feedback incorporation,label,coded,103,0.4,8.9,103,100.0,,,36
+D5,Relational engagement and dialogue,7,D5.06,Consultation,label,coded,71,0.3,6.1,71,100.0,,,22
+D5,Relational engagement and dialogue,8,D5.02,Empathy,label,coded,38,0.1,3.3,38,100.0,,,17
+D6,Interpretive framing and legitimation,1,D6.02,Causal framing,label,coded,6902,25.8,41.7,6902,100.0,,,39
+D6,Interpretive framing and legitimation,2,D6.05,Opportunity framing,label,coded,6180,23.1,37.3,6180,100.0,,,39
+D6,Interpretive framing and legitimation,3,D6.06,Economic framing,label,coded,5410,20.2,32.7,5410,100.0,,,39
+D6,Interpretive framing and legitimation,4,D6.09,Solution framing,label,coded,2997,11.2,18.1,2997,100.0,,,39
+D6,Interpretive framing and legitimation,5,D6.04,Risk framing,label,coded,732,2.7,4.4,732,100.0,,,39
+D6,Interpretive framing and legitimation,6,D6.08,Legal or regulatory framing,label,coded,663,2.5,4.0,663,100.0,,,37
+D6,Interpretive framing and legitimation,7,D6.01,Problem definition,label,coded,507,1.9,3.1,507,100.0,,,39
+D6,Interpretive framing and legitimation,8,D6.03,Responsibility framing,label,coded,77,0.3,0.5,77,100.0,,,28
+D6,Interpretive framing and legitimation,9,D6.07,Moral framing,label,coded,76,0.3,0.5,76,100.0,,,25
+D7,Rhetorical and linguistic characteristics,1,D7.02,Clarity,rating,pronounced: rated at the top of its scale (2; -2 or 2 for optimism/pessimism),18813,70.3,73.3,,,,,39
+D7,Rhetorical and linguistic characteristics,2,D7.01,Specificity,rating,pronounced: rated at the top of its scale (2; -2 or 2 for optimism/pessimism),16859,63.0,65.7,,,,,39
+D7,Rhetorical and linguistic characteristics,3,D7.03,Assertiveness,rating,pronounced: rated at the top of its scale (2; -2 or 2 for optimism/pessimism),13049,48.7,50.8,,,,,39
+D7,Rhetorical and linguistic characteristics,4,D7.05,Optimism or pessimism,rating,pronounced: rated at the top of its scale (2; -2 or 2 for optimism/pessimism),5375,20.1,20.9,,,,,39
+D7,Rhetorical and linguistic characteristics,5,D7.04,Cautiousness,rating,pronounced: rated at the top of its scale (2; -2 or 2 for optimism/pessimism),4264,15.9,16.6,,,,,39
+D7,Rhetorical and linguistic characteristics,6,D7.08,Lexical or syntactic complexity,rating,pronounced: rated at the top of its scale (2; -2 or 2 for optimism/pessimism),3569,13.3,13.9,,,,,39
+D7,Rhetorical and linguistic characteristics,7,D7.06,Formality,rating,pronounced: rated at the top of its scale (2; -2 or 2 for optimism/pessimism),909,3.4,3.5,,,,,39
+D7,Rhetorical and linguistic characteristics,8,D7.07,Emotional expression,rating,pronounced: rated at the top of its scale (2; -2 or 2 for optimism/pessimism),106,0.4,0.4,,,,,31
+D8,Organizational commitments and corrective actions,1,D8.06,Reported action underway,label,coded,4364,16.3,62.3,4364,100.0,,,39
+D8,Organizational commitments and corrective actions,2,D8.05,Time-bound commitment,label,coded,2268,8.5,32.4,2268,100.0,,,39
+D8,Organizational commitments and corrective actions,3,D8.03,Conditional commitment,label,coded,1071,4.0,15.3,1071,100.0,,,39
+D8,Organizational commitments and corrective actions,4,D8.07,Reported completed action,label,coded,962,3.6,13.7,962,100.0,,,39
+D8,Organizational commitments and corrective actions,5,D8.04,Policy-change commitment,label,coded,135,0.5,1.9,135,100.0,,,35
+D8,Organizational commitments and corrective actions,6,D8.02,Investigation commitment,label,coded,72,0.3,1.0,72,100.0,,,22
+D8,Organizational commitments and corrective actions,,D8.01,No explicit commitment,derived,"absence code, not counted toward coverage",17403,65.0,,,,,,39
+D8,Organizational commitments and corrective actions,,D8.08,Independent verification,not_coded,not coded (needs external evidence),,,,,,,,
+D9,"Timing, continuity, and follow-up",1,D9.02,Follow-up response,explicit_reference,coded (explicit reference to earlier communication only),2446,9.1,96.3,2446,100.0,,,39
+D9,"Timing, continuity, and follow-up",2,D9.03,Response revision,explicit_reference,coded (explicit reference to earlier communication only),206,0.8,8.1,206,100.0,,,36
+D9,"Timing, continuity, and follow-up",3,D9.01,Initial response,explicit_reference,coded (explicit reference to earlier communication only),0,0.0,0.0,0,0.0,,,0
+D9,"Timing, continuity, and follow-up",4,D9.04,Escalation,explicit_reference,coded (explicit reference to earlier communication only),0,0.0,0.0,0,0.0,,,0
+D9,"Timing, continuity, and follow-up",5,D9.05,De-escalation,explicit_reference,coded (explicit reference to earlier communication only),0,0.0,0.0,0,0.0,,,0
+D9,"Timing, continuity, and follow-up",6,D9.06,Resolution communication,explicit_reference,coded (explicit reference to earlier communication only),0,0.0,0.0,0,0.0,,,0
+D9,"Timing, continuity, and follow-up",7,D9.07,Recurrence response,explicit_reference,coded (explicit reference to earlier communication only),0,0.0,0.0,0,0.0,,,0

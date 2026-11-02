@@ -1,0 +1,14 @@
+area_id,research_area,labeled_exchanges,pct_all_sectors,chi_square,cramers_v,permutation_p,q_value,significant,profile_permutation_p,profile_q_value,highest_sector,highest_pct,lowest_sector,lowest_pct,max_to_min_ratio,sectors_over_1_5x
+01,Strategic management & systems,498,1.86,74.2,0.053,0.45525447455254475,0.607,False,0.9855014498550145,0.9855,Health Care,3.56,Information Technology,0.89,4.0,1.0
+02,Publics & PUBLIC OPINION,29,0.11,40.3,0.039,0.0420957904209579,0.1263,False,0.0927907209279072,0.1923,Health Care,0.44,Energy,0.0,,1.0
+03,"Media, issues & framing",669,2.5,317.4,0.109,0.00029997000299970003,0.0036,True,0.0016998300169983002,0.0204,Health Care,6.78,Consumer Discretionary,1.01,6.7,1.0
+04,Relationships & dialogue,492,1.84,38.4,0.038,0.8243175682431757,0.8993,False,0.1606839316068393,0.2142,Consumer Discretionary,2.61,Energy,0.92,2.8,0.0
+05,"Issues, risk & crisis",373,1.39,110.8,0.064,0.09579042095790422,0.1642,False,0.1362863713628637,0.2044,Health Care,2.99,Consumer Discretionary,0.42,7.1,1.0
+06,"Reputation, image & legitimacy",464,1.73,67.9,0.05,0.08189181081891811,0.1638,False,0.0047995200479952005,0.0288,Health Care,3.16,Materials,0.79,4.0,2.0
+07,"Rhetoric, discourse & meaning",653,2.44,130.2,0.07,0.0301969803019698,0.1208,False,0.10548945105489452,0.1923,Health Care,5.04,Consumer Discretionary,1.01,5.0,1.0
+08,"Critical, cultural & power",2,0.01,5.6,0.014,0.7776222377762224,0.8993,False,0.5648435156484352,0.6778,Materials,0.04,Communication Services,0.0,,0.0
+09,"Digital, networked & AI",43,0.16,66.9,0.05,0.0683931606839316,0.1638,False,0.017798220177982202,0.0712,Consumer Discretionary,0.63,Energy,0.0,,2.0
+10,Internal & employee communication,52,0.19,18.6,0.026,0.2713728627137286,0.4071,False,0.1121887811218878,0.1923,Consumer Staples,0.51,Financials,0.04,12.8,1.0
+11,"Global, intercultural & diplomacy",38,0.14,12.3,0.021,0.9127087291270873,0.9127,False,0.6611338866113389,0.7212,Consumer Discretionary,0.34,Materials,0.04,8.5,2.0
+12,"Ethics, citizenship & advocacy",186,0.69,142.3,0.073,0.025597440255974404,0.1208,False,0.030496950304969503,0.0915,Energy,2.6,Consumer Discretionary,0.08,32.5,1.0
+all,All research areas (omnibus: sum of chi-square statistics),2266,8.47,1024.8,,0.0040995900409959,,,0.0012998700129987,,,,,,,

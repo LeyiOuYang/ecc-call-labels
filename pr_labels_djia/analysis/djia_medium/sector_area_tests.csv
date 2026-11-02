@@ -1,0 +1,14 @@
+area_id,research_area,labeled_exchanges,pct_all_sectors,chi_square,cramers_v,permutation_p,q_value,significant,profile_permutation_p,profile_q_value,highest_sector,highest_pct,lowest_sector,lowest_pct,max_to_min_ratio,sectors_over_1_5x
+01,Strategic management & systems,518,2.57,45.6,0.048,0.8364163583641636,0.8364,False,0.6556344365563443,0.6607,Health Care,4.04,Information Technology,1.21,3.3,1.0
+02,Publics & PUBLIC OPINION,34,0.17,25.4,0.035,0.10548945105489452,0.211,False,0.3695630436956304,0.4928,Health Care,0.47,Energy,0.0,,2.0
+03,"Media, issues & framing",643,3.19,269.9,0.116,0.008799120087991202,0.0564,False,0.05269473052694731,0.1054,Health Care,8.3,Consumer Discretionary,1.33,6.2,1.0
+04,Relationships & dialogue,650,3.22,67.7,0.058,0.6581341865813418,0.811,False,0.011198880111988802,0.1004,Consumer Discretionary,5.21,Materials,1.41,3.7,1.0
+05,"Issues, risk & crisis",336,1.67,147.1,0.085,0.0170982901709829,0.0684,False,0.1075892410758924,0.1844,Health Care,4.39,Consumer Discretionary,0.41,10.7,2.0
+06,"Reputation, image & legitimacy",599,2.97,106.7,0.073,0.10468953104689531,0.211,False,0.0461953804619538,0.1054,Health Care,6.06,Materials,0.85,7.1,1.0
+07,"Rhetoric, discourse & meaning",572,2.84,93.9,0.068,0.1257874212578742,0.2156,False,0.12298770122987701,0.1845,Health Care,5.2,Consumer Discretionary,1.18,4.4,2.0
+08,"Critical, cultural & power",5,0.02,7.0,0.019,0.7434256574342566,0.811,False,0.522047795220478,0.6265,Information Technology,0.07,Communication Services,0.0,,0.0
+09,"Digital, networked & AI",62,0.31,109.0,0.074,0.09219078092190781,0.211,False,0.025097490250974904,0.1004,Consumer Staples,1.16,Energy,0.0,,2.0
+10,Internal & employee communication,70,0.35,36.5,0.043,0.24707529247075294,0.3706,False,0.048295170482951705,0.1054,Consumer Staples,0.94,Materials,0.0,,2.0
+11,"Global, intercultural & diplomacy",65,0.32,24.8,0.035,0.7230276972302769,0.811,False,0.6607339266073393,0.6607,Consumer Discretionary,0.82,Financials,0.16,5.1,3.0
+12,"Ethics, citizenship & advocacy",255,1.26,183.5,0.095,0.0093990600939906,0.0564,False,0.024397560243975602,0.1004,Materials,7.32,Financials,0.54,13.6,3.0
+all,All research areas (omnibus: sum of chi-square statistics),2524,12.51,1117.1,,0.012798720127987202,,,0.0005999400059994001,,,,,,,

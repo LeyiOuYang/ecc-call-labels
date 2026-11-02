@@ -1,0 +1,451 @@
+behavior,code,category,population,call_year,year_companies,population_exchanges,exchanges,pct_of_population,ci_low,ci_high,pct_company_mean,pct_all_years,ratio_to_all_years,top_company,top_company_share
+D1,D1.01,Direct answer,all exchanges,2015,36,3197,1679,52.52,47.96,56.49,49.95,52.31,1.0,GS,7.3
+D1,D1.02,Partial answer,all exchanges,2015,36,3197,1006,31.47,27.45,36.47,34.98,35.09,0.9,AMZN,5.7
+D1,D1.03,Indirect answer,all exchanges,2015,36,3197,225,7.04,5.7,8.42,6.71,6.0,1.17,XOM,11.1
+D1,D1.04,Tangential answer,all exchanges,2015,36,3197,52,1.63,1.08,2.19,1.48,1.21,1.34,XOM,15.4
+D1,D1.05,Topic shift,all exchanges,2015,36,3197,51,1.6,1.15,2.12,1.81,1.91,0.83,NVDA,11.8
+D1,D1.06,Explicit refusal,all exchanges,2015,36,3197,312,9.76,7.63,12.46,11.12,9.42,1.04,AMZN,8.7
+D1,D1.07,Stated inability,all exchanges,2015,36,3197,151,4.72,3.78,5.77,4.8,3.52,1.34,GS,7.3
+D1,D1.08,Deferral,all exchanges,2015,36,3197,171,5.35,4.38,6.49,5.83,5.94,0.9,MCD,7.0
+D1,D1.09,Clarification request,all exchanges,2015,36,3197,93,2.91,2.28,3.51,2.84,2.37,1.23,GS,8.6
+D1,D1.10,No observed response,all exchanges,2015,36,3197,33,1.03,0.64,1.46,1.08,0.96,1.07,HON,15.2
+D3,D3.01,Denial,exchanges whose question raised a threat,2015,36,1080,28,2.59,1.78,3.44,2.59,1.97,1.32,PG,10.7
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,2015,36,1080,5,0.46,0.11,0.84,0.33,0.45,1.03,CVX,20.0
+D3,D3.03,Excuse,exchanges whose question raised a threat,2015,36,1080,147,13.61,11.0,16.35,13.01,16.28,0.84,PG,8.2
+D3,D3.04,Justification,exchanges whose question raised a threat,2015,36,1080,173,16.02,12.94,19.84,16.23,12.47,1.28,PG,11.6
+D3,D3.05,Minimization,exchanges whose question raised a threat,2015,36,1080,142,13.15,10.45,15.87,12.54,12.62,1.04,JPM,12.0
+D3,D3.06,Bolstering,exchanges whose question raised a threat,2015,36,1080,396,36.67,31.93,42.46,42.19,39.4,0.93,JNJ,5.6
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,2015,36,1080,1,0.09,0.0,0.33,0.14,0.16,0.59,PFE,100.0
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,2015,36,1080,17,1.57,0.56,2.86,1.36,1.79,0.88,PG,29.4
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,2015,36,1080,5,0.46,0.1,0.89,0.42,0.19,2.38,BA,20.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,2015,36,1080,1,0.09,0.0,0.31,0.12,0.42,0.22,V,100.0
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,2015,36,1080,127,11.76,7.73,16.78,11.77,15.22,0.77,PG,14.2
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,2015,36,1080,1,0.09,0.0,0.29,0.07,0.32,0.29,XOM,100.0
+D5,D5.01,Acknowledgment,all exchanges,2015,36,3197,38,1.19,0.82,1.63,1.31,2.26,0.53,BA,10.5
+D5,D5.02,Empathy,all exchanges,2015,36,3197,4,0.13,0.03,0.25,0.13,0.26,0.48,JPM,25.0
+D5,D5.03,Validation,all exchanges,2015,36,3197,41,1.28,0.65,2.04,1.34,1.29,0.99,GS,19.5
+D5,D5.04,Gratitude,all exchanges,2015,36,3197,16,0.5,0.26,0.81,0.56,0.8,0.63,NVDA,18.8
+D5,D5.05,Invitation to dialogue,all exchanges,2015,36,3197,21,0.66,0.34,1.06,0.8,0.79,0.84,V,19.0
+D5,D5.06,Consultation,all exchanges,2015,36,3197,11,0.34,0.15,0.58,0.43,0.55,0.63,BA,18.2
+D5,D5.07,Collaborative problem-solving,all exchanges,2015,36,3197,66,2.06,1.35,2.97,2.35,3.02,0.68,MCD,15.2
+D5,D5.08,Feedback incorporation,all exchanges,2015,36,3197,17,0.53,0.28,0.82,0.66,0.61,0.88,MCD,17.6
+D6,D6.01,Problem definition,all exchanges,2015,36,3197,41,1.28,0.84,1.84,1.43,2.24,0.57,MCD,12.2
+D6,D6.02,Causal framing,all exchanges,2015,36,3197,844,26.4,23.45,29.26,26.87,30.24,0.87,GS,7.3
+D6,D6.03,Responsibility framing,all exchanges,2015,36,3197,8,0.25,0.1,0.4,0.24,0.36,0.69,CSCO,12.5
+D6,D6.04,Risk framing,all exchanges,2015,36,3197,107,3.35,2.5,4.31,3.42,4.94,0.68,JPM,12.1
+D6,D6.05,Opportunity framing,all exchanges,2015,36,3197,761,23.8,19.46,29.12,27.51,29.48,0.81,NVDA,7.8
+D6,D6.06,Economic framing,all exchanges,2015,36,3197,738,23.08,19.64,26.92,25.05,24.97,0.92,XOM,8.8
+D6,D6.07,Moral framing,all exchanges,2015,36,3197,5,0.16,0.03,0.3,0.21,0.53,0.3,CRM,20.0
+D6,D6.08,Legal or regulatory framing,all exchanges,2015,36,3197,130,4.07,2.19,6.12,3.93,3.46,1.18,GS,23.8
+D6,D6.09,Solution framing,all exchanges,2015,36,3197,293,9.16,6.95,12.18,10.23,14.79,0.62,MCD,11.3
+D8,D8.02,Investigation commitment,all exchanges,2015,36,3197,12,0.38,0.15,0.62,0.38,0.5,0.76,GS,16.7
+D8,D8.03,Conditional commitment,all exchanges,2015,36,3197,151,4.72,3.66,5.9,5.11,5.7,0.83,TRV,7.3
+D8,D8.04,Policy-change commitment,all exchanges,2015,36,3197,18,0.56,0.27,0.93,0.67,0.93,0.61,MCD,22.2
+D8,D8.05,Time-bound commitment,all exchanges,2015,36,3197,299,9.35,7.23,11.75,11.13,11.53,0.81,PFE,7.4
+D8,D8.06,Reported action underway,all exchanges,2015,36,3197,518,16.2,12.89,20.04,19.19,21.11,0.77,CVX,6.8
+D8,D8.07,Reported completed action,all exchanges,2015,36,3197,118,3.69,2.67,4.84,4.34,4.74,0.78,MCD,6.8
+D1,D1.01,Direct answer,all exchanges,2016,36,3152,1723,54.66,50.33,58.48,52.35,52.31,1.04,SHW,9.2
+D1,D1.02,Partial answer,all exchanges,2016,36,3152,966,30.65,26.51,35.68,34.83,35.09,0.87,XOM,4.9
+D1,D1.03,Indirect answer,all exchanges,2016,36,3152,215,6.82,5.31,8.46,6.21,6.0,1.14,GS,14.9
+D1,D1.04,Tangential answer,all exchanges,2016,36,3152,47,1.49,1.07,1.93,1.5,1.21,1.23,XOM,12.8
+D1,D1.05,Topic shift,all exchanges,2016,36,3152,58,1.84,1.34,2.42,1.99,1.91,0.96,HD,12.1
+D1,D1.06,Explicit refusal,all exchanges,2016,36,3152,299,9.49,7.15,11.97,10.06,9.42,1.01,DIS,8.7
+D1,D1.07,Stated inability,all exchanges,2016,36,3152,127,4.03,3.15,4.97,3.79,3.52,1.14,GS,10.2
+D1,D1.08,Deferral,all exchanges,2016,36,3152,144,4.57,3.39,6.08,5.18,5.94,0.77,VZ,10.4
+D1,D1.09,Clarification request,all exchanges,2016,36,3152,84,2.66,1.93,3.48,2.34,2.37,1.12,XOM,15.5
+D1,D1.10,No observed response,all exchanges,2016,36,3152,49,1.55,0.9,2.36,1.34,0.96,1.61,CAT,16.3
+D3,D3.01,Denial,exchanges whose question raised a threat,2016,36,1115,25,2.24,1.4,3.21,2.4,1.97,1.14,PFE,12.0
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,2016,36,1115,9,0.81,0.28,1.44,1.29,0.45,1.8,PFE,22.2
+D3,D3.03,Excuse,exchanges whose question raised a threat,2016,36,1115,167,14.98,11.83,18.94,15.24,16.28,0.92,CSCO,10.8
+D3,D3.04,Justification,exchanges whose question raised a threat,2016,36,1115,161,14.44,11.39,17.96,15.18,12.47,1.16,BA,8.7
+D3,D3.05,Minimization,exchanges whose question raised a threat,2016,36,1115,148,13.27,10.29,16.54,13.54,12.62,1.05,JPM,10.1
+D3,D3.06,Bolstering,exchanges whose question raised a threat,2016,36,1115,413,37.04,32.29,42.33,41.22,39.4,0.94,MMM,5.3
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,2016,36,1115,3,0.27,0.0,0.61,0.3,0.16,1.73,HON,33.3
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,2016,36,1115,15,1.35,0.38,2.66,1.44,1.79,0.75,PG,33.3
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,2016,36,1115,1,0.09,0.0,0.29,0.08,0.19,0.46,PG,100.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,2016,36,1115,0,0.0,0.0,0.0,0.0,0.42,0.0,,
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,2016,36,1115,127,11.39,8.92,14.58,12.32,15.22,0.75,PG,10.2
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,2016,36,1115,1,0.09,0.0,0.29,0.08,0.32,0.28,BA,100.0
+D5,D5.01,Acknowledgment,all exchanges,2016,36,3152,50,1.59,1.11,2.14,1.8,2.26,0.7,AMGN,8.0
+D5,D5.02,Empathy,all exchanges,2016,36,3152,2,0.06,0.0,0.15,0.06,0.26,0.24,AMGN,50.0
+D5,D5.03,Validation,all exchanges,2016,36,3152,43,1.36,0.82,2.02,1.6,1.29,1.06,PG,16.3
+D5,D5.04,Gratitude,all exchanges,2016,36,3152,7,0.22,0.09,0.38,0.26,0.8,0.28,AMZN,14.3
+D5,D5.05,Invitation to dialogue,all exchanges,2016,36,3152,18,0.57,0.24,0.98,0.7,0.79,0.73,AAPL,16.7
+D5,D5.06,Consultation,all exchanges,2016,36,3152,19,0.6,0.33,0.88,0.6,0.55,1.1,GS,15.8
+D5,D5.07,Collaborative problem-solving,all exchanges,2016,36,3152,61,1.94,1.25,2.7,2.38,3.02,0.64,CVX,8.2
+D5,D5.08,Feedback incorporation,all exchanges,2016,36,3152,19,0.6,0.3,0.97,0.8,0.61,0.99,CRM,15.8
+D6,D6.01,Problem definition,all exchanges,2016,36,3152,45,1.43,0.88,2.09,1.86,2.24,0.64,NVDA,13.3
+D6,D6.02,Causal framing,all exchanges,2016,36,3152,850,26.97,24.09,30.36,29.27,30.24,0.89,SHW,6.2
+D6,D6.03,Responsibility framing,all exchanges,2016,36,3152,12,0.38,0.21,0.57,0.41,0.36,1.05,AXP,8.3
+D6,D6.04,Risk framing,all exchanges,2016,36,3152,95,3.01,2.34,3.85,3.14,4.94,0.61,JPM,12.6
+D6,D6.05,Opportunity framing,all exchanges,2016,36,3152,811,25.73,21.0,31.76,30.78,29.48,0.87,NVDA,6.8
+D6,D6.06,Economic framing,all exchanges,2016,36,3152,723,22.94,18.92,27.39,23.85,24.97,0.92,XOM,10.5
+D6,D6.07,Moral framing,all exchanges,2016,36,3152,13,0.41,0.13,0.77,0.51,0.53,0.78,JPM,23.1
+D6,D6.08,Legal or regulatory framing,all exchanges,2016,36,3152,103,3.27,1.85,5.0,3.38,3.46,0.95,JPM,17.5
+D6,D6.09,Solution framing,all exchanges,2016,36,3152,313,9.93,7.48,12.84,11.79,14.79,0.67,BA,7.7
+D8,D8.02,Investigation commitment,all exchanges,2016,36,3152,17,0.54,0.24,0.93,0.58,0.5,1.08,VZ,23.5
+D8,D8.03,Conditional commitment,all exchanges,2016,36,3152,158,5.01,3.77,6.36,5.08,5.7,0.88,XOM,11.4
+D8,D8.04,Policy-change commitment,all exchanges,2016,36,3152,16,0.51,0.27,0.79,0.55,0.93,0.55,CVX,18.8
+D8,D8.05,Time-bound commitment,all exchanges,2016,36,3152,308,9.77,7.47,12.36,11.6,11.53,0.85,VZ,6.2
+D8,D8.06,Reported action underway,all exchanges,2016,36,3152,529,16.78,13.54,20.54,19.65,21.11,0.79,BA,5.7
+D8,D8.07,Reported completed action,all exchanges,2016,36,3152,114,3.62,2.74,4.78,4.32,4.74,0.76,CRM,8.8
+D1,D1.01,Direct answer,all exchanges,2017,36,3001,1623,54.08,50.23,57.61,52.23,52.31,1.03,SHW,7.4
+D1,D1.02,Partial answer,all exchanges,2017,36,3001,952,31.72,28.2,35.91,35.04,35.09,0.9,SHW,5.3
+D1,D1.03,Indirect answer,all exchanges,2017,36,3001,176,5.86,4.63,7.11,5.41,6.0,0.98,GS,9.1
+D1,D1.04,Tangential answer,all exchanges,2017,36,3001,46,1.53,1.1,2.04,1.45,1.21,1.27,GS,17.4
+D1,D1.05,Topic shift,all exchanges,2017,36,3001,47,1.57,1.05,2.19,1.78,1.91,0.82,NVDA,12.8
+D1,D1.06,Explicit refusal,all exchanges,2017,36,3001,278,9.26,7.46,11.36,9.86,9.42,0.98,SHW,7.9
+D1,D1.07,Stated inability,all exchanges,2017,36,3001,104,3.47,2.46,4.61,3.37,3.52,0.98,GS,10.6
+D1,D1.08,Deferral,all exchanges,2017,36,3001,167,5.56,4.49,6.8,6.26,5.94,0.94,VZ,6.6
+D1,D1.09,Clarification request,all exchanges,2017,36,3001,73,2.43,1.66,3.19,2.29,2.37,1.03,XOM,13.7
+D1,D1.10,No observed response,all exchanges,2017,36,3001,43,1.43,0.91,2.04,1.43,0.96,1.49,CAT,14.0
+D3,D3.01,Denial,exchanges whose question raised a threat,2017,36,952,30,3.15,1.95,4.55,3.27,1.97,1.6,PG,16.7
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,2017,36,952,12,1.26,0.21,2.96,1.12,0.45,2.82,PFE,58.3
+D3,D3.03,Excuse,exchanges whose question raised a threat,2017,36,952,151,15.86,12.09,19.53,15.72,16.28,0.97,SHW,12.6
+D3,D3.04,Justification,exchanges whose question raised a threat,2017,36,952,141,14.81,11.57,18.31,14.42,12.47,1.19,PG,8.5
+D3,D3.05,Minimization,exchanges whose question raised a threat,2017,36,952,142,14.92,12.26,18.11,15.66,12.62,1.18,JPM,7.0
+D3,D3.06,Bolstering,exchanges whose question raised a threat,2017,36,952,379,39.81,33.33,46.67,44.36,39.4,1.01,PG,7.1
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,2017,36,952,4,0.42,0.1,0.85,0.43,0.16,2.7,AAPL,25.0
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,2017,36,952,20,2.1,0.84,3.64,2.25,1.79,1.17,GE,25.0
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,2017,36,952,1,0.11,0.0,0.33,0.08,0.19,0.54,JNJ,100.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,2017,36,952,1,0.11,0.0,0.36,0.23,0.42,0.25,UNH,100.0
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,2017,36,952,127,13.34,10.6,16.11,12.68,15.22,0.88,SHW,8.7
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,2017,36,952,1,0.11,0.0,0.35,0.1,0.32,0.33,BA,100.0
+D5,D5.01,Acknowledgment,all exchanges,2017,36,3001,59,1.97,1.27,2.79,2.0,2.26,0.87,AMGN,16.9
+D5,D5.02,Empathy,all exchanges,2017,36,3001,7,0.23,0.1,0.39,0.25,0.26,0.9,AMGN,14.3
+D5,D5.03,Validation,all exchanges,2017,36,3001,26,0.87,0.49,1.32,0.91,1.29,0.67,MCD,15.4
+D5,D5.04,Gratitude,all exchanges,2017,36,3001,22,0.73,0.43,1.07,0.79,0.8,0.92,HON,13.6
+D5,D5.05,Invitation to dialogue,all exchanges,2017,36,3001,24,0.8,0.43,1.31,0.94,0.79,1.02,PG,20.8
+D5,D5.06,Consultation,all exchanges,2017,36,3001,21,0.7,0.4,1.03,0.64,0.55,1.28,BA,19.0
+D5,D5.07,Collaborative problem-solving,all exchanges,2017,36,3001,102,3.4,2.44,4.48,3.75,3.02,1.13,AMGN,8.8
+D5,D5.08,Feedback incorporation,all exchanges,2017,36,3001,15,0.5,0.28,0.76,0.63,0.61,0.82,CRM,13.3
+D6,D6.01,Problem definition,all exchanges,2017,36,3001,49,1.63,1.1,2.29,1.82,2.24,0.73,MRK,12.2
+D6,D6.02,Causal framing,all exchanges,2017,36,3001,825,27.49,24.01,31.17,30.25,30.24,0.91,SHW,6.7
+D6,D6.03,Responsibility framing,all exchanges,2017,36,3001,14,0.47,0.24,0.74,0.53,0.36,1.29,CVX,21.4
+D6,D6.04,Risk framing,all exchanges,2017,36,3001,92,3.07,2.23,3.97,2.9,4.94,0.62,JPM,13.0
+D6,D6.05,Opportunity framing,all exchanges,2017,36,3001,841,28.02,23.43,33.49,32.73,29.48,0.95,BA,5.7
+D6,D6.06,Economic framing,all exchanges,2017,36,3001,728,24.26,20.16,28.7,24.68,24.97,0.97,XOM,9.6
+D6,D6.07,Moral framing,all exchanges,2017,36,3001,16,0.53,0.22,0.92,0.63,0.53,1.01,BA,25.0
+D6,D6.08,Legal or regulatory framing,all exchanges,2017,36,3001,104,3.47,1.87,5.4,3.32,3.46,1.0,GS,20.2
+D6,D6.09,Solution framing,all exchanges,2017,36,3001,381,12.7,10.19,15.7,14.19,14.79,0.86,WBA,6.6
+D8,D8.02,Investigation commitment,all exchanges,2017,36,3001,15,0.5,0.22,0.81,0.5,0.5,1.01,WBA,20.0
+D8,D8.03,Conditional commitment,all exchanges,2017,36,3001,148,4.93,3.85,6.03,4.88,5.7,0.87,XOM,10.8
+D8,D8.04,Policy-change commitment,all exchanges,2017,36,3001,16,0.53,0.22,0.91,0.71,0.93,0.58,KO,18.8
+D8,D8.05,Time-bound commitment,all exchanges,2017,36,3001,318,10.6,8.6,12.9,12.21,11.53,0.92,XOM,6.3
+D8,D8.06,Reported action underway,all exchanges,2017,36,3001,604,20.13,17.13,23.83,22.84,21.11,0.95,BA,6.3
+D8,D8.07,Reported completed action,all exchanges,2017,36,3001,121,4.03,3.0,5.25,4.79,4.74,0.85,BA,7.4
+D1,D1.01,Direct answer,all exchanges,2018,36,2636,1383,52.47,48.27,56.57,50.26,52.31,1.0,SHW,9.4
+D1,D1.02,Partial answer,all exchanges,2018,36,2636,917,34.79,31.09,39.32,38.38,35.09,0.99,SHW,6.5
+D1,D1.03,Indirect answer,all exchanges,2018,36,2636,151,5.73,4.54,6.89,5.21,6.0,0.96,TRV,10.6
+D1,D1.04,Tangential answer,all exchanges,2018,36,2636,29,1.1,0.8,1.42,1.09,1.21,0.91,SHW,10.3
+D1,D1.05,Topic shift,all exchanges,2018,36,2636,59,2.24,1.6,2.94,2.16,1.91,1.17,NVDA,11.9
+D1,D1.06,Explicit refusal,all exchanges,2018,36,2636,264,10.02,8.17,12.01,10.57,9.42,1.06,SHW,9.8
+D1,D1.07,Stated inability,all exchanges,2018,36,2636,92,3.49,2.52,4.5,3.26,3.52,0.99,XOM,14.1
+D1,D1.08,Deferral,all exchanges,2018,36,2636,139,5.27,3.95,6.97,6.04,5.94,0.89,MRK,8.6
+D1,D1.09,Clarification request,all exchanges,2018,36,2636,71,2.69,1.84,3.59,2.33,2.37,1.14,XOM,16.9
+D1,D1.10,No observed response,all exchanges,2018,36,2636,26,0.99,0.38,1.81,1.12,0.96,1.02,XOM,30.8
+D3,D3.01,Denial,exchanges whose question raised a threat,2018,36,809,23,2.84,1.79,4.0,2.41,1.97,1.45,MMM,17.4
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,2018,36,809,3,0.37,0.0,1.19,0.25,0.45,0.83,PFE,100.0
+D3,D3.03,Excuse,exchanges whose question raised a threat,2018,36,809,117,14.46,12.05,16.97,13.8,16.28,0.89,SHW,9.4
+D3,D3.04,Justification,exchanges whose question raised a threat,2018,36,809,124,15.33,12.02,19.25,16.14,12.47,1.23,PG,8.9
+D3,D3.05,Minimization,exchanges whose question raised a threat,2018,36,809,125,15.45,13.23,17.6,15.94,12.62,1.22,SHW,8.0
+D3,D3.06,Bolstering,exchanges whose question raised a threat,2018,36,809,378,46.72,40.77,52.71,51.34,39.4,1.19,JNJ,6.9
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,2018,36,809,1,0.12,0.0,0.41,0.17,0.16,0.79,VZ,100.0
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,2018,36,809,17,2.1,1.04,3.4,1.95,1.79,1.17,KO,23.5
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,2018,36,809,2,0.25,0.0,0.64,0.27,0.19,1.27,CSCO,50.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,2018,36,809,1,0.12,0.0,0.39,0.06,0.42,0.3,MMM,100.0
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,2018,36,809,130,16.07,11.18,21.49,14.93,15.22,1.06,MCD,11.5
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,2018,36,809,1,0.12,0.0,0.41,0.1,0.32,0.38,BA,100.0
+D5,D5.01,Acknowledgment,all exchanges,2018,36,2636,56,2.12,1.43,2.97,2.2,2.26,0.94,XOM,16.1
+D5,D5.02,Empathy,all exchanges,2018,36,2636,4,0.15,0.0,0.35,0.15,0.26,0.58,MCD,50.0
+D5,D5.03,Validation,all exchanges,2018,36,2636,33,1.25,0.68,2.07,1.34,1.29,0.97,PG,24.2
+D5,D5.04,Gratitude,all exchanges,2018,36,2636,13,0.49,0.22,0.8,0.59,0.8,0.62,NVDA,15.4
+D5,D5.05,Invitation to dialogue,all exchanges,2018,36,2636,26,0.99,0.47,1.62,1.11,0.79,1.26,AXP,19.2
+D5,D5.06,Consultation,all exchanges,2018,36,2636,15,0.57,0.24,1.01,0.72,0.55,1.04,BA,26.7
+D5,D5.07,Collaborative problem-solving,all exchanges,2018,36,2636,64,2.43,1.75,3.24,2.85,3.02,0.8,UNH,9.4
+D5,D5.08,Feedback incorporation,all exchanges,2018,36,2636,17,0.64,0.33,1.06,0.87,0.61,1.06,CRM,17.6
+D6,D6.01,Problem definition,all exchanges,2018,36,2636,52,1.97,1.19,2.97,2.31,2.24,0.88,MCD,17.3
+D6,D6.02,Causal framing,all exchanges,2018,36,2636,741,28.11,24.89,31.79,30.72,30.24,0.93,SHW,5.8
+D6,D6.03,Responsibility framing,all exchanges,2018,36,2636,4,0.15,0.0,0.35,0.13,0.36,0.42,CAT,50.0
+D6,D6.04,Risk framing,all exchanges,2018,36,2636,79,3.0,1.98,4.2,2.89,4.94,0.61,PG,11.4
+D6,D6.05,Opportunity framing,all exchanges,2018,36,2636,791,30.01,25.25,35.37,34.71,29.48,1.02,SHW,5.1
+D6,D6.06,Economic framing,all exchanges,2018,36,2636,681,25.83,21.27,30.94,27.28,24.97,1.03,XOM,9.1
+D6,D6.07,Moral framing,all exchanges,2018,36,2636,12,0.46,0.16,0.83,0.57,0.53,0.86,CRM,25.0
+D6,D6.08,Legal or regulatory framing,all exchanges,2018,36,2636,74,2.81,1.69,4.09,2.95,3.46,0.81,GS,14.9
+D6,D6.09,Solution framing,all exchanges,2018,36,2636,375,14.23,11.39,17.62,16.13,14.79,0.96,PG,6.1
+D8,D8.02,Investigation commitment,all exchanges,2018,36,2636,9,0.34,0.13,0.6,0.43,0.5,0.69,DIS,22.2
+D8,D8.03,Conditional commitment,all exchanges,2018,36,2636,130,4.93,3.75,6.11,4.99,5.7,0.87,XOM,10.8
+D8,D8.04,Policy-change commitment,all exchanges,2018,36,2636,30,1.14,0.69,1.69,1.49,0.93,1.23,DIS,10.0
+D8,D8.05,Time-bound commitment,all exchanges,2018,36,2636,298,11.31,8.89,14.36,13.44,11.53,0.98,JNJ,5.7
+D8,D8.06,Reported action underway,all exchanges,2018,36,2636,539,20.45,17.1,24.69,22.6,21.11,0.97,SHW,6.1
+D8,D8.07,Reported completed action,all exchanges,2018,36,2636,126,4.78,3.52,6.35,5.85,4.74,1.01,IBM,6.3
+D1,D1.01,Direct answer,all exchanges,2019,36,2554,1367,53.52,48.97,57.47,51.0,52.31,1.02,SHW,10.0
+D1,D1.02,Partial answer,all exchanges,2019,36,2554,886,34.69,30.64,39.45,38.24,35.09,0.99,SHW,6.4
+D1,D1.03,Indirect answer,all exchanges,2019,36,2554,153,5.99,4.99,7.04,5.61,6.0,1.0,CAT,9.2
+D1,D1.04,Tangential answer,all exchanges,2019,36,2554,23,0.9,0.48,1.35,0.87,1.21,0.74,UNH,17.4
+D1,D1.05,Topic shift,all exchanges,2019,36,2554,45,1.76,1.19,2.43,2.08,1.91,0.92,JPM,11.1
+D1,D1.06,Explicit refusal,all exchanges,2019,36,2554,220,8.61,6.8,10.77,9.38,9.42,0.91,CVX,7.3
+D1,D1.07,Stated inability,all exchanges,2019,36,2554,78,3.05,2.0,4.23,3.08,3.52,0.87,PG,11.5
+D1,D1.08,Deferral,all exchanges,2019,36,2554,163,6.38,4.84,8.07,6.57,5.94,1.07,AMGN,8.6
+D1,D1.09,Clarification request,all exchanges,2019,36,2554,52,2.04,1.41,2.66,1.82,2.37,0.86,MRK,9.6
+D1,D1.10,No observed response,all exchanges,2019,36,2554,14,0.55,0.27,0.88,0.54,0.96,0.57,XOM,21.4
+D3,D3.01,Denial,exchanges whose question raised a threat,2019,36,1033,19,1.84,0.92,3.0,1.97,1.97,0.94,AXP,15.8
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,2019,36,1033,4,0.39,0.09,0.8,0.53,0.45,0.87,AMGN,25.0
+D3,D3.03,Excuse,exchanges whose question raised a threat,2019,36,1033,147,14.23,11.05,17.75,16.24,16.28,0.87,SHW,9.5
+D3,D3.04,Justification,exchanges whose question raised a threat,2019,36,1033,121,11.71,9.08,14.83,13.06,12.47,0.94,BA,8.3
+D3,D3.05,Minimization,exchanges whose question raised a threat,2019,36,1033,142,13.75,9.98,18.33,15.0,12.62,1.09,HON,9.2
+D3,D3.06,Bolstering,exchanges whose question raised a threat,2019,36,1033,423,40.95,35.11,47.63,45.13,39.4,1.04,JNJ,4.7
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,2019,36,1033,2,0.19,0.0,0.49,0.17,0.16,1.24,GS,50.0
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,2019,36,1033,24,2.32,1.26,3.72,2.45,1.79,1.3,IBM,20.8
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,2019,36,1033,5,0.48,0.0,1.19,0.33,0.19,2.49,BA,60.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,2019,36,1033,5,0.48,0.09,1.01,0.4,0.42,1.16,BA,40.0
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,2019,36,1033,169,16.36,12.25,21.64,15.6,15.22,1.08,BA,15.4
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,2019,36,1033,5,0.48,0.0,1.2,0.37,0.32,1.51,BA,60.0
+D5,D5.01,Acknowledgment,all exchanges,2019,36,2554,71,2.78,1.77,4.09,3.1,2.26,1.23,GS,16.9
+D5,D5.02,Empathy,all exchanges,2019,36,2554,6,0.23,0.04,0.52,0.21,0.26,0.9,BA,50.0
+D5,D5.03,Validation,all exchanges,2019,36,2554,32,1.25,0.74,1.83,1.12,1.29,0.97,PG,15.6
+D5,D5.04,Gratitude,all exchanges,2019,36,2554,16,0.63,0.29,1.01,0.74,0.8,0.79,CRM,18.8
+D5,D5.05,Invitation to dialogue,all exchanges,2019,36,2554,12,0.47,0.17,0.82,0.56,0.79,0.6,AXP,16.7
+D5,D5.06,Consultation,all exchanges,2019,36,2554,15,0.59,0.26,1.02,0.64,0.55,1.07,BA,26.7
+D5,D5.07,Collaborative problem-solving,all exchanges,2019,36,2554,96,3.76,2.28,5.71,4.33,3.02,1.25,BA,16.7
+D5,D5.08,Feedback incorporation,all exchanges,2019,36,2554,10,0.39,0.11,0.75,0.51,0.61,0.64,AMZN,20.0
+D6,D6.01,Problem definition,all exchanges,2019,36,2554,68,2.66,1.8,3.74,3.08,2.24,1.19,PFE,13.2
+D6,D6.02,Causal framing,all exchanges,2019,36,2554,747,29.25,26.27,32.19,30.39,30.24,0.97,SHW,8.7
+D6,D6.03,Responsibility framing,all exchanges,2019,36,2554,9,0.35,0.16,0.6,0.33,0.36,0.97,GE,22.2
+D6,D6.04,Risk framing,all exchanges,2019,36,2554,115,4.5,3.12,6.14,4.28,4.94,0.91,JPM,14.8
+D6,D6.05,Opportunity framing,all exchanges,2019,36,2554,754,29.52,24.35,35.8,35.24,29.48,1.0,SHW,8.0
+D6,D6.06,Economic framing,all exchanges,2019,36,2554,595,23.3,18.76,28.64,24.52,24.97,0.93,CVX,7.6
+D6,D6.07,Moral framing,all exchanges,2019,36,2554,9,0.35,0.14,0.59,0.39,0.53,0.67,BA,22.2
+D6,D6.08,Legal or regulatory framing,all exchanges,2019,36,2554,74,2.9,1.8,4.21,2.97,3.46,0.84,BA,14.9
+D6,D6.09,Solution framing,all exchanges,2019,36,2554,396,15.51,12.73,18.74,17.28,14.79,1.05,BA,7.1
+D8,D8.02,Investigation commitment,all exchanges,2019,36,2554,14,0.55,0.24,0.93,0.56,0.5,1.1,AMGN,14.3
+D8,D8.03,Conditional commitment,all exchanges,2019,36,2554,133,5.21,3.62,7.28,5.28,5.7,0.91,BA,16.5
+D8,D8.04,Policy-change commitment,all exchanges,2019,36,2554,23,0.9,0.52,1.4,0.96,0.93,0.97,GS,21.7
+D8,D8.05,Time-bound commitment,all exchanges,2019,36,2554,311,12.18,9.83,15.08,14.11,11.53,1.06,T,5.8
+D8,D8.06,Reported action underway,all exchanges,2019,36,2554,602,23.57,19.34,28.64,26.61,21.11,1.12,BA,5.5
+D8,D8.07,Reported completed action,all exchanges,2019,36,2554,127,4.97,3.67,6.62,6.25,4.74,1.05,CSCO,7.9
+D1,D1.01,Direct answer,all exchanges,2020,36,2228,1139,51.12,47.36,54.29,49.99,52.31,0.98,SHW,8.2
+D1,D1.02,Partial answer,all exchanges,2020,36,2228,848,38.06,34.9,42.18,40.71,35.09,1.08,SHW,5.9
+D1,D1.03,Indirect answer,all exchanges,2020,36,2228,120,5.39,4.04,6.87,5.0,6.0,0.9,HD,12.5
+D1,D1.04,Tangential answer,all exchanges,2020,36,2228,16,0.72,0.37,1.06,0.59,1.21,0.59,HD,18.8
+D1,D1.05,Topic shift,all exchanges,2020,36,2228,39,1.75,1.15,2.38,1.77,1.91,0.91,SHW,17.9
+D1,D1.06,Explicit refusal,all exchanges,2020,36,2228,190,8.53,6.76,10.46,8.87,9.42,0.91,HD,8.4
+D1,D1.07,Stated inability,all exchanges,2020,36,2228,97,4.35,3.14,5.69,4.14,3.52,1.24,JPM,14.4
+D1,D1.08,Deferral,all exchanges,2020,36,2228,150,6.73,5.03,8.58,6.59,5.94,1.13,CVX,12.7
+D1,D1.09,Clarification request,all exchanges,2020,36,2228,61,2.74,1.65,3.85,2.44,2.37,1.15,TRV,13.1
+D1,D1.10,No observed response,all exchanges,2020,36,2228,19,0.85,0.46,1.29,0.74,0.96,0.89,MMM,15.8
+D3,D3.01,Denial,exchanges whose question raised a threat,2020,36,1310,11,0.84,0.39,1.38,0.77,1.97,0.43,BA,18.2
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,2020,36,1310,2,0.15,0.0,0.38,0.15,0.45,0.34,CVX,50.0
+D3,D3.03,Excuse,exchanges whose question raised a threat,2020,36,1310,180,13.74,10.9,16.95,15.16,16.28,0.84,CSCO,6.1
+D3,D3.04,Justification,exchanges whose question raised a threat,2020,36,1310,118,9.01,6.81,11.35,9.39,12.47,0.72,XOM,9.3
+D3,D3.05,Minimization,exchanges whose question raised a threat,2020,36,1310,125,9.54,7.64,11.44,9.78,12.62,0.76,TRV,8.8
+D3,D3.06,Bolstering,exchanges whose question raised a threat,2020,36,1310,444,33.89,29.31,39.27,36.82,39.4,0.86,SHW,5.6
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,2020,36,1310,1,0.08,0.0,0.25,0.11,0.16,0.49,VZ,100.0
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,2020,36,1310,9,0.69,0.28,1.18,0.74,1.79,0.38,INTC,22.2
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,2020,36,1310,1,0.08,0.0,0.24,0.06,0.19,0.39,CVX,100.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,2020,36,1310,17,1.3,0.48,2.52,1.37,0.42,3.1,UNH,35.3
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,2020,36,1310,219,16.72,12.83,20.76,17.12,15.22,1.1,GE,9.1
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,2020,36,1310,9,0.69,0.23,1.24,0.77,0.32,2.14,BA,22.2
+D5,D5.01,Acknowledgment,all exchanges,2020,36,2228,64,2.87,2.11,3.85,3.37,2.26,1.27,JNJ,9.4
+D5,D5.02,Empathy,all exchanges,2020,36,2228,16,0.72,0.34,1.23,0.98,0.26,2.76,CRM,18.8
+D5,D5.03,Validation,all exchanges,2020,36,2228,30,1.35,0.77,2.06,1.56,1.29,1.04,XOM,16.7
+D5,D5.04,Gratitude,all exchanges,2020,36,2228,35,1.57,0.89,2.44,1.89,0.8,1.97,JNJ,17.1
+D5,D5.05,Invitation to dialogue,all exchanges,2020,36,2228,18,0.81,0.37,1.37,0.91,0.79,1.03,JNJ,22.2
+D5,D5.06,Consultation,all exchanges,2020,36,2228,20,0.9,0.36,1.65,0.93,0.55,1.64,BA,30.0
+D5,D5.07,Collaborative problem-solving,all exchanges,2020,36,2228,89,3.99,3.01,5.3,4.52,3.02,1.32,UNH,9.0
+D5,D5.08,Feedback incorporation,all exchanges,2020,36,2228,18,0.81,0.39,1.42,0.98,0.61,1.33,BA,22.2
+D6,D6.01,Problem definition,all exchanges,2020,36,2228,51,2.29,1.53,3.27,2.65,2.24,1.02,PFE,13.7
+D6,D6.02,Causal framing,all exchanges,2020,36,2228,726,32.59,29.63,35.9,34.95,30.24,1.08,SHW,5.4
+D6,D6.03,Responsibility framing,all exchanges,2020,36,2228,10,0.45,0.19,0.74,0.5,0.36,1.24,BA,20.0
+D6,D6.04,Risk framing,all exchanges,2020,36,2228,213,9.56,7.15,12.08,9.78,4.94,1.94,JPM,13.1
+D6,D6.05,Opportunity framing,all exchanges,2020,36,2228,617,27.69,22.57,34.06,32.91,29.48,0.94,SHW,8.4
+D6,D6.06,Economic framing,all exchanges,2020,36,2228,515,23.11,19.08,27.39,24.62,24.97,0.93,CVX,8.5
+D6,D6.07,Moral framing,all exchanges,2020,36,2228,25,1.12,0.6,1.81,1.31,0.53,2.12,PFE,16.0
+D6,D6.08,Legal or regulatory framing,all exchanges,2020,36,2228,69,3.1,2.02,4.3,2.92,3.46,0.9,JPM,15.9
+D6,D6.09,Solution framing,all exchanges,2020,36,2228,445,19.97,16.46,24.07,22.9,14.79,1.35,GE,6.3
+D8,D8.02,Investigation commitment,all exchanges,2020,36,2228,15,0.67,0.27,1.19,0.68,0.5,1.35,AMGN,26.7
+D8,D8.03,Conditional commitment,all exchanges,2020,36,2228,142,6.37,4.93,8.0,6.63,5.7,1.12,PFE,7.7
+D8,D8.04,Policy-change commitment,all exchanges,2020,36,2228,30,1.35,0.83,2.0,1.69,0.93,1.45,IBM,13.3
+D8,D8.05,Time-bound commitment,all exchanges,2020,36,2228,288,12.93,10.74,15.52,14.08,11.53,1.12,CVX,8.3
+D8,D8.06,Reported action underway,all exchanges,2020,36,2228,516,23.16,19.27,27.69,25.7,21.11,1.1,SHW,6.4
+D8,D8.07,Reported completed action,all exchanges,2020,36,2228,116,5.21,3.88,6.83,6.39,4.74,1.1,CVX,8.6
+D1,D1.01,Direct answer,all exchanges,2021,36,2213,1172,52.96,49.09,56.42,51.44,52.31,1.01,SHW,8.5
+D1,D1.02,Partial answer,all exchanges,2021,36,2213,793,35.83,31.86,40.48,39.25,35.09,1.02,AAPL,4.4
+D1,D1.03,Indirect answer,all exchanges,2021,36,2213,117,5.29,3.86,6.63,4.77,6.0,0.88,HD,12.0
+D1,D1.04,Tangential answer,all exchanges,2021,36,2213,20,0.9,0.42,1.42,0.74,1.21,0.75,GS,20.0
+D1,D1.05,Topic shift,all exchanges,2021,36,2213,51,2.3,1.68,2.97,2.3,1.91,1.2,HD,11.8
+D1,D1.06,Explicit refusal,all exchanges,2021,36,2213,201,9.08,7.32,10.7,8.92,9.42,0.96,SHW,9.0
+D1,D1.07,Stated inability,all exchanges,2021,36,2213,73,3.3,2.27,4.38,2.83,3.52,0.94,AAPL,11.0
+D1,D1.08,Deferral,all exchanges,2021,36,2213,136,6.15,4.3,8.39,6.04,5.94,1.04,AMGN,11.8
+D1,D1.09,Clarification request,all exchanges,2021,36,2213,42,1.9,1.21,2.58,1.55,2.37,0.8,SHW,16.7
+D1,D1.10,No observed response,all exchanges,2021,36,2213,28,1.27,0.74,1.8,1.04,0.96,1.31,CSCO,14.3
+D3,D3.01,Denial,exchanges whose question raised a threat,2021,36,1074,17,1.58,0.83,2.41,1.42,1.97,0.81,CVX,17.6
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,2021,36,1074,2,0.19,0.0,0.47,0.18,0.45,0.42,GS,50.0
+D3,D3.03,Excuse,exchanges whose question raised a threat,2021,36,1074,200,18.62,15.63,21.73,18.23,16.28,1.14,SHW,8.5
+D3,D3.04,Justification,exchanges whose question raised a threat,2021,36,1074,127,11.82,9.61,14.4,11.77,12.47,0.95,BA,9.4
+D3,D3.05,Minimization,exchanges whose question raised a threat,2021,36,1074,113,10.52,8.38,12.65,10.94,12.62,0.83,BA,8.0
+D3,D3.06,Bolstering,exchanges whose question raised a threat,2021,36,1074,399,37.15,32.16,42.76,39.58,39.4,0.94,SHW,8.8
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,2021,36,1074,1,0.09,0.0,0.31,0.11,0.16,0.6,XOM,100.0
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,2021,36,1074,16,1.49,0.48,2.74,1.27,1.79,0.83,BA,37.5
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,2021,36,1074,1,0.09,0.0,0.3,0.05,0.19,0.48,BA,100.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,2021,36,1074,3,0.28,0.0,0.61,0.23,0.42,0.67,AXP,33.3
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,2021,36,1074,129,12.01,9.24,15.05,12.1,15.22,0.79,SHW,15.5
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,2021,36,1074,5,0.47,0.09,0.86,0.58,0.32,1.45,AXP,20.0
+D5,D5.01,Acknowledgment,all exchanges,2021,36,2213,53,2.39,1.62,3.25,2.38,2.26,1.06,CVX,13.2
+D5,D5.02,Empathy,all exchanges,2021,36,2213,2,0.09,0.0,0.21,0.06,0.26,0.35,PFE,50.0
+D5,D5.03,Validation,all exchanges,2021,36,2213,34,1.54,1.06,2.01,1.57,1.29,1.19,SHW,14.7
+D5,D5.04,Gratitude,all exchanges,2021,36,2213,29,1.31,0.85,1.92,1.73,0.8,1.64,CRM,10.3
+D5,D5.05,Invitation to dialogue,all exchanges,2021,36,2213,22,0.99,0.46,1.7,1.14,0.79,1.27,JNJ,18.2
+D5,D5.06,Consultation,all exchanges,2021,36,2213,8,0.36,0.11,0.69,0.46,0.55,0.66,IBM,25.0
+D5,D5.07,Collaborative problem-solving,all exchanges,2021,36,2213,82,3.71,2.59,5.01,3.98,3.02,1.23,CVX,11.0
+D5,D5.08,Feedback incorporation,all exchanges,2021,36,2213,11,0.5,0.16,0.89,0.47,0.61,0.82,CVX,27.3
+D6,D6.01,Problem definition,all exchanges,2021,36,2213,56,2.53,1.71,3.46,2.6,2.24,1.13,JPM,12.5
+D6,D6.02,Causal framing,all exchanges,2021,36,2213,766,34.61,31.29,38.36,36.42,30.24,1.14,TRV,5.5
+D6,D6.03,Responsibility framing,all exchanges,2021,36,2213,8,0.36,0.0,0.91,0.33,0.36,1.0,BA,62.5
+D6,D6.04,Risk framing,all exchanges,2021,36,2213,151,6.82,5.04,8.62,6.26,4.94,1.38,JPM,11.3
+D6,D6.05,Opportunity framing,all exchanges,2021,36,2213,817,36.92,31.6,43.05,43.35,29.48,1.25,SHW,6.5
+D6,D6.06,Economic framing,all exchanges,2021,36,2213,601,27.16,21.85,33.15,28.71,24.97,1.09,CVX,9.2
+D6,D6.07,Moral framing,all exchanges,2021,36,2213,17,0.77,0.41,1.17,0.74,0.53,1.45,AAPL,17.6
+D6,D6.08,Legal or regulatory framing,all exchanges,2021,36,2213,95,4.29,2.54,6.33,3.75,3.46,1.24,JPM,22.1
+D6,D6.09,Solution framing,all exchanges,2021,36,2213,380,17.17,14.79,19.78,19.12,14.79,1.16,SHW,6.3
+D8,D8.02,Investigation commitment,all exchanges,2021,36,2213,11,0.5,0.11,1.05,0.48,0.5,1.0,PFE,45.5
+D8,D8.03,Conditional commitment,all exchanges,2021,36,2213,162,7.32,5.53,9.09,7.07,5.7,1.28,SHW,10.5
+D8,D8.04,Policy-change commitment,all exchanges,2021,36,2213,19,0.86,0.42,1.45,0.99,0.93,0.93,INTC,21.1
+D8,D8.05,Time-bound commitment,all exchanges,2021,36,2213,272,12.29,9.76,15.12,12.87,11.53,1.07,CVX,8.8
+D8,D8.06,Reported action underway,all exchanges,2021,36,2213,528,23.86,20.14,28.08,25.74,21.11,1.13,AMGN,5.9
+D8,D8.07,Reported completed action,all exchanges,2021,36,2213,108,4.88,3.44,6.55,6.15,4.74,1.03,XOM,9.3
+D1,D1.01,Direct answer,all exchanges,2022,36,2188,1104,50.46,46.51,53.98,48.27,52.31,0.96,SHW,8.6
+D1,D1.02,Partial answer,all exchanges,2022,36,2188,863,39.44,35.96,43.59,42.64,35.09,1.12,SHW,4.3
+D1,D1.03,Indirect answer,all exchanges,2022,36,2188,125,5.71,4.16,7.47,5.03,6.0,0.95,HD,14.4
+D1,D1.04,Tangential answer,all exchanges,2022,36,2188,13,0.59,0.3,0.94,0.66,1.21,0.49,CSCO,15.4
+D1,D1.05,Topic shift,all exchanges,2022,36,2188,42,1.92,1.28,2.59,1.94,1.91,1.0,SHW,14.3
+D1,D1.06,Explicit refusal,all exchanges,2022,36,2188,202,9.23,7.25,11.54,8.7,9.42,0.98,AAPL,10.9
+D1,D1.07,Stated inability,all exchanges,2022,36,2188,75,3.43,2.75,4.18,3.39,3.52,0.97,AAPL,5.3
+D1,D1.08,Deferral,all exchanges,2022,36,2188,143,6.54,5.09,8.01,6.76,5.94,1.1,CVX,7.7
+D1,D1.09,Clarification request,all exchanges,2022,36,2188,44,2.01,1.35,2.7,1.88,2.37,0.85,PFE,11.4
+D1,D1.10,No observed response,all exchanges,2022,36,2188,13,0.59,0.24,1.01,0.7,0.96,0.62,AMZN,15.4
+D3,D3.01,Denial,exchanges whose question raised a threat,2022,36,1023,18,1.76,0.97,2.54,1.72,1.97,0.9,SHW,16.7
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,2022,36,1023,2,0.2,0.0,0.48,0.12,0.45,0.44,SHW,50.0
+D3,D3.03,Excuse,exchanges whose question raised a threat,2022,36,1023,250,24.44,19.47,29.62,22.96,16.28,1.5,AAPL,8.0
+D3,D3.04,Justification,exchanges whose question raised a threat,2022,36,1023,132,12.9,10.41,15.52,13.54,12.47,1.03,GS,6.8
+D3,D3.05,Minimization,exchanges whose question raised a threat,2022,36,1023,116,11.34,8.75,14.13,11.6,12.62,0.9,JPM,11.2
+D3,D3.06,Bolstering,exchanges whose question raised a threat,2022,36,1023,413,40.37,35.95,45.52,44.0,39.4,1.02,SHW,5.8
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,2022,36,1023,0,0.0,0.0,0.0,0.0,0.16,0.0,,
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,2022,36,1023,19,1.86,0.85,3.15,1.64,1.79,1.04,INTC,26.3
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,2022,36,1023,1,0.1,0.0,0.34,0.1,0.19,0.5,PFE,100.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,2022,36,1023,4,0.39,0.0,1.23,0.21,0.42,0.93,MMM,100.0
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,2022,36,1023,190,18.57,14.65,22.9,18.53,15.22,1.22,SHW,9.5
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,2022,36,1023,2,0.2,0.0,0.45,0.09,0.32,0.61,BA,50.0
+D5,D5.01,Acknowledgment,all exchanges,2022,36,2188,64,2.93,2.13,3.88,3.23,2.26,1.29,UNH,9.4
+D5,D5.02,Empathy,all exchanges,2022,36,2188,14,0.64,0.3,1.05,0.67,0.26,2.46,BA,14.3
+D5,D5.03,Validation,all exchanges,2022,36,2188,38,1.74,1.22,2.28,1.61,1.29,1.35,GS,10.5
+D5,D5.04,Gratitude,all exchanges,2022,36,2188,21,0.96,0.51,1.57,1.29,0.8,1.2,GE,19.0
+D5,D5.05,Invitation to dialogue,all exchanges,2022,36,2188,17,0.78,0.34,1.33,0.93,0.79,0.99,JNJ,23.5
+D5,D5.06,Consultation,all exchanges,2022,36,2188,10,0.46,0.13,0.89,0.51,0.55,0.83,HD,30.0
+D5,D5.07,Collaborative problem-solving,all exchanges,2022,36,2188,86,3.93,2.99,4.97,4.23,3.02,1.3,KO,9.3
+D5,D5.08,Feedback incorporation,all exchanges,2022,36,2188,8,0.37,0.14,0.66,0.39,0.61,0.6,CRM,25.0
+D6,D6.01,Problem definition,all exchanges,2022,36,2188,76,3.47,2.42,4.62,3.58,2.24,1.55,CAT,7.9
+D6,D6.02,Causal framing,all exchanges,2022,36,2188,760,34.73,31.53,38.29,36.18,30.24,1.15,SHW,6.1
+D6,D6.03,Responsibility framing,all exchanges,2022,36,2188,11,0.5,0.2,0.89,0.64,0.36,1.39,INTC,27.3
+D6,D6.04,Risk framing,all exchanges,2022,36,2188,187,8.55,6.23,10.92,8.53,4.94,1.73,JPM,13.4
+D6,D6.05,Opportunity framing,all exchanges,2022,36,2188,676,30.9,25.68,36.88,36.23,29.48,1.05,GS,5.6
+D6,D6.06,Economic framing,all exchanges,2022,36,2188,599,27.38,23.05,32.49,29.26,24.97,1.1,XOM,7.3
+D6,D6.07,Moral framing,all exchanges,2022,36,2188,14,0.64,0.26,1.11,0.69,0.53,1.21,WBA,21.4
+D6,D6.08,Legal or regulatory framing,all exchanges,2022,36,2188,68,3.11,1.6,4.84,2.65,3.46,0.9,MMM,19.1
+D6,D6.09,Solution framing,all exchanges,2022,36,2188,433,19.79,16.53,23.5,22.25,14.79,1.34,SHW,7.6
+D8,D8.02,Investigation commitment,all exchanges,2022,36,2188,12,0.55,0.05,1.2,0.58,0.5,1.1,MRK,33.3
+D8,D8.03,Conditional commitment,all exchanges,2022,36,2188,144,6.58,5.13,8.04,6.2,5.7,1.15,SHW,9.0
+D8,D8.04,Policy-change commitment,all exchanges,2022,36,2188,30,1.37,0.85,2.0,1.41,0.93,1.48,INTC,13.3
+D8,D8.05,Time-bound commitment,all exchanges,2022,36,2188,275,12.57,9.83,15.63,13.74,11.53,1.09,SHW,8.4
+D8,D8.06,Reported action underway,all exchanges,2022,36,2188,471,21.53,17.31,25.89,23.57,21.11,1.02,XOM,6.6
+D8,D8.07,Reported completed action,all exchanges,2022,36,2188,111,5.07,3.8,6.54,6.09,4.74,1.07,CVX,9.9
+D1,D1.01,Direct answer,all exchanges,2023,36,2153,1104,51.28,46.81,55.35,49.94,52.31,0.98,SHW,8.6
+D1,D1.02,Partial answer,all exchanges,2023,36,2153,847,39.34,34.89,44.18,41.86,35.09,1.12,AAPL,5.5
+D1,D1.03,Indirect answer,all exchanges,2023,36,2153,113,5.25,4.17,6.3,4.77,6.0,0.88,HD,10.6
+D1,D1.04,Tangential answer,all exchanges,2023,36,2153,23,1.07,0.6,1.59,1.01,1.21,0.88,BA,17.4
+D1,D1.05,Topic shift,all exchanges,2023,36,2153,38,1.76,1.34,2.22,1.93,1.91,0.92,JNJ,7.9
+D1,D1.06,Explicit refusal,all exchanges,2023,36,2153,201,9.34,7.29,11.55,9.13,9.42,0.99,TRV,9.5
+D1,D1.07,Stated inability,all exchanges,2023,36,2153,43,2.0,1.28,2.81,1.95,3.52,0.57,JPM,16.3
+D1,D1.08,Deferral,all exchanges,2023,36,2153,142,6.6,5.01,8.47,6.53,5.94,1.11,AMGN,9.9
+D1,D1.09,Clarification request,all exchanges,2023,36,2153,41,1.9,1.25,2.62,1.71,2.37,0.8,CSCO,12.2
+D1,D1.10,No observed response,all exchanges,2023,36,2153,6,0.28,0.04,0.59,0.31,0.96,0.29,HON,33.3
+D3,D3.01,Denial,exchanges whose question raised a threat,2023,36,992,20,2.02,1.07,3.15,2.22,1.97,1.03,AMGN,15.0
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,2023,36,992,4,0.4,0.09,0.78,0.39,0.45,0.9,BA,25.0
+D3,D3.03,Excuse,exchanges whose question raised a threat,2023,36,992,166,16.73,13.66,20.09,17.99,16.28,1.03,GS,9.6
+D3,D3.04,Justification,exchanges whose question raised a threat,2023,36,992,86,8.67,6.55,10.84,9.01,12.47,0.7,CVX,9.3
+D3,D3.05,Minimization,exchanges whose question raised a threat,2023,36,992,127,12.8,9.85,16.1,13.12,12.62,1.01,RTX,9.4
+D3,D3.06,Bolstering,exchanges whose question raised a threat,2023,36,992,417,42.04,37.36,47.34,44.74,39.4,1.07,SHW,7.0
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,2023,36,992,2,0.2,0.0,0.67,0.29,0.16,1.3,JNJ,100.0
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,2023,36,992,22,2.22,1.16,3.4,2.39,1.79,1.24,RTX,18.2
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,2023,36,992,1,0.1,0.0,0.32,0.07,0.19,0.52,BA,100.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,2023,36,992,3,0.3,0.0,0.81,0.31,0.42,0.72,MCD,66.7
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,2023,36,992,156,15.73,10.17,21.77,15.53,15.22,1.03,RTX,16.7
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,2023,36,992,3,0.3,0.0,0.76,0.16,0.32,0.94,RTX,66.7
+D5,D5.01,Acknowledgment,all exchanges,2023,36,2153,58,2.69,1.91,3.64,3.33,2.26,1.19,IBM,8.6
+D5,D5.02,Empathy,all exchanges,2023,36,2153,7,0.33,0.14,0.53,0.29,0.26,1.25,BA,14.3
+D5,D5.03,Validation,all exchanges,2023,36,2153,22,1.02,0.52,1.58,1.06,1.29,0.79,INTC,13.6
+D5,D5.04,Gratitude,all exchanges,2023,36,2153,21,0.98,0.39,1.77,1.32,0.8,1.22,CRM,23.8
+D5,D5.05,Invitation to dialogue,all exchanges,2023,36,2153,23,1.07,0.52,1.71,1.12,0.79,1.36,JNJ,17.4
+D5,D5.06,Consultation,all exchanges,2023,36,2153,8,0.37,0.16,0.62,0.39,0.55,0.68,BA,12.5
+D5,D5.07,Collaborative problem-solving,all exchanges,2023,36,2153,59,2.74,1.71,3.88,3.13,3.02,0.91,SHW,16.9
+D5,D5.08,Feedback incorporation,all exchanges,2023,36,2153,22,1.02,0.48,1.7,1.46,0.61,1.68,CRM,18.2
+D6,D6.01,Problem definition,all exchanges,2023,36,2153,63,2.93,2.0,3.97,3.66,2.24,1.31,BA,7.9
+D6,D6.02,Causal framing,all exchanges,2023,36,2153,727,33.77,30.46,37.04,34.83,30.24,1.12,SHW,6.5
+D6,D6.03,Responsibility framing,all exchanges,2023,36,2153,7,0.33,0.1,0.57,0.28,0.36,0.9,JPM,28.6
+D6,D6.04,Risk framing,all exchanges,2023,36,2153,127,5.9,3.86,8.5,5.84,4.94,1.2,JPM,21.3
+D6,D6.05,Opportunity framing,all exchanges,2023,36,2153,732,34.0,28.42,40.1,39.15,29.48,1.15,SHW,7.4
+D6,D6.06,Economic framing,all exchanges,2023,36,2153,591,27.45,22.67,32.85,31.09,24.97,1.1,SHW,7.1
+D6,D6.07,Moral framing,all exchanges,2023,36,2153,10,0.46,0.18,0.79,0.59,0.53,0.88,UNH,20.0
+D6,D6.08,Legal or regulatory framing,all exchanges,2023,36,2153,91,4.23,2.73,6.07,4.25,3.46,1.22,JPM,18.7
+D6,D6.09,Solution framing,all exchanges,2023,36,2153,375,17.42,14.0,21.32,20.71,14.79,1.18,RTX,6.1
+D8,D8.02,Investigation commitment,all exchanges,2023,36,2153,9,0.42,0.15,0.74,0.38,0.5,0.84,AMGN,22.2
+D8,D8.03,Conditional commitment,all exchanges,2023,36,2153,148,6.87,5.37,8.43,7.32,5.7,1.21,SHW,6.8
+D8,D8.04,Policy-change commitment,all exchanges,2023,36,2153,29,1.35,0.65,2.34,1.85,0.93,1.45,DIS,24.1
+D8,D8.05,Time-bound commitment,all exchanges,2023,36,2153,280,13.01,10.21,16.28,14.0,11.53,1.13,CVX,8.2
+D8,D8.06,Reported action underway,all exchanges,2023,36,2153,507,23.55,19.15,28.51,27.13,21.11,1.12,GS,6.1
+D8,D8.07,Reported completed action,all exchanges,2023,36,2153,127,5.9,4.35,7.58,6.87,4.74,1.24,GS,7.9
+D1,D1.01,Direct answer,all exchanges,2024,36,2025,966,47.7,43.31,51.88,46.55,52.31,0.91,MMM,6.2
+D1,D1.02,Partial answer,all exchanges,2024,36,2025,817,40.35,36.79,44.2,42.31,35.09,1.15,PFE,4.7
+D1,D1.03,Indirect answer,all exchanges,2024,36,2025,125,6.17,4.9,7.61,5.79,6.0,1.03,AAPL,10.4
+D1,D1.04,Tangential answer,all exchanges,2024,36,2025,38,1.88,1.12,2.72,1.93,1.21,1.55,AMGN,13.2
+D1,D1.05,Topic shift,all exchanges,2024,36,2025,55,2.72,1.92,3.65,2.88,1.91,1.42,PFE,12.7
+D1,D1.06,Explicit refusal,all exchanges,2024,36,2025,220,10.86,8.69,13.13,10.48,9.42,1.15,AAPL,7.7
+D1,D1.07,Stated inability,all exchanges,2024,36,2025,52,2.57,1.79,3.48,2.38,3.52,0.73,BA,13.5
+D1,D1.08,Deferral,all exchanges,2024,36,2025,150,7.41,5.58,9.38,7.12,5.94,1.25,MMM,10.0
+D1,D1.09,Clarification request,all exchanges,2024,36,2025,40,1.98,1.35,2.62,1.99,2.37,0.83,MMM,10.0
+D1,D1.10,No observed response,all exchanges,2024,36,2025,13,0.64,0.27,1.07,0.63,0.96,0.67,T,23.1
+D3,D3.01,Denial,exchanges whose question raised a threat,2024,36,890,11,1.24,0.52,2.05,1.19,1.97,0.63,PG,27.3
+D3,D3.02,Shifting blame,exchanges whose question raised a threat,2024,36,890,3,0.34,0.0,0.75,0.47,0.45,0.75,CVX,33.3
+D3,D3.03,Excuse,exchanges whose question raised a threat,2024,36,890,148,16.63,13.03,20.57,17.18,16.28,1.02,PG,10.8
+D3,D3.04,Justification,exchanges whose question raised a threat,2024,36,890,99,11.12,8.39,14.14,11.39,12.47,0.89,INTC,9.1
+D3,D3.05,Minimization,exchanges whose question raised a threat,2024,36,890,117,13.15,10.22,16.35,14.1,12.62,1.04,UNH,7.7
+D3,D3.06,Bolstering,exchanges whose question raised a threat,2024,36,890,388,43.6,38.34,48.75,46.26,39.4,1.11,PG,6.7
+D3,D3.07,Attacking the accuser,exchanges whose question raised a threat,2024,36,890,1,0.11,0.0,0.36,0.1,0.16,0.72,PFE,100.0
+D3,D3.08,Responsibility acknowledgment,exchanges whose question raised a threat,2024,36,890,25,2.81,1.41,4.37,2.7,1.79,1.57,BA,20.0
+D3,D3.09,Apology or mortification,exchanges whose question raised a threat,2024,36,890,2,0.22,0.0,0.54,0.15,0.19,1.15,BA,50.0
+D3,D3.10,Compensation,exchanges whose question raised a threat,2024,36,890,8,0.9,0.0,2.49,0.56,0.42,2.15,RTX,75.0
+D3,D3.11,Corrective-action communication,exchanges whose question raised a threat,2024,36,890,190,21.35,14.84,28.59,19.02,15.22,1.4,RTX,12.6
+D3,D3.12,Renewal-oriented communication,exchanges whose question raised a threat,2024,36,890,5,0.56,0.0,1.24,0.47,0.32,1.75,BA,40.0
+D5,D5.01,Acknowledgment,all exchanges,2024,36,2025,60,2.96,2.09,3.9,3.01,2.26,1.31,JPM,8.3
+D5,D5.02,Empathy,all exchanges,2024,36,2025,4,0.2,0.05,0.4,0.24,0.26,0.76,AXP,25.0
+D5,D5.03,Validation,all exchanges,2024,36,2025,28,1.38,0.87,1.96,1.33,1.29,1.07,JPM,14.3
+D5,D5.04,Gratitude,all exchanges,2024,36,2025,22,1.09,0.53,1.78,1.48,0.8,1.36,JNJ,18.2
+D5,D5.05,Invitation to dialogue,all exchanges,2024,36,2025,18,0.89,0.36,1.55,0.97,0.79,1.13,JNJ,22.2
+D5,D5.06,Consultation,all exchanges,2024,36,2025,12,0.59,0.25,1.03,0.64,0.55,1.08,MCD,25.0
+D5,D5.07,Collaborative problem-solving,all exchanges,2024,36,2025,60,2.96,1.73,4.55,3.38,3.02,0.98,MCD,15.0
+D5,D5.08,Feedback incorporation,all exchanges,2024,36,2025,17,0.84,0.36,1.36,1.16,0.61,1.38,BA,17.6
+D6,D6.01,Problem definition,all exchanges,2024,36,2025,66,3.26,2.36,4.32,3.65,2.24,1.46,KO,7.6
+D6,D6.02,Causal framing,all exchanges,2024,36,2025,678,33.48,29.79,37.2,34.72,30.24,1.11,CSCO,4.6
+D6,D6.03,Responsibility framing,all exchanges,2024,36,2025,9,0.44,0.09,1.03,0.45,0.36,1.22,BA,55.6
+D6,D6.04,Risk framing,all exchanges,2024,36,2025,85,4.2,2.72,5.89,3.86,4.94,0.85,JPM,17.6
+D6,D6.05,Opportunity framing,all exchanges,2024,36,2025,672,33.19,27.57,39.05,37.31,29.48,1.13,SHW,5.7
+D6,D6.06,Economic framing,all exchanges,2024,36,2025,558,27.56,22.94,33.32,30.68,24.97,1.1,VZ,5.4
+D6,D6.07,Moral framing,all exchanges,2024,36,2025,13,0.64,0.34,1.0,0.73,0.53,1.21,GE,15.4
+D6,D6.08,Legal or regulatory framing,all exchanges,2024,36,2025,68,3.36,2.03,4.76,2.89,3.46,0.97,CVX,14.7
+D6,D6.09,Solution framing,all exchanges,2024,36,2025,359,17.73,13.95,22.42,19.77,14.79,1.2,RTX,8.1
+D8,D8.02,Investigation commitment,all exchanges,2024,36,2025,12,0.59,0.24,1.02,0.51,0.5,1.19,MMM,25.0
+D8,D8.03,Conditional commitment,all exchanges,2024,36,2025,129,6.37,4.95,7.86,6.14,5.7,1.12,SHW,8.5
+D8,D8.04,Policy-change commitment,all exchanges,2024,36,2025,24,1.19,0.64,1.8,1.17,0.93,1.28,MMM,16.7
+D8,D8.05,Time-bound commitment,all exchanges,2024,36,2025,273,13.48,11.12,16.1,14.4,11.53,1.17,MMM,8.1
+D8,D8.06,Reported action underway,all exchanges,2024,36,2025,537,26.52,22.26,31.35,28.64,21.11,1.26,MMM,6.5
+D8,D8.07,Reported completed action,all exchanges,2024,36,2025,134,6.62,5.15,8.3,7.67,4.74,1.4,XOM,8.2

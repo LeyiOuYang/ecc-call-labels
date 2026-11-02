@@ -1,0 +1,109 @@
+sector,area_id,research_area,sector_companies,sector_exchanges,area_exchanges,pct_of_sector_exchanges,pct_company_mean,pct_all_sectors,ratio_to_all_sectors,pct_of_sector_labeled_exchanges,pct_of_all_labeled_exchanges,companies_with_label,companies_above_overall,top_company,top_company_share
+Communication Services,01,Strategic management & systems,3,1022,33,3.23,4.67,2.57,1.26,20.8,20.5,3,3,VZ,54.5
+Communication Services,02,Publics & PUBLIC OPINION,3,1022,3,0.29,0.21,0.17,1.74,1.9,1.3,1,1,DIS,100.0
+Communication Services,03,"Media, issues & framing",3,1022,38,3.72,5.04,3.19,1.17,23.9,25.5,3,2,DIS,52.6
+Communication Services,04,Relationships & dialogue,3,1022,33,3.23,4.69,3.22,1.0,20.8,25.8,3,2,DIS,48.5
+Communication Services,05,"Issues, risk & crisis",3,1022,12,1.17,0.81,1.67,0.7,7.5,13.3,2,0,DIS,58.3
+Communication Services,06,"Reputation, image & legitimacy",3,1022,45,4.4,5.49,2.97,1.48,28.3,23.7,3,3,DIS,48.9
+Communication Services,07,"Rhetoric, discourse & meaning",3,1022,48,4.7,5.67,2.84,1.66,30.2,22.7,3,3,VZ,52.1
+Communication Services,08,"Critical, cultural & power",3,1022,0,0.0,0.0,0.02,0.0,0.0,0.2,0,0,,
+Communication Services,09,"Digital, networked & AI",3,1022,3,0.29,0.21,0.31,0.96,1.9,2.5,1,1,DIS,100.0
+Communication Services,10,Internal & employee communication,3,1022,2,0.2,0.13,0.35,0.56,1.3,2.8,2,0,DIS,50.0
+Communication Services,11,"Global, intercultural & diplomacy",3,1022,5,0.49,0.36,0.32,1.52,3.1,2.6,1,1,DIS,100.0
+Communication Services,12,"Ethics, citizenship & advocacy",3,1022,11,1.08,0.72,1.26,0.85,6.9,10.1,2,1,VZ,63.6
+Consumer Discretionary,01,Strategic management & systems,4,1956,43,2.2,2.35,2.57,0.86,18.6,20.5,3,2,MCD,62.8
+Consumer Discretionary,02,Publics & PUBLIC OPINION,4,1956,4,0.2,0.18,0.17,1.21,1.7,1.3,2,1,MCD,75.0
+Consumer Discretionary,03,"Media, issues & framing",4,1956,26,1.33,1.24,3.19,0.42,11.3,25.5,3,1,MCD,61.5
+Consumer Discretionary,04,Relationships & dialogue,4,1956,102,5.21,6.64,3.22,1.62,44.2,25.8,4,3,MCD,59.8
+Consumer Discretionary,05,"Issues, risk & crisis",4,1956,8,0.41,0.4,1.67,0.25,3.5,13.3,3,0,MCD,75.0
+Consumer Discretionary,06,"Reputation, image & legitimacy",4,1956,54,2.76,2.86,2.97,0.93,23.4,23.7,3,2,MCD,66.7
+Consumer Discretionary,07,"Rhetoric, discourse & meaning",4,1956,23,1.18,1.21,2.84,0.41,10.0,22.7,3,1,MCD,69.6
+Consumer Discretionary,08,"Critical, cultural & power",4,1956,0,0.0,0.0,0.02,0.0,0.0,0.2,0,0,,
+Consumer Discretionary,09,"Digital, networked & AI",4,1956,21,1.07,1.22,0.31,3.49,9.1,2.5,3,2,NKE,57.1
+Consumer Discretionary,10,Internal & employee communication,4,1956,10,0.51,0.51,0.35,1.47,4.3,2.8,3,1,MCD,80.0
+Consumer Discretionary,11,"Global, intercultural & diplomacy",4,1956,16,0.82,1.03,0.32,2.54,6.9,2.6,2,2,NKE,81.2
+Consumer Discretionary,12,"Ethics, citizenship & advocacy",4,1956,14,0.72,0.73,1.26,0.57,6.1,10.1,3,1,MCD,57.1
+Consumer Staples,01,Strategic management & systems,4,1803,43,2.38,2.58,2.57,0.93,18.7,20.5,4,1,PG,27.9
+Consumer Staples,02,Publics & PUBLIC OPINION,4,1803,6,0.33,0.34,0.17,1.97,2.6,1.3,2,2,PG,66.7
+Consumer Staples,03,"Media, issues & framing",4,1803,31,1.72,1.93,3.19,0.54,13.5,25.5,4,0,PG,29.0
+Consumer Staples,04,Relationships & dialogue,4,1803,58,3.22,3.71,3.22,1.0,25.2,25.8,4,2,WBA,32.8
+Consumer Staples,05,"Issues, risk & crisis",4,1803,21,1.16,1.25,1.67,0.7,9.1,13.3,4,1,PG,33.3
+Consumer Staples,06,"Reputation, image & legitimacy",4,1803,53,2.94,3.13,2.97,0.99,23.0,23.7,4,2,PG,41.5
+Consumer Staples,07,"Rhetoric, discourse & meaning",4,1803,39,2.16,1.95,2.84,0.76,17.0,22.7,4,1,PG,59.0
+Consumer Staples,08,"Critical, cultural & power",4,1803,0,0.0,0.0,0.02,0.0,0.0,0.2,0,0,,
+Consumer Staples,09,"Digital, networked & AI",4,1803,21,1.16,1.04,0.31,3.79,9.1,2.5,4,4,PG,66.7
+Consumer Staples,10,Internal & employee communication,4,1803,17,0.94,0.89,0.35,2.72,7.4,2.8,4,4,KO,47.1
+Consumer Staples,11,"Global, intercultural & diplomacy",4,1803,5,0.28,0.21,0.32,0.86,2.2,2.6,1,1,PG,100.0
+Consumer Staples,12,"Ethics, citizenship & advocacy",4,1803,32,1.77,1.95,1.26,1.4,13.9,10.1,4,4,KO,25.0
+Energy,01,Strategic management & systems,2,1821,52,2.86,2.82,2.57,1.11,27.8,20.5,2,1,CVX,71.2
+Energy,02,Publics & PUBLIC OPINION,2,1821,0,0.0,0.0,0.17,0.0,0.0,1.3,0,0,,
+Energy,03,"Media, issues & framing",2,1821,62,3.4,3.36,3.19,1.07,33.2,25.5,2,1,CVX,74.2
+Energy,04,Relationships & dialogue,2,1821,28,1.54,1.54,3.22,0.48,15.0,25.8,2,0,CVX,50.0
+Energy,05,"Issues, risk & crisis",2,1821,23,1.26,1.24,1.67,0.76,12.3,13.3,2,1,CVX,78.3
+Energy,06,"Reputation, image & legitimacy",2,1821,50,2.75,2.73,2.97,0.92,26.7,23.7,2,1,CVX,60.0
+Energy,07,"Rhetoric, discourse & meaning",2,1821,41,2.25,2.26,2.84,0.79,21.9,22.7,2,0,XOM,56.1
+Energy,08,"Critical, cultural & power",2,1821,0,0.0,0.0,0.02,0.0,0.0,0.2,0,0,,
+Energy,09,"Digital, networked & AI",2,1821,0,0.0,0.0,0.31,0.0,0.0,2.5,0,0,,
+Energy,10,Internal & employee communication,2,1821,4,0.22,0.21,0.35,0.63,2.1,2.8,1,1,CVX,100.0
+Energy,11,"Global, intercultural & diplomacy",2,1821,5,0.27,0.27,0.32,0.85,2.7,2.6,2,0,CVX,60.0
+Energy,12,"Ethics, citizenship & advocacy",2,1821,35,1.92,1.88,1.26,1.52,18.7,10.1,2,1,CVX,85.7
+Financials,01,Strategic management & systems,5,4473,121,2.71,2.97,2.57,1.05,22.0,20.5,5,3,V,28.1
+Financials,02,Publics & PUBLIC OPINION,5,4473,2,0.04,0.05,0.17,0.27,0.4,1.3,2,1,AXP,50.0
+Financials,03,"Media, issues & framing",5,4473,154,3.44,3.35,3.19,1.08,28.0,25.5,5,2,JPM,47.4
+Financials,04,Relationships & dialogue,5,4473,172,3.85,4.43,3.22,1.19,31.3,25.8,5,3,GS,33.7
+Financials,05,"Issues, risk & crisis",5,4473,72,1.61,1.61,1.67,0.97,13.1,13.3,5,1,JPM,26.4
+Financials,06,"Reputation, image & legitimacy",5,4473,107,2.39,2.6,2.97,0.81,19.5,23.7,5,2,GS,32.7
+Financials,07,"Rhetoric, discourse & meaning",5,4473,123,2.75,2.62,2.84,0.97,22.4,22.7,5,3,GS,33.3
+Financials,08,"Critical, cultural & power",5,4473,0,0.0,0.0,0.02,0.0,0.0,0.2,0,0,,
+Financials,09,"Digital, networked & AI",5,4473,3,0.07,0.09,0.31,0.22,0.5,2.5,3,0,AXP,33.3
+Financials,10,Internal & employee communication,5,4473,4,0.09,0.07,0.35,0.26,0.7,2.8,3,0,TRV,50.0
+Financials,11,"Global, intercultural & diplomacy",5,4473,7,0.16,0.26,0.32,0.49,1.3,2.6,1,1,V,100.0
+Financials,12,"Ethics, citizenship & advocacy",5,4473,24,0.54,0.47,1.26,0.42,4.4,10.1,5,1,JPM,75.0
+Health Care,01,Strategic management & systems,5,2325,94,4.04,4.09,2.57,1.57,17.7,20.5,5,4,MRK,27.7
+Health Care,02,Publics & PUBLIC OPINION,5,2325,11,0.47,0.57,0.17,2.81,2.1,1.3,5,5,AMGN,27.3
+Health Care,03,"Media, issues & framing",5,2325,193,8.3,8.68,3.19,2.6,36.3,25.5,5,5,PFE,28.0
+Health Care,04,Relationships & dialogue,5,2325,86,3.7,3.69,3.22,1.15,16.2,25.8,5,3,UNH,40.7
+Health Care,05,"Issues, risk & crisis",5,2325,102,4.39,4.49,1.67,2.63,19.2,13.3,5,5,JNJ,37.3
+Health Care,06,"Reputation, image & legitimacy",5,2325,141,6.06,6.21,2.97,2.04,26.5,23.7,5,5,PFE,26.2
+Health Care,07,"Rhetoric, discourse & meaning",5,2325,121,5.2,5.81,2.84,1.84,22.7,22.7,5,4,PFE,28.1
+Health Care,08,"Critical, cultural & power",5,2325,1,0.04,0.07,0.02,1.74,0.2,0.2,1,1,AMGN,100.0
+Health Care,09,"Digital, networked & AI",5,2325,9,0.39,0.46,0.31,1.26,1.7,2.5,4,3,PFE,44.4
+Health Care,10,Internal & employee communication,5,2325,4,0.17,0.16,0.35,0.5,0.8,2.8,3,0,UNH,50.0
+Health Care,11,"Global, intercultural & diplomacy",5,2325,12,0.52,0.48,0.32,1.6,2.3,2.6,5,3,UNH,41.7
+Health Care,12,"Ethics, citizenship & advocacy",5,2325,61,2.62,2.37,1.26,2.08,11.5,10.1,4,3,UNH,50.8
+Industrials,01,Strategic management & systems,6,3612,87,2.41,2.03,2.57,0.94,25.6,20.5,6,1,BA,74.7
+Industrials,02,Publics & PUBLIC OPINION,6,3612,5,0.14,0.14,0.17,0.82,1.5,1.3,3,2,BA,40.0
+Industrials,03,"Media, issues & framing",6,3612,75,2.08,1.73,3.19,0.65,22.1,25.5,5,1,BA,53.3
+Industrials,04,Relationships & dialogue,6,3612,75,2.08,1.78,3.22,0.64,22.1,25.8,6,1,BA,52.0
+Industrials,05,"Issues, risk & crisis",6,3612,64,1.77,1.5,1.67,1.06,18.8,13.3,5,1,BA,57.8
+Industrials,06,"Reputation, image & legitimacy",6,3612,82,2.27,2.04,2.97,0.76,24.1,23.7,6,1,BA,52.4
+Industrials,07,"Rhetoric, discourse & meaning",6,3612,113,3.13,2.64,2.84,1.1,33.2,22.7,6,2,BA,49.6
+Industrials,08,"Critical, cultural & power",6,3612,2,0.06,0.06,0.02,2.23,0.6,0.2,2,2,BA,50.0
+Industrials,09,"Digital, networked & AI",6,3612,0,0.0,0.0,0.31,0.0,0.0,2.5,0,0,,
+Industrials,10,Internal & employee communication,6,3612,14,0.39,0.38,0.35,1.12,4.1,2.8,3,2,BA,64.3
+Industrials,11,"Global, intercultural & diplomacy",6,3612,8,0.22,0.2,0.32,0.69,2.4,2.6,3,2,BA,50.0
+Industrials,12,"Ethics, citizenship & advocacy",6,3612,29,0.8,0.87,1.26,0.64,8.5,10.1,4,1,CAT,34.5
+Information Technology,01,Strategic management & systems,7,2805,34,1.21,2.66,2.57,0.47,13.9,20.5,7,2,AAPL,35.3
+Information Technology,02,Publics & PUBLIC OPINION,7,2805,3,0.11,0.07,0.17,0.63,1.2,1.3,2,1,INTC,66.7
+Information Technology,03,"Media, issues & framing",7,2805,48,1.71,1.28,3.19,0.54,19.6,25.5,6,1,AAPL,47.9
+Information Technology,04,Relationships & dialogue,7,2805,91,3.24,4.28,3.22,1.01,37.1,25.8,6,3,CSCO,20.9
+Information Technology,05,"Issues, risk & crisis",7,2805,23,0.82,1.11,1.67,0.49,9.4,13.3,6,1,CRM,21.7
+Information Technology,06,"Reputation, image & legitimacy",7,2805,64,2.28,3.63,2.97,0.77,26.1,23.7,7,2,AAPL,29.7
+Information Technology,07,"Rhetoric, discourse & meaning",7,2805,58,2.07,3.03,2.84,0.73,23.7,22.7,7,2,AAPL,46.6
+Information Technology,08,"Critical, cultural & power",7,2805,2,0.07,0.04,0.02,2.88,0.8,0.2,1,1,INTC,100.0
+Information Technology,09,"Digital, networked & AI",7,2805,5,0.18,0.44,0.31,0.58,2.0,2.5,3,1,CRM,60.0
+Information Technology,10,Internal & employee communication,7,2805,15,0.53,0.92,0.35,1.54,6.1,2.8,4,4,CRM,33.3
+Information Technology,11,"Global, intercultural & diplomacy",7,2805,6,0.21,0.16,0.32,0.66,2.4,2.6,4,1,AAPL,50.0
+Information Technology,12,"Ethics, citizenship & advocacy",7,2805,23,0.82,0.66,1.26,0.65,9.4,10.1,5,1,AAPL,69.6
+Materials,01,Strategic management & systems,1,355,11,3.1,3.1,2.57,1.21,22.0,20.5,1,1,DOW,100.0
+Materials,02,Publics & PUBLIC OPINION,1,355,0,0.0,0.0,0.17,0.0,0.0,1.3,0,0,,
+Materials,03,"Media, issues & framing",1,355,16,4.51,4.51,3.19,1.41,32.0,25.5,1,1,DOW,100.0
+Materials,04,Relationships & dialogue,1,355,5,1.41,1.41,3.22,0.44,10.0,25.8,1,0,DOW,100.0
+Materials,05,"Issues, risk & crisis",1,355,11,3.1,3.1,1.67,1.86,22.0,13.3,1,1,DOW,100.0
+Materials,06,"Reputation, image & legitimacy",1,355,3,0.85,0.85,2.97,0.28,6.0,23.7,1,0,DOW,100.0
+Materials,07,"Rhetoric, discourse & meaning",1,355,6,1.69,1.69,2.84,0.6,12.0,22.7,1,0,DOW,100.0
+Materials,08,"Critical, cultural & power",1,355,0,0.0,0.0,0.02,0.0,0.0,0.2,0,0,,
+Materials,09,"Digital, networked & AI",1,355,0,0.0,0.0,0.31,0.0,0.0,2.5,0,0,,
+Materials,10,Internal & employee communication,1,355,0,0.0,0.0,0.35,0.0,0.0,2.8,0,0,,
+Materials,11,"Global, intercultural & diplomacy",1,355,1,0.28,0.28,0.32,0.87,2.0,2.6,1,0,DOW,100.0
+Materials,12,"Ethics, citizenship & advocacy",1,355,26,7.32,7.32,1.26,5.79,52.0,10.1,1,1,DOW,100.0
